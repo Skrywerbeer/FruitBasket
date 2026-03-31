@@ -25,9 +25,28 @@ public class ProductProvider(IProductRepository repository)
 			select product;
 	}
 
+	public IEnumerable<Product> Similar(Product product)
+	{
+		string[] parts = product.Name.Split(' ');
+		List<Product> similarProducts = new();
+		foreach (Product p in _products)
+		{
+			foreach (string part in parts)
+			{
+				if (p.Name.Contains(part))
+				{
+					similarProducts.Add(p);
+					break;
+				}
+			}
+		}
+
+		return similarProducts;
+	}
+
 	public void Load()
 	{
-		throw new NotImplementedException();
+		_products = repository.All();
 	}
 
 	public async Task LoadAsync()
