@@ -12,15 +12,7 @@
     {
       if (product is null)
         continue;
-      <a href="@product.ItemUrl" target="_blank">
-        <li class="@product.Retailer">
-          <img src="@product.ImgUrl"/>
-          <div>
-            <p>@product.Name</p>
-            <p>R @product.Price</p>
-          </div>
-        </li>
-      </a>
+      <ProductCard Product="@product" />
     }
   </ul>
 </section>
