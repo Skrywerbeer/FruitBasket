@@ -7,7 +7,8 @@ public class ProductJsonRepository : IProductRepository
 {
 	public readonly string[] JsonDirectorys = [
 		"data/Checkers",
-		"data/Woolworths"
+		"data/Woolworths",
+		"data/PnP"
 	];
 
 	private Dictionary<string, List<Product>> _Products { get; set; } = new();

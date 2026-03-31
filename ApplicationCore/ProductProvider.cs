@@ -27,7 +27,7 @@ public class ProductProvider(IProductRepository repository)
 
 	public void Load()
 	{
-		
+		throw new NotImplementedException();
 	}
 
 	public async Task LoadAsync()

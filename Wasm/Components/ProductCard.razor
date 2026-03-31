@@ -1,9 +1,13 @@
 @using Infrastructure
 
 <li class="@Product.Retailer">
+  <svg>
+    
+  </svg>
   <img src="@Product.ImgUrl"/>
   <div>
-    <a href="@Product.ItemUrl" target="_blank"><h3>@Product.Retailer</h3></a> 
+    <a href="@Product.ItemUrl" target="_blank">
+      <h3>@Product.Retailer</h3></a>
     <p>@Product.Name</p>
     <p>R @Product.Price</p>
   </div>

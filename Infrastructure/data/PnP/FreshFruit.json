@@ -1,0 +1,716 @@
+[
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Kids Small Bananas",
+    "price": 22.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hcd/hd4/10772529250334/silo-product-image-v2-15Mar2022-180504-6009219010200-Straight_on-12204-21624_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-kids-small-bananas/p/000000000000850200_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Bananas Box 1.2kg",
+    "price": 44.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hfc/he0/11513247662110/silo-product-image-v2-02Nov2024-180044-6001007291778-Straight_on-262558-416_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-bananas-box-1.2kg/p/000000000000638964_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP White Seedless Grapes 500g",
+    "price": 42.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hc5/hfc/12100518248478/silo-product-image-v2-20May2025-180217-6001007071547-Straight_on-320251-799_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-white-seedless-grapes-500g/p/000000000000198497_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Kidz Red Apples 1kg",
+    "price": 26.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hdf/h65/11187006341150/silo-product-image-v2-01Jun2023-181712-6001007301668-Straight_on-138625-3440_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-kidz-red-apples-1kg/p/000000000000672959_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Red Seedless Grapes 500g",
+    "price": 39.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hc4/h2d/14356526759966/silo-product-image-v2-09Aug2025-180046-6001007071554-Straight_on-341838-689_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-red-seedless-grapes-500g/p/000000000000249770_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Fresh Bananas 900g",
+    "price": 39.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hcc/h59/10898377736222/silo-product-image-v2-12Jul2022-180145-6009219506895-Straight_on-48898-6278_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-fresh-bananas-900g/p/000000000000835997_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Soft Citrus 1kg",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h97/h06/14218968629278/silo-product-image-v2-06Aug2025-180048-6001007064112-Straight_on-339818-81_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-soft-citrus-1kg/p/000000000000185362_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Golden Delicious Apples 1.5kg",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h20/h51/11187062898718/silo-product-image-v2-01Jun2023-181732-6001007300845-Straight_on-138323-3526_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-golden-delicious-apples-1.5kg/p/000000000000672908_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Ripen At Home Yellow Flesh Nectarine 750g",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h2b/h93/11042169487390/silo-product-image-v2-07Dec2022-180118-6001007024246-Straight_on-80032-3183_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-ripen-at-home-yellow-flesh-nectarine-750g/p/000000000000119512_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Bananas Packet",
+    "price": 39.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hab/h25/10901831024670/silo-product-image-v2-15Jul2022-180112-6001007063023-Straight_on-49733-7644_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-bananas-packet/p/000000000000141610_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Kiwi Fruit",
+    "price": 12.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hd2/ha6/45129759031326/silo-product-image-v2-03Mar2026-180119-2001353000000-Straight_on-410710-204_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-kiwi-fruit/p/000000000000237898_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Nectarine Zip Bag",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h3d/hd8/11362073804830/silo-product-image-v2-13Feb2024-180131-6009229398435-Straight_on-204250-2088_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-nectarine-zip-bag/p/000000000000936936_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Mango Ripe and Ready 2 Pack",
+    "price": 39.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h09/h99/28801972928542/silo-product-image-v2-13Nov2025-180039-6009218702489-Straight_on-371696-170_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-mango-ripe-and-ready-2-pack/p/000000000000872291_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Packham Pears 1.5kg",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h74/h25/11186962497566/silo-product-image-v2-01Jun2023-181656-6001007301613-Straight_on-138331-3371_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-packham-pears-1.5kg/p/000000000000672956_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Queen Pineapple",
+    "price": 26.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h76/h1f/10898454216734/silo-product-image-v2-12Jul2022-180153-6001007082772-Straight_on-48755-6438_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-queen-pineapple/p/000000000000264103_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Soft Citrus Half Tray",
+    "price": 54.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h63/hb5/11470038171678/silo-product-image-v2-21Aug2024-180105-6001007494773-Straight_on-242480-1087_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-soft-citrus-half-tray/p/000000000000730459_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Cling Peach Bag",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/ha8/h8c/11575915872286/silo-product-image-v2-11Feb2025-180111-6009229398381-Straight_on-290372-1481_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-cling-peach-bag/p/000000000000936578_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Royal Gala Apples 1.5kg",
+    "price": 39.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h18/h53/11186653855774/silo-product-image-v2-01Jun2023-181503-6001007301132-Straight_on-138329-2873_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-royal-gala-apples-1.5kg/p/000000000000672934_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Lemons 850g",
+    "price": 36.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h1e/h75/12162268725278/silo-product-image-v2-24May2025-180031-6001000003705-Straight_on-327081-3_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-lemons-850g/p/000000000000755943_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Kidz Yellow Apples 1kg",
+    "price": 26.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h6c/h2b/11126010282014/silo-product-image-v2-16Mar2023-184651-6001007301309-Straight_on-103811-10636_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-kidz-yellow-apples-1kg/p/000000000000672944_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Quarter Watermelon",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h50/hb1/29217340915742/silo-product-image-v2-20Nov2025-180028-2001707000000-Straight_on-377004-604_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-quarter-watermelon/p/000000000000718946_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Mango 1/2 Tray",
+    "price": 59.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h27/h21/11386351747102/silo-product-image-v2-19Mar2024-094119-6001007072872-Straight_on-202316-2144_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-mango-1-2-tray/p/000000000000231397_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Blueberries on the Run 125g",
+    "price": 46.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h9d/h99/16496212181022/silo-product-image-v2-17Sep2025-180045-6001000482722-Straight_on-353010-1_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-blueberries-on-the-run-125g/p/000000000000800063_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Red Seedles Grapes",
+    "price": 25,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h4f/ha5/11912785133598/silo-product-image-v2-03May2025-180040-6009229397247-Straight_on-317002-411_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-red-seedles-grapes/p/000000000000983305_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Passion Watermelon 300g",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h2c/h3c/11598166556702/silo-product-image-v2-06Mar2025-182413-6001000488915-Straight_on-295819-113_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-passion-watermelon-300g/p/000000000000805714_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Ripen At Home Cling Peaches Punnet 750g",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h42/hd8/11366139625502/silo-product-image-v2-19Feb2024-100048-6002007007345-Straight_on-205551-2292_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-ripen-at-home-cling-peaches-punnet-750g/p/000000000000137582_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Plum Zip Bag",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h8c/ha5/11384618123294/silo-product-image-v2-15Mar2024-180143-6009229398442-Straight_on-215278-952_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-plum-zip-bag/p/000000000000936937_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Strawberry 250g",
+    "price": 62.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h55/h00/10971254718494/silo-product-image-v2-05Oct2022-180143-6009218352646-Straight_on-61067-1867_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-strawberry-250g/p/000000000000890322_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Pineapple for Me",
+    "price": 39.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hf4/h9b/11598165835806/silo-product-image-v2-06Mar2025-182414-6001000488892-Straight_on-295815-116_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-pineapple-for-me/p/000000000000805707_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Kidz Pears 1kg",
+    "price": 19.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h1a/h39/10989897056286/silo-product-image-v2-21Oct2022-180318-6001007295387-Straight_on-65381-2250_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-kidz-pears-1kg/p/000000000000663316_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP White Seedles Grapes",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/ha7/h0e/12037021368350/silo-product-image-v2-15May2025-180030-6009229397254-Straight_on-319654-20_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-white-seedles-grapes/p/000000000000983313_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Blueberries for Me 200g",
+    "price": 64.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h46/h50/10898308202526/silo-product-image-v2-12Jul2022-180139-6001000482883-Straight_on-48732-6139_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-blueberries-for-me-200g/p/000000000000800214_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Ripen At Home Mango",
+    "price": 18.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h74/hc6/11122717491230/silo-product-image-v2-16Mar2023-182314-01000023-Straight_on-124962-5248_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-ripen-at-home-mango/p/000000000000334932_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Ripen At Home Plums",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/he9/hfa/14356515946526/silo-product-image-v2-09Aug2025-180045-6001007055356-Straight_on-341830-683_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-ripen-at-home-plums/p/000000000000242134_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Lemons",
+    "price": 36.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h86/ha8/11366170492958/silo-product-image-v2-19Feb2024-100056-6001007045098-Straight_on-204907-2337_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-lemons/p/000000000000178907_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Pnp Citrus Orange 1.5kg",
+    "price": 49.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hd2/hef/11470155907102/silo-product-image-v2-21Aug2024-180129-6009218454579-Straight_on-242592-1267_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-citrus-orange-1.5kg/p/000000000000884144_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Half Watermelon",
+    "price": 59.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h25/h82/11540250263582/silo-product-image-v2-13Dec2024-180059-2001706000000-Straight_on-277761-882_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-half-watermelon/p/000000000000718945_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Pineapples Punnet",
+    "price": 42.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h47/he2/14356523319326/silo-product-image-v2-09Aug2025-180045-6001007063375-Straight_on-341834-682_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-pineapples-punnet/p/000000000000144890_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Honey Red Apples 1kg",
+    "price": 36.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h9e/h90/14356527546398/silo-product-image-v2-09Aug2025-180048-6001007035631-Straight_on-341828-696_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-honey-red-apples-1kg/p/000000000000262130_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Kids Strawberries Snack 110g",
+    "price": 37.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/he0/had/11126208528414/silo-product-image-v2-16Mar2023-184801-6001000482616-Straight_on-101273-10944_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-kids-strawberries-snack-110g/p/000000000000800062_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Strawberries 250g",
+    "price": 52.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hcb/h81/10931894353950/silo-product-image-v2-26Aug2022-180107-6001007301224-Straight_on-53254-447_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-strawberries-250g/p/000000000000672941_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Ripen at Home Dessert Peaches Bag",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h8e/h41/11386144882718/silo-product-image-v2-19Mar2024-093954-6009229398411-Straight_on-201990-1821_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-ripen-at-home-dessert-peaches-bag/p/000000000000936579_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Top Red Apples 1.5kg",
+    "price": 46.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/he5/h8e/11186512396318/silo-product-image-v2-01Jun2023-181412-6001007301453-Straight_on-136596-2652_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-top-red-apples-1.5kg/p/000000000000672950_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Seedless Black Grapes 500g",
+    "price": 42.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h74/heb/12100495048734/silo-product-image-v2-20May2025-180217-6001007162313-Straight_on-320255-926_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-seedless-black-grapes-500g/p/000000000000357592_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Watermelon Slices",
+    "price": 19.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h13/hf8/11538895962142/silo-product-image-v2-11Dec2024-180046-2007094000000-Straight_on-276769-212_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-watermelon-slices/p/000000000000750076_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Nectarines Zip Bag",
+    "price": 48.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h25/h3d/11362071183390/silo-product-image-v2-13Feb2024-180130-6009229398466-Straight_on-204254-2085_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-nectarines-zip-bag/p/000000000000936939_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Melon Duo",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h36/h3e/30783410372638/silo-product-image-v2-13Dec2025-180031-6009218701307-Straight_on-384832-679_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-melon-duo/p/000000000000875494_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Pears Seasonal 1.5kg",
+    "price": 36.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/he8/h4e/11188979630110/silo-product-image-v2-01Jun2023-183230-6009229229272-Straight_on-148760-6550_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-pears-seasonal-1.5kg/p/000000000000917066_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Melons Spanspek",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h26/h3c/11398671958046/silo-product-image-v2-09Apr2024-170900-6001007082796-Straight_on-38014-1231_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-melons-spanspek/p/000000000000106822_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Oranges",
+    "price": 46.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hb5/h88/12100425547806/silo-product-image-v2-20May2025-180211-6001007062569-Straight_on-320249-764_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-oranges/p/000000000000151337_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Apples Seasonal 1.5kg",
+    "price": 36.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h5d/heb/11398096519198/silo-product-image-v2-09Apr2024-170157-6001007336141-Straight_on-215970-329_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-apples-seasonal-1.5kg/p/000000000000741766_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Dates 250g",
+    "price": 46.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h5e/ha6/10906343866398/silo-product-image-v2-21Jul2022-180124-6001007060046-Straight_on-50215-8735_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-dates-250g/p/000000000000218185_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Kiwi Bag",
+    "price": 59.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/he2/h6d/28024006279198/silo-product-image-v2-31Oct2025-180051-6001000489011-Straight_on-367872-875_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-kiwi-bag/p/000000000000805867_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Limes 350g",
+    "price": 42.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hc6/h40/11366108200990/silo-product-image-v2-19Feb2024-100041-6001007449483-Straight_on-205047-2243_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-limes-350g/p/000000000000729043_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Fruit Seasonal Salad For Me",
+    "price": 39.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/he9/h42/11598166360094/silo-product-image-v2-06Mar2025-182414-6009218012021-Straight_on-295875-115_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-fruit-seasonal-salad-for-me/p/000000000000909815_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Ripen At Home White Flesh Dessert Peaches 750g",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h21/hb4/11123319210014/silo-product-image-v2-16Mar2023-182829-6002007007376-Straight_on-129783-6213_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-ripen-at-home-white-flesh-dessert-peaches-750g/p/000000000000104540_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Starking Apples 1.5kg",
+    "price": 39.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/ha0/h51/11186940346398/silo-product-image-v2-01Jun2023-181647-6001007300432-Straight_on-138321-3331_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-starking-apples-1.5kg/p/000000000000672890_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Melon for Me",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/he3/h40/11598182613022/silo-product-image-v2-06Mar2025-182417-6001000488946-Straight_on-295827-140_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-melon-for-me/p/000000000000805742_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Mango for Me 280g",
+    "price": 44.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h9c/hfa/11598169374750/silo-product-image-v2-06Mar2025-182414-6001000488939-Straight_on-295823-123_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-mango-for-me-280g/p/000000000000805531_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Ripe & Ready Nectarines",
+    "price": 48.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h3d/h62/34697202106398/silo-product-image-v2-11Feb2026-142911-6001007050993-Straight_on-1063-3_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-ripe-ready-nectarines/p/000000000000103658_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Watermelon Sharing 400g",
+    "price": 54.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h3b/hf0/11598164557854/silo-product-image-v2-06Mar2025-182413-6001000482975-Straight_on-295807-114_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-watermelon-sharing-400g/p/000000000000800210_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Raspberries Snack 110g",
+    "price": 44.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h95/h7a/11126182445086/silo-product-image-v2-16Mar2023-184752-6001000482814-Straight_on-101281-10907_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-raspberries-snack-110g/p/000000000000800089_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Pineapple Sharing 600g",
+    "price": 69.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h6b/h97/11598168555550/silo-product-image-v2-06Mar2025-182414-6001000482999-Straight_on-295811-122_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-pineapple-sharing-600g/p/000000000000800215_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Mango for Sharing 420g",
+    "price": 69.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/ha4/hb2/11596649136158/silo-product-image-v2-05Mar2025-180143-6001000482968-Straight_on-295029-860_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-mango-for-sharing-420g/p/000000000000800209_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Blueberries Sharing",
+    "price": 129.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h6a/hdc/11016359936030/silo-product-image-v2-16Nov2022-180107-6001000482944-Straight_on-73659-901_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-blueberries-sharing/p/000000000000800207_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Ripe & Ready White Flesh Dessert Peaches",
+    "price": 49.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h91/h8f/11065953386526/silo-product-image-v2-17Jan2023-180112-6001007050986-Straight_on-86307-289_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-ripe-ready-white-flesh-dessert-peaches/p/000000000000189671_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Golden Apple",
+    "price": 5.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h09/h92/10607328198686/silo-product-image-v2-23Nov2021-180118-01000627-front-2828405-5592_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-golden-apple/p/000000000000458036_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Ripen At Home Mango Bag 1.2kg",
+    "price": 64.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h58/h80/10898408407070/silo-product-image-v2-12Jul2022-180148-6001000014510-Straight_on-48724-6352_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-ripen-at-home-mango-bag-1.2kg/p/000000000000777918_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Ripen At Home Mango",
+    "price": 44.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hdf/hba/10795517411358/silo-product-image-v2-05Apr2022-180236-6009218702496-Straight_on-19067-5673_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-ripen-at-home-mango/p/000000000000872290_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Apples Honey Red 4 Apples",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/he6/h34/14356517847070/silo-product-image-v2-09Aug2025-180045-6001007094287-Straight_on-341842-678_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-apples-honey-red-4-apples/p/000000000000741762_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Mixed Seedless Grapes",
+    "price": 99.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h38/h3a/11386164084766/silo-product-image-v2-19Mar2024-094002-6009229398480-Straight_on-202723-1849_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-mixed-seedless-grapes/p/000000000000936932_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Red Apples",
+    "price": 6.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hc2/hb3/28024659443742/silo-product-image-v2-31Oct2025-180055-01000214-Straight_on-367582-825_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-red-apples/p/000000000000458037_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Grapefruit Prepack",
+    "price": 54.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h27/h66/10771895058462/silo-product-image-v2-15Mar2022-180400-6001007045036-Straight_on-12270-20263_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-grapefruit-prepack/p/000000000000156963_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Raspberries for Me 180g",
+    "price": 74.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h7a/hf2/11126181003294/silo-product-image-v2-16Mar2023-184751-6001000482876-Straight_on-101289-10903_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-raspberries-for-me-180g/p/000000000000800213_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Breakfast Papaya",
+    "price": 59.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h92/h7a/14795215896606/silo-product-image-v2-19Aug2025-180047-6001007300357-Straight_on-344713-90_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-breakfast-papaya/p/000000000000672874_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Blackberries on the Run 110g",
+    "price": 49.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hd1/h79/10901806317598/silo-product-image-v2-15Jul2022-180109-6001000482593-Straight_on-49666-7576_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-blackberries-on-the-run-110g/p/000000000000799981_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Prickly Pear 6 Pack",
+    "price": 39.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hcb/he4/11398458310686/silo-product-image-v2-09Apr2024-170816-6001000012578-Straight_on-38176-893_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-prickly-pear-6-pack/p/000000000000774717_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Prepacked Queen Pineapple",
+    "price": 48.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hc0/hb2/11570647138334/silo-product-image-v2-05Feb2025-180041-6001007232467-Straight_on-288722-1_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-prepacked-queen-pineapple/p/000000000000474531_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Golden Delicious Apples 4 Pack",
+    "price": 26.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h1b/he8/11470082408478/silo-product-image-v2-21Aug2024-180114-6001007301002-Straight_on-242452-1154_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-golden-delicious-apples-4-pack/p/000000000000672929_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Treats from the Vine",
+    "price": 59.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hcd/h4d/11579235827742/silo-product-image-v2-15Feb2025-180027-6009218703240-Straight_on-291342-137_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-treats-from-the-vine/p/000000000000871685_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Baby Papaya 2 Pack",
+    "price": 54.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hcf/h53/14795153375262/silo-product-image-v2-19Aug2025-180047-6001007301101-Straight_on-344715-95_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-baby-papaya-2-pack/p/000000000000672932_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Red Globe Grapes 500g",
+    "price": 44.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h6c/h09/11126183690270/silo-product-image-v2-16Mar2023-184753-6001007341879-Straight_on-125708-10913_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-red-globe-grapes-500g/p/000000000000311117_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Ripe & Ready Cling Peaches",
+    "price": 48.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h11/h6f/11366164987934/silo-product-image-v2-19Feb2024-100054-6001007054823-Straight_on-204921-2329_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-ripe-ready-cling-peaches/p/000000000000176251_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Pomegranate Pearls 150g",
+    "price": 49.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hf0/h3e/14356509425694/silo-product-image-v2-09Aug2025-180040-6001000482784-Straight_on-341826-656_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-pomegranate-pearls-150g/p/000000000000800070_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Ripe & Ready Plums",
+    "price": 44.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hb7/hca/11124494270494/silo-product-image-v2-16Mar2023-183712-6001000014411-Straight_on-89849-8194_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-ripe-ready-plums/p/000000000000777730_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Papaya",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h0d/hc7/11126149873694/silo-product-image-v2-16Mar2023-184741-6001007042004-Straight_on-102087-10860_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-papaya/p/000000000000144892_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Flash Gala 1.5Kg",
+    "price": 44.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h26/h42/11192873484318/silo-product-image-v2-03Jun2023-180104-6009218697631-Straight_on-149956-7865_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-flash-gala-1.5kg/p/000000000000877759_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Ripen at Home Plum Bulk Bag",
+    "price": 44.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h68/h44/11362063286302/silo-product-image-v2-13Feb2024-180129-6009229398459-Straight_on-204252-2076_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-ripen-at-home-plum-bulk-bag/p/000000000000936938_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Orange Melon Sharing 600g",
+    "price": 44.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h32/h5c/12100231921694/silo-product-image-v2-20May2025-180157-6001000482982-Straight_on-320843-658_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-orange-melon-sharing-600g/p/000000000000800211_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Prickly Pear 1/2 Tray",
+    "price": 89.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h31/h4b/10906352517150/silo-product-image-v2-21Jul2022-180124-6009218702885-Straight_on-50226-8738_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-prickly-pear-1-2-tray/p/000000000000872128_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Pears 6 Pack",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h6f/h34/14356486029342/silo-product-image-v2-09Aug2025-180049-6001007498559-Straight_on-341858-632_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-pears-6-pack/p/000000000000742910_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP White Seedless Grapes  Bulk Bag",
+    "price": 99.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hec/hb4/11398186729502/silo-product-image-v2-09Apr2024-170216-6009229335027-Straight_on-216446-469_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-white-seedless-grapes-bulk-bag/p/000000000000940438_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Tropical Sharing 450g",
+    "price": 69.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h4c/he7/10772965523486/silo-product-image-v2-15Mar2022-180551-6001000482951-Straight_on-6877-22562_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-tropical-sharing-450g/p/000000000000800208_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Pnp Black Seedless Grapes PP",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h0a/h7f/11826948866078/silo-product-image-v2-26Apr2025-180059-6009229397230-Straight_on-315492-118_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-black-seedless-grapes-pp/p/000000000000983303_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Coconuts Loose Sell",
+    "price": 36.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h70/hb2/11366162628638/silo-product-image-v2-19Feb2024-100054-6001007082956-Straight_on-204955-2323_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-coconuts-loose-sell/p/000000000000252226_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Seasonal Mix Sharing 650g",
+    "price": 69.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hfb/h02/12100227629086/silo-product-image-v2-20May2025-180156-6001000483002-Straight_on-320847-653_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-seasonal-mix-sharing-650g/p/000000000000800216_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Grapes Red Bulk Bag",
+    "price": 92.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hbd/h39/11362071085086/silo-product-image-v2-13Feb2024-180130-6009229335003-Straight_on-204244-2086_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-grapes-red-bulk-bag/p/000000000000940210_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Royal Gala Apples 4s",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h58/h60/14218969579550/silo-product-image-v2-06Aug2025-180041-6001007301217-Straight_on-339832-57_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-royal-gala-apples-4s/p/000000000000672940_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Cayenne Pineapple",
+    "price": 46.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hba/h8f/45129757327390/silo-product-image-v2-03Mar2026-180119-6001007022785-Straight_on-410852-202_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-cayenne-pineapple/p/000000000000104014_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Leen Sukkari Dates 110g",
+    "price": 76.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hb1/h91/45129794355230/silo-product-image-v2-03Mar2026-180127-6287010990895-Straight_on-411364-211_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/leen-sukkari-dates-110g/p/000000000000998574_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Leen Mabroom Dates 110g",
+    "price": 69.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h1a/h28/45129793372190/silo-product-image-v2-03Mar2026-180126-6287010990864-Straight_on-411360-207_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/leen-mabroom-dates-110g/p/000000000000998244_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Leen Saqaie Dates 400g",
+    "price": 189.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h92/ha9/45129733701662/silo-product-image-v2-03Mar2026-180127-6287010990291-Straight_on-411356-202_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/leen-saqaie-dates-400g/p/000000000000998247_EA"
+  }
+]

@@ -39,7 +39,12 @@ public class ProductHttpRepository : IProductRepository
 		"data/Woolworths/BulkVegetablesFruitSalads.json",
 		"data/Woolworths/FreshVegetables.json",
 		"data/Woolworths/InSeasonFruitVegetablesSalads.json",
-		"data/Woolworths/SaladsHerbs.json"
+		"data/Woolworths/SaladsHerbs.json",
+		
+		"data/PnP/FreshFruit.json",
+		"data/PnP/FreshSaladsHerbs.json",
+		"data/PnP/FreshVegetables.json"
+
 	];
 
 	private Dictionary<string, List<Product>> _Products { get; set; } = new();

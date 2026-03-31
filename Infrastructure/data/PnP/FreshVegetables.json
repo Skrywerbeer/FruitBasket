@@ -1,0 +1,1619 @@
+[
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP English Cucumber",
+    "price": 19.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hae/haa/10770889080862/silo-product-image-v2-15Mar2022-180215-6001007020804-Straight_on-7445-18193_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-english-cucumber/p/000000000000132933_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Onions 1kg",
+    "price": 20.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h80/hd6/30239472713758/silo-product-image-v2-04Dec2025-180027-6001007068189-Straight_on-380973-2_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-onions-1kg/p/000000000000227661_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Slicing Tomatoes 2 Pack",
+    "price": 12.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hd0/hbf/11531441831966/silo-product-image-v2-29Nov2024-180133-6009242040649-Straight_on-273227-1368_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-slicing-tomatoes-2-pack/p/000000000000981155_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Spinach Bunch",
+    "price": 16.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hb7/h7f/11188764672030/silo-product-image-v2-01Jun2023-183029-6001000014459-Straight_on-148917-6208_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-spinach-bunch/p/000000000000772137_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Potatoes 1kg",
+    "price": 19.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h42/hf4/11187094913054/silo-product-image-v2-01Jun2023-181744-6009218297725-Straight_on-138197-3574_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-potatoes-1kg/p/000000000000892785_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP All Purpose Potatoes 2kg",
+    "price": 42.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h59/hf7/28307973931038/silo-product-image-v2-04Nov2025-180033-6001007300890-Straight_on-368938-986_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-all-purpose-potatoes-2kg/p/000000000000672922_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP All Purpose Potatoes 7kg",
+    "price": 64.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h0a/h37/11126308143134/silo-product-image-v2-16Mar2023-184837-6001007078980-Straight_on-102153-11103_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-all-purpose-potatoes-7kg/p/000000000000211447_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Carrots 1kg",
+    "price": 16.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h00/hc4/11125852078110/silo-product-image-v2-16Mar2023-184556-6001007056445-Straight_on-102121-10399_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-carrots-1kg/p/000000000000243808_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Robot Pepper 3 Pack",
+    "price": 44.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hd0/h53/28753483300894/silo-product-image-v2-12Nov2025-180035-6001007300371-Straight_on-371436-61_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-robot-pepper-3-pack/p/000000000000672876_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Carrots 500g",
+    "price": 9.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h8c/hb8/11366175408158/silo-product-image-v2-19Feb2024-100057-6001007048259-Straight_on-204911-2343_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-carrots-500g/p/000000000000142709_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Salad Tomatoes 750g",
+    "price": 24.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h0f/h45/10898426232862/silo-product-image-v2-12Jul2022-180149-6002007008502-Straight_on-48853-6375_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-salad-tomatoes-750g/p/000000000000261794_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Onions 2kg",
+    "price": 36.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h6f/h78/11126132932638/silo-product-image-v2-16Mar2023-184734-6001007022044-Straight_on-102007-10833_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-onions-2kg/p/000000000000149694_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Let's Cook Butternut 500g",
+    "price": 25.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h74/h72/11000257249310/silo-product-image-v2-01Nov2022-180216-6001007051433-Straight_on-68067-1451_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-let-s-cook-butternut-500g/p/000000000000220481_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP English Tomatoes 1kg",
+    "price": 31.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h64/h9d/10939191132190/silo-product-image-v2-03Mar2022-122352-6001007058821-Straight_on-7512-3824_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-english-tomatoes-1kg/p/000000000000127152_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Mixed Vegetables Express 400g",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h85/h64/16593701961758/silo-product-image-v2-19Sep2025-180043-6001007223335-Straight_on-353088-42_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-mixed-vegetables-express-400g/p/000000000000459272_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Peppers Green 2s",
+    "price": 19.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hbf/h42/28753856102430/silo-product-image-v2-12Nov2025-180035-6001007300425-Straight_on-371438-39_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-peppers-green-2s/p/000000000000672886_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sweetcorn 4 Pack",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h29/h3c/11126223503390/silo-product-image-v2-16Mar2023-184805-6001007051044-Straight_on-102105-10962_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sweetcorn-4-pack/p/000000000000265907_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP White Mushrooms 250g",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hf8/h07/11513274302494/silo-product-image-v2-02Nov2024-180051-6001007300975-Straight_on-262406-457_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-white-mushrooms-250g/p/000000000000672927_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Onions 5kg",
+    "price": 54.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h1b/h35/10890672799774/silo-product-image-v2-01Jul2022-180113-6001007296902-Straight_on-47767-4279_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-onions-5kg/p/000000000000666594_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sweet Potatoes 1kg",
+    "price": 31.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h0c/h0b/10898467455006/silo-product-image-v2-12Jul2022-180154-6001007302672-Straight_on-48779-6458_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sweet-potatoes-1kg/p/000000000000673094_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Let's Cook Pumpkin 500g",
+    "price": 25.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h4b/hba/11000259215390/silo-product-image-v2-01Nov2022-180216-6001007051426-Straight_on-68073-1454_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-let-s-cook-pumpkin-500g/p/000000000000201380_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Cabbage",
+    "price": 21.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h22/h91/11125847621662/silo-product-image-v2-16Mar2023-184554-6001007059460-Straight_on-102129-10392_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-cabbage/p/000000000000115542_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Tomatoes 1.5kg",
+    "price": 49.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hab/h7b/28308503396382/silo-product-image-v2-04Nov2025-180033-6001007155971-Straight_on-368934-1078_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-tomatoes-1.5kg/p/000000000000345823_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Mini Plum Tomatoes 250g",
+    "price": 26.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/ha9/h0a/11123515850782/silo-product-image-v2-16Mar2023-183031-6001007069971-Straight_on-126909-6522_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-mini-plum-tomatoes-250g/p/000000000000237970_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Cabbage Half",
+    "price": 14.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h8e/hd3/10898457690142/silo-product-image-v2-12Jul2022-180154-6001007206857-Straight_on-48761-6443_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-cabbage-half/p/000000000000422272_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Butternut Pocket 6kg",
+    "price": 76.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h12/h84/11012045307934/silo-product-image-v2-11Nov2022-180117-6001007194758-Straight_on-72165-7244_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-butternut-pocket-6kg/p/000000000000412033_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Butternut 3kg",
+    "price": 38.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/heb/h19/11125846245406/silo-product-image-v2-16Mar2023-184554-6002007004726-Straight_on-106801-10390_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-butternut-3kg/p/000000000000236280_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Green Beans 350g",
+    "price": 23.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h4d/h75/11125965193246/silo-product-image-v2-16Mar2023-184635-6001007448639-Straight_on-125778-10569_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-green-beans-350g/p/000000000000727011_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP White Sliced Mushrooms 250g",
+    "price": 36.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h2f/h9a/30533196972062/silo-product-image-v2-09Dec2025-180048-6001007301026-Straight_on-383220-438_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-white-sliced-mushrooms-250g/p/000000000000672930_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Roasting Vegetables 400g",
+    "price": 39.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hec/h5a/10842058358814/silo-product-image-v2-17May2022-180129-6001007292201-Straight_on-34966-22298_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-roasting-vegetables-400g/p/000000000000641444_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Beetroot 1kg",
+    "price": 14.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h4e/h52/10898377998366/silo-product-image-v2-12Jul2022-180145-6001007280994-Straight_on-48766-6280_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-beetroot-1kg/p/000000000000589044_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Coleslaw 300g",
+    "price": 21.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h4f/h32/10898420334622/silo-product-image-v2-12Jul2022-180149-6001007045982-Straight_on-48742-6364_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-coleslaw-300g/p/000000000000188675_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Broccoli",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h73/hb5/10083919167518/silo-product-image-v2-03Dec2020-180128-6001007301118-front-479207-700_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-broccoli/p/000000000000672933_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Green Peppers 800g",
+    "price": 46.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h53/h2a/28753860821022/silo-product-image-v2-12Nov2025-180035-6009218851033-Straight_on-371442-33_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-green-peppers-800g/p/000000000000863407_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Cabbage Head",
+    "price": 19.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h01/ha4/11186866487326/silo-product-image-v2-01Jun2023-181622-6001007082567-Straight_on-137985-3216_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-cabbage-head/p/000000000000183613_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Let's Cook Crushed Garlic 100g",
+    "price": 23.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h61/h75/30239411601438/silo-product-image-v2-04Dec2025-180025-6009218132668-Straight_on-381038-2_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-let-s-cook-crushed-garlic-100g/p/000000000000899922_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Potatoes Baby 1kg",
+    "price": 14.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h7a/h85/28308503658526/silo-product-image-v2-04Nov2025-180033-6001007302221-Straight_on-368940-1079_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-potatoes-baby-1kg/p/000000000000673029_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Pickling Onions 1kg",
+    "price": 17.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h79/h9e/11398677200926/silo-product-image-v2-09Apr2024-170901-6001007069957-Straight_on-38021-1236_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-pickling-onions-1kg/p/000000000000221498_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Slicing Tomatoes 4 Pack",
+    "price": 24.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h31/he9/34771920912414/silo-product-image-v2-12Feb2026-180037-6001007448172-Straight_on-402204-89_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-slicing-tomatoes-4-pack/p/000000000000726024_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Large Onions 4 Pack",
+    "price": 20.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h40/hd0/11126018605086/silo-product-image-v2-16Mar2023-184654-6001007288846-Straight_on-103585-10655_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-large-onions-4-pack/p/000000000000625935_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sweet Potatoes 2kg",
+    "price": 59.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hf7/h65/11124789870622/silo-product-image-v2-16Mar2023-183908-6001007023898-Straight_on-102009-8688_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sweet-potatoes-2kg/p/000000000000265706_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Potatoes Soft Cooking 2kg",
+    "price": 42.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h25/h77/34772009746462/silo-product-image-v2-12Feb2026-180034-6001007302078-Straight_on-402202-88_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-potatoes-soft-cooking-2kg/p/000000000000673018_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Cauliflower & Broccoli Prepack",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h17/hce/10920540045342/silo-product-image-v2-11Aug2022-180158-6001007300487-Straight_on-50834-1343_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-cauliflower-broccoli-prepack/p/000000000000672893_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Cauliflower, Broccoli & Carrot 400g",
+    "price": 36.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h9c/h1c/10630696173598/silo-product-image-v2-18Dec2021-180051-6001007319779-front-2831179-1145_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-cauliflower-broccoli-carrot-400g/p/000000000000148698_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Baby Spinach 200g",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hb8/h92/10771201687582/silo-product-image-v2-15Mar2022-180250-6001007069513-Straight_on-7450-18734_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-baby-spinach-200g/p/000000000000246190_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Mini Cucumber",
+    "price": 11.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h8e/h9f/10770887901214/silo-product-image-v2-15Mar2022-180214-6001007138189-Straight_on-7444-18186_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-mini-cucumber/p/000000000000144186_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sweet Salad Peppers 2 Pack",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h2e/h98/28753853841438/silo-product-image-v2-12Nov2025-180035-6001007300999-Straight_on-371440-40_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sweet-salad-peppers-2-pack/p/000000000000672928_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Peeled Onions 1kg",
+    "price": 21.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/ha7/h30/10770898649118/silo-product-image-v2-15Mar2022-180216-6001007056339-Straight_on-7474-18213_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-peeled-onions-1kg/p/000000000000106062_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Garlic in Netting",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hde/h30/10773149843486/silo-product-image-v2-15Mar2022-180714-6001007342012-Straight_on-7814-22940_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-garlic-in-netting/p/000000000000312407_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Baking Butternut 2 Pack",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hef/hb5/10901825191966/silo-product-image-v2-15Jul2022-180112-6001007301507-Straight_on-49728-7635_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-baking-butternut-2-pack/p/000000000000672954_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Carrot Carry Bag",
+    "price": 31.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h47/h2d/13335822172190/silo-product-image-v2-16Jul2025-180022-6009219500480-Straight_on-335881-105_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-carrot-carry-bag/p/000000000000823890_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Crushed Garlic Bottle 59g",
+    "price": 15,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hcc/h55/11638377185310/silo-product-image-v2-01Apr2025-180237-6009242002166-Straight_on-304661-705_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-crushed-garlic-bottle-59g/p/000000000000979827_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Spring Onions Sleeve",
+    "price": 22.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h61/h59/10770908545054/silo-product-image-v2-15Mar2022-180217-6001007048297-Straight_on-7495-18233_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-spring-onions-sleeve/p/000000000000196088_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Rainbow Slaw Mix 300g",
+    "price": 23.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h12/hfd/11398649217054/silo-product-image-v2-09Apr2024-170856-6009219010071-Straight_on-37912-1197_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-rainbow-slaw-mix-300g/p/000000000000851712_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Ginger in Netting",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hc1/h82/10773256601630/silo-product-image-v2-15Mar2022-180816-6001007223229-Straight_on-7975-23125_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-ginger-in-netting/p/000000000000458199_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Table Celery Bunch",
+    "price": 26.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h62/h05/10770912804894/silo-product-image-v2-15Mar2022-180218-6001007048358-Straight_on-7506-18243_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-table-celery-bunch/p/000000000000138148_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sweetcorn Cobletts 700g",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h93/h0e/11126219800606/silo-product-image-v2-16Mar2023-184806-6002007007642-Straight_on-106803-10963_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sweetcorn-cobletts-700g/p/000000000000257718_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Cauliflower",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h8a/he7/10083913859102/silo-product-image-v2-03Dec2020-180128-6001007300906-front-479247-698_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-cauliflower/p/000000000000672923_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Onions Red 1kg",
+    "price": 39.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h97/h70/10770905792542/silo-product-image-v2-15Mar2022-180216-6001007070366-Straight_on-7475-18216_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-onions-red-1kg/p/000000000000172195_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Cherry Tomatoes 250g",
+    "price": 26.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h85/hd7/30239567020062/silo-product-image-v2-04Dec2025-180024-6001007041519-Straight_on-380969-4_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-cherry-tomatoes-250g/p/000000000000256481_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Beetroot Carry Bag",
+    "price": 27.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h8a/h2d/11285392785438/silo-product-image-v2-17Oct2023-180250-6009219500244-Straight_on-182880-214_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-beetroot-carry-bag/p/000000000000822884_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Let's Cook Thai Chillies 50g",
+    "price": 16.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h73/h3e/26651813904414/silo-product-image-v2-08Oct2025-180053-6001007262853-Straight_on-359244-506_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-let-s-cook-thai-chillies-50g/p/000000000000537629_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Onions Duo Pack",
+    "price": 35.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h43/h9d/11470086832158/silo-product-image-v2-21Aug2024-180116-6001007262433-Straight_on-242446-1163_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-onions-duo-pack/p/000000000000536787_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Large Chipping Potatoes 2kg",
+    "price": 42.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h04/h12/10898462736414/silo-product-image-v2-12Jul2022-180154-6001007302047-Straight_on-48776-6455_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-large-chipping-potatoes-2kg/p/000000000000673017_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sweet Baby Peppers",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h2f/he1/11036613214238/silo-product-image-v2-02Dec2022-180133-6002007006386-Straight_on-76993-686_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sweet-baby-peppers/p/000000000000123362_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Mini Plum Tomatoes 500g",
+    "price": 46.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hfe/hba/10898472697886/silo-product-image-v2-12Jul2022-180154-6001007319984-Straight_on-48782-6459_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-mini-plum-tomatoes-500g/p/000000000000250285_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sliced Portabellini Mushrooms 250g",
+    "price": 36.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h8c/ha9/11513277808670/silo-product-image-v2-02Nov2024-180052-6009219506932-Straight_on-262452-468_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sliced-portabellini-mushrooms-250g/p/000000000000836252_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Baby Spinach 400g",
+    "price": 48.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h8a/h24/10419506085918/silo-product-image-v2-03Sep2021-180109-6001000009820-front-1591050-2297_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-baby-spinach-400g/p/000000000000768170_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Portabellini Mushrooms 250g",
+    "price": 36.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h66/h0c/11513274499102/silo-product-image-v2-02Nov2024-180050-6001007301873-Straight_on-262412-455_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-portabellini-mushrooms-250g/p/000000000000672996_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sliced Swiss Chard 300g",
+    "price": 24.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h21/h8f/10771206078494/silo-product-image-v2-15Mar2022-180250-6001007045937-Straight_on-7518-18742_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sliced-swiss-chard-300g/p/000000000000134676_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Large Gem Squash 4 Pack",
+    "price": 38.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hdf/he0/11126018146334/silo-product-image-v2-16Mar2023-184654-6001007300593-Straight_on-125440-10654_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-large-gem-squash-4-pack/p/000000000000672897_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Jam Tomatoes 1kg",
+    "price": 31.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h52/h45/11398684803102/silo-product-image-v2-09Apr2024-170903-6001000012738-Straight_on-37938-1251_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-jam-tomatoes-1kg/p/000000000000774827_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Baby Marrows 350g",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hcf/hce/10901781479454/silo-product-image-v2-15Jul2022-180108-6001007048228-Angle_A-49623-7536_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-baby-marrows-350g/p/000000000000197280_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Brinjals Pack",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h5c/h08/11366157778974/silo-product-image-v2-19Feb2024-100052-6001007058227-Straight_on-204925-2317_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-brinjals-pack/p/000000000000230890_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Kale Bunch",
+    "price": 19.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/he4/h0e/10130414960670/silo-product-image-v2-17Jan2021-180130-6001007304652-front-487063-830_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-kale-bunch/p/000000000000678609_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Let's Cook Sweet Potato 500g",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h96/h74/11000024236062/silo-product-image-v2-01Nov2022-180152-6001007058777-Straight_on-68369-950_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-let-s-cook-sweet-potato-500g/p/000000000000153263_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Snacking Cucumber",
+    "price": 20.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/he9/ha3/11126203744286/silo-product-image-v2-16Mar2023-184800-6001000018112-Straight_on-101153-10938_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-snacking-cucumber/p/000000000000781985_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Brocco Bunch",
+    "price": 14.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h3d/hd7/11187073384478/silo-product-image-v2-01Jun2023-181736-6001007296438-Straight_on-138189-3544_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-brocco-bunch/p/000000000000665778_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Onions 3kg",
+    "price": 43.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hbf/hba/11047570702366/silo-product-image-v2-14Dec2022-180124-6002007008526-Straight_on-82226-5089_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-onions-3kg/p/000000000000247099_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Cut Broccoli 300g",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h89/h01/10770920734750/silo-product-image-v2-15Mar2022-180218-6001007045920-Straight_on-7515-18255_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-cut-broccoli-300g/p/000000000000168399_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Potjie Mix 1kg",
+    "price": 49.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h88/hf6/16593204281374/silo-product-image-v2-19Sep2025-180040-6001007057688-Straight_on-353084-24_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-potjie-mix-1kg/p/000000000000256632_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Beetroot Bunch",
+    "price": 22.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h0f/h67/11398832029726/silo-product-image-v2-09Apr2024-170933-6001007082499-Straight_on-38070-1477_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-beetroot-bunch/p/000000000000219532_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Green Beans 500g",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h3b/h65/11035178500126/silo-product-image-v2-01Dec2022-180139-6009218348991-Straight_on-76660-200_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-green-beans-500g/p/000000000000890575_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Baby Spinach 100g",
+    "price": 24.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h9c/h54/10588729475102/silo-product-image-v2-12Nov2021-073249-6009218851835-front-2825060-72458_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-baby-spinach-100g/p/000000000000862000_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Mixed Vegetable Express 1kg",
+    "price": 49.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hc1/hee/16593270800414/silo-product-image-v2-19Sep2025-180040-6001007223328-Straight_on-353086-31_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-mixed-vegetable-express-1kg/p/000000000000459274_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Peeled Baby Carrots 150g",
+    "price": 17.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h85/hd6/10773203255326/silo-product-image-v2-15Mar2022-180724-6001007292287-Straight_on-7919-23066_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-peeled-baby-carrots-150g/p/000000000000641549_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Celery Fingers 150g",
+    "price": 26.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hae/h11/10898459131934/silo-product-image-v2-12Jul2022-180154-6001007293246-Straight_on-48770-6450_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-celery-fingers-150g/p/000000000000646849_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Jam Tomatoes 1.5kg",
+    "price": 49.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h09/h8e/11398672252958/silo-product-image-v2-09Apr2024-170900-6001007039257-Straight_on-37936-1232_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-jam-tomatoes-1.5kg/p/000000000000111153_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Red & White Coleslaw 300g",
+    "price": 19.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hed/hd2/11366049775646/silo-product-image-v2-19Feb2024-100026-6001007445690-Straight_on-205045-2146_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-red-white-coleslaw-300g/p/000000000000719370_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Cauliflower & Broccoli Florets 500g",
+    "price": 39.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hfe/h2b/11454207918110/silo-product-image-v2-24Jul2024-180128-6009229284929-Straight_on-236146-4229_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-cauliflower-broccoli-florets-500g/p/000000000000928668_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Weather Blemished Onions 7kg",
+    "price": 68.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h40/h2e/11192874663966/silo-product-image-v2-03Jun2023-180104-6001007194765-Straight_on-149958-7867_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-weather-blemished-onions-7kg/p/000000000000412034_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Roasting Vegetables 800g",
+    "price": 54.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h52/h61/10842058194974/silo-product-image-v2-17May2022-180129-6001007292195-Straight_on-34967-22299_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-roasting-vegetables-800g/p/000000000000641443_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Cauliflower & Broccoli 300g",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h2b/h13/10770917720094/silo-product-image-v2-15Mar2022-180218-6001007047481-Straight_on-7516-18254_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-cauliflower-broccoli-300g/p/000000000000246352_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Kale Mix 300g",
+    "price": 25.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hae/h66/10920520253470/silo-product-image-v2-11Aug2022-180156-6001007262877-Straight_on-50606-1307_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-kale-mix-300g/p/000000000000539332_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Green Vegetable Selection 375g",
+    "price": 33.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h99/h83/16887227514910/silo-product-image-v2-24Sep2025-180026-6001007299514-Straight_on-353697-7_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-green-vegetable-selection-375g/p/000000000000678115_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Green Beans 300g",
+    "price": 33.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h53/h2f/10628824268830/silo-product-image-v2-15Dec2021-180125-6001007046002-front-2831044-934_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-green-beans-300g/p/000000000000145936_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sliced Swiss Chard 600g",
+    "price": 39.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h76/h3e/10419500777502/silo-product-image-v2-03Sep2021-180108-6001000001251-front-1591049-2284_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sliced-swiss-chard-600g/p/000000000000750046_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Baby Potatoes with Garlic & Herb Butter 500g",
+    "price": 31.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/had/h0c/11384203968542/silo-product-image-v2-14Mar2024-180413-6001007304461-Straight_on-214555-873_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-baby-potatoes-with-garlic-herb-butter-500g/p/000000000000678714_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sugar Snap Peas 125g",
+    "price": 41.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hb7/hfd/12286099718174/silo-product-image-v2-31May2025-180039-6001007301897-Straight_on-328040-73_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sugar-snap-peas-125g/p/000000000000672999_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sweet Palermo Peppers",
+    "price": 49.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hbb/h70/11557177622558/silo-product-image-v2-18Jan2025-180034-6001007308575-Straight_on-284490-1820_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sweet-palermo-peppers/p/000000000000679754_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Chopped Mushroom Mix 400g",
+    "price": 42.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h07/h9f/10773167996958/silo-product-image-v2-15Mar2022-180717-6001007301989-Straight_on-7839-22974_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-chopped-mushroom-mix-400g/p/000000000000673015_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Red Cabbage Head",
+    "price": 19.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hd0/h47/10898455199774/silo-product-image-v2-12Jul2022-180153-6001007082574-Straight_on-48754-6439_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-red-cabbage-head/p/000000000000234114_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Brown Mushrooms 250g",
+    "price": 38.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h66/h7f/10773269151774/silo-product-image-v2-15Mar2022-180817-6001007300920-Straight_on-7999-23144_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-brown-mushrooms-250g/p/000000000000672924_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Let's Cook Crushed Garlic 250g",
+    "price": 39.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hc6/hcf/30239566528542/silo-product-image-v2-04Dec2025-180024-6001007068998-Straight_on-380975-6_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-let-s-cook-crushed-garlic-250g/p/000000000000259776_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sweet & Sour Stir Fry Sauce 100g",
+    "price": 23.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h58/h19/11398702759966/silo-product-image-v2-09Apr2024-170907-6009219506178-Straight_on-37927-1277_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sweet-sour-stir-fry-sauce-100g/p/000000000000834785_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Broccoli Florets 500g",
+    "price": 39.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h97/haa/11454205853726/silo-product-image-v2-24Jul2024-180127-6009229399234-Straight_on-236154-4227_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-broccoli-florets-500g/p/000000000000928667_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Stir Fry Julienne 420g",
+    "price": 37.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/ha7/he4/11627266277406/silo-product-image-v2-29Mar2025-180040-6009229399562-Straight_on-302996-538_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-stir-fry-julienne-420g/p/000000000000971922_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Let's Cook Butternut 1kg",
+    "price": 44.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h67/hb5/11000055169054/silo-product-image-v2-01Nov2022-180155-6001007058296-Straight_on-68082-1010_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-let-s-cook-butternut-1kg/p/000000000000112407_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Prepared Pumpkin 1kg",
+    "price": 44.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hdc/h29/11544213487646/silo-product-image-v2-21Dec2024-180036-6001007058289-Straight_on-279131-2291_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-prepared-pumpkin-1kg/p/000000000000230832_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Blue Pumpkin Quarter",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hbc/h05/11125841166366/silo-product-image-v2-16Mar2023-184551-6001007301675-Straight_on-103839-10378_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-blue-pumpkin-quarter/p/000000000000672960_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Cherry Tomatoes 500g",
+    "price": 46.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hdd/h6e/10770921914398/silo-product-image-v2-15Mar2022-180218-6001007140847-Straight_on-7510-18250_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-cherry-tomatoes-500g/p/000000000000147333_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sweet Potatoes 2kg",
+    "price": 69.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hcd/h59/11405601407006/silo-product-image-v2-23Apr2024-115407-6001007302689-Straight_on-134026-226_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sweet-potatoes-2kg/p/000000000000673096_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Ready Prepared Cauliflower 300g",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h6f/h57/10770921259038/silo-product-image-v2-15Mar2022-180218-6001007045913-Straight_on-7517-18256_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-ready-prepared-cauliflower-300g/p/000000000000180491_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Oriental Stir Fry 400g",
+    "price": 42.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h90/h67/16446423760926/silo-product-image-v2-16Sep2025-180029-6009242094574-Straight_on-352516-108_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-oriental-stir-fry-400g/p/000000000001007579_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Onion Shallots 350g",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hc6/h60/12113441947678/silo-product-image-v2-21May2025-180201-6009242043961-Straight_on-321954-412_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-onion-shallots-350g/p/000000000000982816_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Butternut, Cauliflower & Baby Marrow 400g",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h61/h2e/11398516277278/silo-product-image-v2-09Apr2024-170828-6009219010088-Straight_on-37829-985_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-butternut-cauliflower-baby-marrow-400g/p/000000000000851711_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Orange Sweet Potatoes 1kg",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h1a/hf7/11398681329694/silo-product-image-v2-09Apr2024-170902-6001007302696-Straight_on-38154-1244_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-orange-sweet-potatoes-1kg/p/000000000000673097_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Stir Fry Spinach 420g",
+    "price": 37.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hf2/hcd/11612849602590/silo-product-image-v2-20Mar2025-180102-6009229399593-Straight_on-299863-590_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-stir-fry-spinach-420g/p/000000000000971923_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Let's Cook Crushed Garlic & Ginger 100g",
+    "price": 22.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h32/h7c/30239411404830/silo-product-image-v2-04Dec2025-180025-6009218010003-Straight_on-381030-3_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-let-s-cook-crushed-garlic-ginger-100g/p/000000000000899911_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Turnips",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hbd/h3e/11398692765726/silo-product-image-v2-09Apr2024-170904-6002007007024-Straight_on-38109-1260_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-turnips/p/000000000000109355_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Chilli Honey & Lime Flavoured Chickpeas 75g",
+    "price": 24.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hd0/he8/27890038964254/silo-product-image-v2-29Oct2025-180254-6009242109544-Straight_on-365679-742_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-chilli-honey-lime-flavoured-chickpeas-75g/p/000000000001005904_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Dried Tomatoes 100g",
+    "price": 49.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h01/hca/10771189628958/silo-product-image-v2-15Mar2022-180249-6001007338800-Straight_on-7721-18721_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-dried-tomatoes-100g/p/000000000000740531_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sea Salt & Pepper Flavoured Chickpeas 75g",
+    "price": 24.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h7d/hbb/27890039521310/silo-product-image-v2-29Oct2025-180254-6009242109520-Straight_on-365677-743_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sea-salt-pepper-flavoured-chickpeas-75g/p/000000000001005905_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Butternut & Sweet Potato 500g",
+    "price": 28.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h2f/hcc/11366095585310/silo-product-image-v2-19Feb2024-100038-6001007320584-Straight_on-205037-2224_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-butternut-sweet-potato-500g/p/000000000000697256_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Live Well Cauliflower & Turnip Noodles 250g",
+    "price": 42.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h68/h01/10654906056734/silo-product-image-v2-20Jan2022-180117-6001007446178-front-2833731-222_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-live-well-cauliflower-turnip-noodles-250g/p/000000000000721271_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Cayenne Chillies 50g",
+    "price": 16.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h31/h09/26651916042270/silo-product-image-v2-08Oct2025-180053-6001007262860-Straight_on-359246-591_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-cayenne-chillies-50g/p/000000000000537630_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Pumpkin Blue Medium",
+    "price": 54.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h97/hd1/14218606772254/silo-product-image-v2-06Aug2025-180047-6001007210632-Straight_on-339816-79_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-pumpkin-blue-medium/p/000000000000488969_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Mange Tout Peas 125g",
+    "price": 39.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/he4/h01/12286042374174/silo-product-image-v2-31May2025-180039-6001007301934-Straight_on-328042-83_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-mange-tout-peas-125g/p/000000000000673001_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Asparagus Spears 170g",
+    "price": 69.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hc4/h15/11547124170782/silo-product-image-v2-31Dec2024-180058-6009229374064-Straight_on-280021-3004_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-asparagus-spears-170g/p/000000000000979840_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Stir Fry Spinach Bulk 800g",
+    "price": 52.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h5a/h19/10630710329374/silo-product-image-v2-18Dec2021-180048-6009218704612-front-2831189-1116_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-stir-fry-spinach-bulk-800g/p/000000000000868361_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sweetcorn Bulk Pack 7 Pack",
+    "price": 54.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h69/hf1/11398694633502/silo-product-image-v2-09Apr2024-170904-6001007056308-Straight_on-38127-1261_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sweetcorn-bulk-pack-7-pack/p/000000000000181393_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Julienne Carrots 250g",
+    "price": 15.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h32/hf7/11127802396702/silo-product-image-v2-16Mar2023-185741-6009218850500-Straight_on-107549-13498_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-julienne-carrots-250g/p/000000000000863967_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Cinnamon Sweet Potato & Butternut 500g",
+    "price": 36.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h63/hc8/16446649434142/silo-product-image-v2-16Sep2025-180045-6009242109605-Straight_on-352544-151_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-cinnamon-sweet-potato-butternut-500g/p/000000000001005929_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Gem Squash 1kg",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h4b/hc4/11060641202206/silo-product-image-v2-07Jan2023-180055-6001007301729-Straight_on-85688-854_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-gem-squash-1kg/p/000000000000672983_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Spicy Garlic Vegetable Medley 400g",
+    "price": 36.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/haf/h64/16446586290206/silo-product-image-v2-16Sep2025-180045-6009242109575-Straight_on-352540-165_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-spicy-garlic-vegetable-medley-400g/p/000000000001005902_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Onions Salad 70g",
+    "price": 22.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h69/hd0/10465492008990/silo-product-image-v2-28Sep2021-180154-6001007235710-front-1925807-23545_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-onions-salad-70g/p/000000000000486122_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Mushroom Grillers 4 Pack",
+    "price": 54.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hb4/h4e/14218972659742/silo-product-image-v2-06Aug2025-180048-6001007301880-Straight_on-339828-82_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-mushroom-grillers-4-pack/p/000000000000672998_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Bird's Eye Chillies 50g",
+    "price": 16.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hba/ha1/10898414239774/silo-product-image-v2-12Jul2022-180148-6001000014947-Straight_on-48725-6355_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-bird-s-eye-chillies-50g/p/000000000000778840_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Mushrooms Brown 400g",
+    "price": 54.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hb3/h23/10773268594718/silo-product-image-v2-15Mar2022-180817-6001007300555-Straight_on-8001-23143_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-mushrooms-brown-400g/p/000000000000672895_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Butternut, Broccoli & Baby Marrow with Cheese Sauce 500g",
+    "price": 59.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h46/h6b/11446495641630/silo-product-image-v2-15Jul2024-131249-6001007494957-Straight_on-232826-205_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-butternut-broccoli-baby-marrow-with-cheese-sauce-500g/p/000000000000731083_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Let's Cook Serrano Chillies 50g",
+    "price": 16.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h0d/h44/11366129074206/silo-product-image-v2-19Feb2024-100046-6001007262822-Straight_on-204987-2275_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-let-s-cook-serrano-chillies-50g/p/000000000000537626_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Crushed Garlic & Chilli 100g",
+    "price": 24.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h4a/hde/30239410683934/silo-product-image-v2-04Dec2025-180025-6009218259846-Straight_on-381042-1_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-crushed-garlic-chilli-100g/p/000000000000895050_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Beans Fine 250g",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h97/h85/12286158831646/silo-product-image-v2-31May2025-180039-6001007066864-Straight_on-328034-66_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-beans-fine-250g/p/000000000000192709_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Peeled Baby Carrots 400g",
+    "price": 26.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hd6/he8/10898452512798/silo-product-image-v2-12Jul2022-180153-6001007070021-Straight_on-48752-6436_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-peeled-baby-carrots-400g/p/000000000000122418_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Leeks 300g",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h42/h37/11186961842206/silo-product-image-v2-01Jun2023-181656-6001007048273-Straight_on-138603-3369_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-leeks-300g/p/000000000000115923_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Let's Cook Crushed Garlic 500g",
+    "price": 62.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h1c/h28/11302854295582/silo-product-image-v2-13Nov2023-165133-6001007312978-Straight_on-189038-660_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-let-s-cook-crushed-garlic-500g/p/000000000000685092_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Celery Fingers 250g",
+    "price": 26.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hb3/h89/10500002971678/silo-product-image-v2-15Oct2021-180636-6009218702588-front-2772487-4613_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-celery-fingers-250g/p/000000000000872287_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sweet Baby Peppers 100g",
+    "price": 21.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h6c/h8c/11126213738526/silo-product-image-v2-16Mar2023-184803-6001000018099-Straight_on-101149-10958_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sweet-baby-peppers-100g/p/000000000000781983_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Brussel Sprouts 300g",
+    "price": 52.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hcc/h82/10898380161054/silo-product-image-v2-12Jul2022-180145-6001007050603-Straight_on-48743-6284_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-brussel-sprouts-300g/p/000000000000236698_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Soup Celery Bunch",
+    "price": 26.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/root/hf8/h08/9142424043550/181488_EA_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-soup-celery-bunch/p/000000000000181488_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Chinese Cabbage Leaf 300g",
+    "price": 24.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h70/hdc/12113337745438/silo-product-image-v2-21May2025-180150-6009229313490-Straight_on-321952-337_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-chinese-cabbage-leaf-300g/p/000000000000975542_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Mini Corn",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/he2/h04/12286042439710/silo-product-image-v2-31May2025-180039-6001007301699-Straight_on-328038-84_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-mini-corn/p/000000000000672982_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Let's Cook Crushed Ginger 100g",
+    "price": 22.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h1a/he5/30239410487326/silo-product-image-v2-04Dec2025-180025-6009218132651-Straight_on-381034-4_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-let-s-cook-crushed-ginger-100g/p/000000000000899923_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Baby Potato Roasting Kit 850g",
+    "price": 49.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h8f/h1e/11502984331294/silo-product-image-v2-17Oct2024-180310-6009229396950-Straight_on-254321-816_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-baby-potato-roasting-kit-850g/p/000000000000957008_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP White Mushrooms 400g",
+    "price": 52.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h32/h28/11384203149342/silo-product-image-v2-14Mar2024-180412-6001007301439-Straight_on-214551-871_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-white-mushrooms-400g/p/000000000000672949_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Tasty Stem Broccoli Stems 230g",
+    "price": 46.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h75/h52/11602784747550/silo-product-image-v2-11Mar2025-180112-6001007302177-Straight_on-297657-161_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-tasty-stem-broccoli-stems-230g/p/000000000000673024_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Butternut, Creamy Spinach & Feta Bake 700g",
+    "price": 69.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h3b/hb2/35159377543198/silo-product-image-v2-17Feb2026-180042-6001000512368-Straight_on-403946-9_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-butternut-creamy-spinach-feta-bake-700g/p/000000000000788754_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Let's Cook Crushed Garlic &  Herb 100g",
+    "price": 24.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hab/h2a/11366144114718/silo-product-image-v2-19Feb2024-100049-6009218259839-Straight_on-205725-2296_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-let-s-cook-crushed-garlic-herb-100g/p/000000000000895051_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Leeks Bunch",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h21/hc5/10900813676574/silo-product-image-v2-14Jul2022-180123-6001007082529-Straight_on-49586-7283_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-leeks-bunch/p/000000000000208282_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Brinjals 1kg",
+    "price": 42.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h51/h9a/11124917764126/silo-product-image-v2-16Mar2023-184002-6009218702373-Straight_on-124064-8901_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-brinjals-1kg/p/000000000000873249_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Let's Cook Habanero Chillies 50g",
+    "price": 16.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h4c/h68/26651920334878/silo-product-image-v2-08Oct2025-180053-6001007262839-Straight_on-359240-587_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-let-s-cook-habanero-chillies-50g/p/000000000000537627_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Creamy Potato Bake 850g",
+    "price": 74.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h4b/h07/11446488399902/silo-product-image-v2-15Jul2024-131249-6001007494735-Straight_on-232822-201_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-creamy-potato-bake-850g/p/000000000000730456_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Baby Marrows 600g",
+    "price": 46.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hab/haa/10995272056862/silo-product-image-v2-27Oct2022-180125-6009218349004-Straight_on-67351-3228_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-baby-marrows-600g/p/000000000000890574_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Ground Ginger Refill 50g",
+    "price": 17.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h49/h59/11404730662942/silo-product-image-v2-20Apr2024-180106-6001007181994-Straight_on-221147-227_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-ground-ginger-refill-50g/p/000000000000390745_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Fine Beans 400g",
+    "price": 46.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h45/h86/12286158897182/silo-product-image-v2-31May2025-180039-6001000017184-Straight_on-328028-65_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-fine-beans-400g/p/000000000000780967_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Turnips Bunch",
+    "price": 23.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hbf/hbf/11256756502558/silo-product-image-v2-31Aug2023-180445-6001007082512-Straight_on-172110-1320_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-turnips-bunch/p/000000000000112700_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Carrots Baby 300g",
+    "price": 31.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/he0/h7f/12339722616862/silo-product-image-v2-03Jun2025-180029-6001007301644-Straight_on-328140-140_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-carrots-baby-300g/p/000000000000672957_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Soft Squashes Selection Prepack",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/he2/h67/11185635688478/silo-product-image-v2-01Jun2023-180615-6001007041328-Straight_on-138199-1282_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-soft-squashes-selection-prepack/p/000000000000192278_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Shimeji Mushrooms 150g",
+    "price": 39.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/ha4/h0e/11550751752222/silo-product-image-v2-08Jan2025-180041-6001007221522-Straight_on-280981-3857_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-shimeji-mushrooms-150g/p/000000000000453816_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Gem Squash 2kg",
+    "price": 49.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hda/h6e/11125952380958/silo-product-image-v2-16Mar2023-184631-6001000033108-Straight_on-101207-10547_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-gem-squash-2kg/p/000000000000785457_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP King Oyster Mushrooms 150g",
+    "price": 38.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h76/hc8/11550745722910/silo-product-image-v2-08Jan2025-180040-6009218850494-Straight_on-281051-3850_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-king-oyster-mushrooms-150g/p/000000000000864092_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Cauliflower & Broccoli with Cheese Sauce 450g",
+    "price": 59.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h6c/hdf/11446494330910/silo-product-image-v2-15Jul2024-131250-6001007494728-Straight_on-232818-211_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-cauliflower-broccoli-with-cheese-sauce-450g/p/000000000000730457_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Radicchio",
+    "price": 24.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h13/hca/10627741843486/silo-product-image-v2-14Dec2021-180116-6001007223632-front-2830970-749_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-radicchio/p/000000000000459403_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sweet Potato & Butternut Bake 800g",
+    "price": 69.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h2a/h27/11446491021342/silo-product-image-v2-15Jul2024-131249-6001000512399-Straight_on-232814-204_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sweet-potato-butternut-bake-800g/p/000000000000788697_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Let's Cook Crushed Garlic & Ginger 250g",
+    "price": 38.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/he3/hcb/11326071013406/silo-product-image-v2-08Dec2023-144534-6009229284967-Straight_on-196095-4071_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-let-s-cook-crushed-garlic-ginger-250g/p/000000000000928853_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Let's Cook Garlic Squeeze 250ml",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/ha4/h11/10958943813662/silo-product-image-v2-23Sep2022-180136-6001000496750-Straight_on-58130-1364_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-let-s-cook-garlic-squeeze-250ml/p/000000000000815923_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Exotic Mushroom Mix 200g",
+    "price": 46.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hd2/h6d/11550747459614/silo-product-image-v2-08Jan2025-180040-6001007049737-Straight_on-280971-3853_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-exotic-mushroom-mix-200g/p/000000000000224964_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Bean Sprouts 100g",
+    "price": 27.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hbb/h34/10773179596830/silo-product-image-v2-15Mar2022-180719-6001007449407-Straight_on-7843-22998_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-bean-sprouts-100g/p/000000000000728822_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Let's Cook Garlic & Ginger Squeeze 250ml",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h86/hf1/10958912618526/silo-product-image-v2-23Sep2022-180134-6001000496736-Straight_on-58128-1304_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-let-s-cook-garlic-ginger-squeeze-250ml/p/000000000000815851_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Let's Cook Crushed Garlic & Ginger 500g",
+    "price": 59.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hc5/hd3/30239567151134/silo-product-image-v2-04Dec2025-180025-6001007313029-Straight_on-380979-7_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-let-s-cook-crushed-garlic-ginger-500g/p/000000000000685093_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Crunchy Mixed Sprouts 150g",
+    "price": 28.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h9e/h0a/10773284061214/silo-product-image-v2-15Mar2022-180820-6001007213053-Straight_on-8033-23178_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-crunchy-mixed-sprouts-150g/p/000000000000432204_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "True Roots Whole Baby Beetroot",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hdc/h70/11531431870494/silo-product-image-v2-29Nov2024-180131-6009808590519-Straight_on-273245-1355_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/true-roots-whole-baby-beetroot/p/000000000000975821_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sliced Portobello Mushrooms",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h8b/hcc/12340057014302/silo-product-image-v2-03Jun2025-180030-6009218702052-Straight_on-328150-133_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sliced-portobello-mushrooms/p/000000000000873498_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "True Roots Grated Beetroot",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h7e/h70/11531444486174/silo-product-image-v2-29Nov2024-180134-6009808590526-Straight_on-273247-1373_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/true-roots-grated-beetroot/p/000000000000974640_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Kohlrabi",
+    "price": 11.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h7a/h05/11555215179806/silo-product-image-v2-15Jan2025-180127-6009229373678-Straight_on-283088-856_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-kohlrabi/p/000000000000977645_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Baby Button Mushrooms 150g",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h7e/hc7/11550761910302/silo-product-image-v2-08Jan2025-180045-6009218702076-Straight_on-281041-3872_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-baby-button-mushrooms-150g/p/000000000000873496_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Chillies Red Bulk",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/he6/h9b/11125865840670/silo-product-image-v2-16Mar2023-184601-6009218698416-Straight_on-107535-10417_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-chillies-red-bulk/p/000000000000877757_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Yellow Patty Pans",
+    "price": 33.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hd2/he7/11398652067870/silo-product-image-v2-09Apr2024-170856-6001007041564-Straight_on-37902-1199_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-yellow-patty-pans/p/000000000000151418_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Shelled Edamame Beans",
+    "price": 48.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hff/he4/12162668855326/silo-product-image-v2-24May2025-180038-6009229284981-Straight_on-326931-49_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-shelled-edamame-beans/p/000000000000928852_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Turmeric 150g",
+    "price": 31.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hd4/h50/10898463522846/silo-product-image-v2-12Jul2022-180155-6001007498849-Straight_on-48789-6464_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-turmeric-150g/p/000000000000744149_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Tasty Stem Broccoli 400g",
+    "price": 59.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h2a/he6/11550754111518/silo-product-image-v2-08Jan2025-180043-6001007246952-Straight_on-280985-3864_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-tasty-stem-broccoli-400g/p/000000000000505386_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Chilli Crunch 120g",
+    "price": 59.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h9b/h97/33732255186974/silo-product-image-v2-27Jan2026-180037-6009242095014-Straight_on-399426-170_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-chilli-crunch-120g/p/000000000001021543_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Jalapeno Poppers 300g",
+    "price": 26.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hb9/h2a/11127800070174/silo-product-image-v2-16Mar2023-185740-6009218851316-Straight_on-107555-13494_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-jalapeno-poppers-300g/p/000000000000862831_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Tomato Medley Mix 250g",
+    "price": 31.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h02/h23/11550751162398/silo-product-image-v2-08Jan2025-180041-6009218702380-Straight_on-281047-3856_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-tomato-medley-mix-250g/p/000000000000873248_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Let's Cook Soup & Stew Starter Pack",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h45/h10/11185584504862/silo-product-image-v2-01Jun2023-180542-6001007051761-Straight_on-138975-1188_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-let-s-cook-soup-stew-starter-pack/p/000000000000170089_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Rainbow Carrots 200g",
+    "price": 35.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h25/h07/11556799938590/silo-product-image-v2-17Jan2025-180044-6001007071714-Straight_on-284278-1688_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-rainbow-carrots-200g/p/000000000000128338_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Mini Corn Mange Tout 125g",
+    "price": 35.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h22/h01/12286042308638/silo-product-image-v2-31May2025-180039-6001007301941-Straight_on-328044-82_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-mini-corn-mange-tout-125g/p/000000000000673012_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Mini Corn & Sugar Snaps",
+    "price": 36.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hc2/h59/12339903987742/silo-product-image-v2-03Jun2025-180029-6001000484948-Straight_on-328138-115_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-mini-corn-sugar-snaps/p/000000000000802169_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Offenau Sweet Yellow Cocktail Onions 340g",
+    "price": 40.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h47/hfb/27889775509534/silo-product-image-v2-29Oct2025-180235-6004791002384-Straight_on-365245-591_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/offenau-sweet-yellow-cocktail-onions-340g/p/000000000000610354_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Hq Foods Pure Crushed Garlic 375ml",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hd2/h26/12112802086942/silo-product-image-v2-21May2025-180110-6001475010062-Straight_on-322666-107_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/hq-foods-pure-crushed-garlic-375ml/p/000000000000398208_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Garlic Cloves",
+    "price": 26.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h78/h4e/10898450874398/silo-product-image-v2-12Jul2022-180153-6001007068097-Straight_on-48751-6434_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-garlic-cloves/p/000000000000254491_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Mini Corn Bulk Pack",
+    "price": 48.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h8d/hf9/12286099882014/silo-product-image-v2-31May2025-180039-6001007300494-Straight_on-328036-75_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-mini-corn-bulk-pack/p/000000000000672894_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Hq Foods Pure Garlic & Ginger 375ml",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h66/h0f/11121187586078/silo-product-image-v2-16Mar2023-181330-6001475010079-Straight_on-117003-2809_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/hq-foods-pure-garlic-ginger-375ml/p/000000000000398206_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Crushed Garlic, Ginger, Chilli & Tumeric 60g",
+    "price": 24.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/haa/h38/11398523453470/silo-product-image-v2-09Apr2024-170830-6001000493056-Straight_on-37858-991_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-crushed-garlic-ginger-chilli-tumeric-60g/p/000000000000810126_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Crushed Garlic, Ginger & Chilli 60g",
+    "price": 24.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h54/h34/11398524534814/silo-product-image-v2-09Apr2024-170830-6001000493025-Straight_on-37860-992_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-crushed-garlic-ginger-chilli-60g/p/000000000000810123_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Sugar Snap Peas 200g",
+    "price": 54.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hd4/h9b/11516396503070/silo-product-image-v2-07Nov2024-180111-6001007238940-Straight_on-263072-184_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-sugar-snap-peas-200g/p/000000000000492830_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Pak Choy 200g",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h7b/h9e/11516396470302/silo-product-image-v2-07Nov2024-180111-6001007075347-Straight_on-263070-182_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-pak-choy-200g/p/000000000000127252_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Shelled Garden Peas 125g",
+    "price": 37.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hc9/h1b/16593202053150/silo-product-image-v2-19Sep2025-180039-6001007067267-Straight_on-353140-21_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-shelled-garden-peas-125g/p/000000000000229131_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "HQ Foods Garlic Ginger & Dhanya 375ml",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h09/hf9/30375742865438/silo-product-image-v2-06Dec2025-180026-6001475018976-Straight_on-382424-268_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/hq-foods-garlic-ginger-dhanya-375ml/p/000000000000968590_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "HQ Foods Garlic & Ginger 100ml",
+    "price": 17.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h90/h9f/11488834486302/silo-product-image-v2-20Sep2024-180050-6001475018716-Straight_on-250830-2641_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/hq-foods-garlic-ginger-100ml/p/000000000000969205_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Truly Good Cauliflower & Turnip Rice 300g",
+    "price": 42.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h3b/h68/11365945049118/silo-product-image-v2-19Feb2024-100005-6009880629947-Straight_on-206021-2000_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/truly-good-cauliflower-turnip-rice-300g/p/000000000000865804_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Truly Good Cauliflower Turnip Tagliatelle 250g",
+    "price": 42.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hc3/h5a/11365940920350/silo-product-image-v2-19Feb2024-100004-6009880629558-Straight_on-206019-1991_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/truly-good-cauliflower-turnip-tagliatelle-250g/p/000000000000869043_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Baby Brinjals 400g",
+    "price": 32.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h2a/hb9/11512894521374/silo-product-image-v2-01Nov2024-180045-6001000003217-Straight_on-262208-240_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-baby-brinjals-400g/p/000000000000152582_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Extra Fine Beans 200g",
+    "price": 38.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h33/h22/11556805640222/silo-product-image-v2-17Jan2025-180045-6001007331580-Straight_on-284288-1695_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-extra-fine-beans-200g/p/000000000000110207_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Baby Leeks 200g",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h75/h52/16887727685662/silo-product-image-v2-24Sep2025-180030-6001000003200-Straight_on-353693-18_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-baby-leeks-200g/p/000000000000104883_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Feigels Cabbage Salad 250g",
+    "price": 39.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hfa/h46/11599085502494/silo-product-image-v2-07Mar2025-180047-6003445000707-Straight_on-296155-383_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/feigels-cabbage-salad-250g/p/000000000000325821_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Yutaka Sushi Ginger 190g",
+    "price": 106.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h56/h4e/27889231659038/silo-product-image-v2-29Oct2025-180134-5014276600012-Straight_on-364175-461_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/yutaka-sushi-ginger-190g/p/000000000000637083_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Baby Fennel 200g",
+    "price": 31.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h13/h7b/16887725817886/silo-product-image-v2-24Sep2025-180030-6001007300418-Straight_on-353705-17_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-baby-fennel-200g/p/000000000000672883_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Staffords Chilli Paste 140g",
+    "price": 41.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/ha9/h6a/11208644231198/silo-product-image-v2-23Jun2023-181049-6001409001197-Straight_on-156684-2816_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/staffords-chilli-paste-140g/p/000000000000696891_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "PnP Baby Gem Squash",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h4e/hd5/10898388418590/silo-product-image-v2-12Jul2022-180145-6001007041571-Straight_on-48740-6271_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/pnp-baby-gem-squash/p/000000000000251688_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Staffords Garlic Paste 140g",
+    "price": 41.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h2f/hd1/11208645148702/silo-product-image-v2-23Jun2023-181049-6001409001173-Straight_on-156692-2819_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/staffords-garlic-paste-140g/p/000000000000696890_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Amina's Wonder Spice Ginger & Garlic 300g",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hb3/h85/11618787328030/silo-product-image-v2-25Mar2025-180131-6009637110940-Straight_on-301103-1642_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/amina-s-wonder-spice-ginger-garlic-300g/p/000000000000593511_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Truly Good Vegetable Pizza Bases 2ea",
+    "price": 59.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h80/he4/11398835470366/silo-product-image-v2-09Apr2024-170934-6009880629107-Straight_on-37965-1482_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/truly-good-vegetable-pizza-bases-2ea/p/000000000000858752_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Amina's Wonder Spice Crushed Garlic 300g",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h38/hae/11618772942878/silo-product-image-v2-25Mar2025-180127-6009637110926-Straight_on-301095-1612_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/amina-s-wonder-spice-crushed-garlic-300g/p/000000000000593510_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Truly Good Vegetable Cauliflower & Turnip Wrap 4 Pack",
+    "price": 59.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h69/h40/10963639894046/silo-product-image-v2-29Sep2022-180151-6009880629008-Straight_on-58483-2303_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/truly-good-vegetable-cauliflower-turnip-wrap-4-pack/p/000000000000858750_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Truly Good Vegetable Wrap Ancient Grain 4 Pack",
+    "price": 59.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hf8/h3a/11398794772510/silo-product-image-v2-09Apr2024-170924-6009880629251-Straight_on-37960-1423_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/truly-good-vegetable-wrap-ancient-grain-4-pack/p/000000000000858748_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Truly Good Snack Wraps 8 Pack",
+    "price": 29.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h48/h13/11398251544606/silo-product-image-v2-09Apr2024-170231-6009880629145-Straight_on-216830-574_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/truly-good-snack-wraps-8-pack/p/000000000000911615_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Truly Good Vegetable Wrap Beetroot 4 Pack",
+    "price": 59.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hd3/h98/11398839828510/silo-product-image-v2-09Apr2024-170934-6009880629244-Straight_on-37964-1487_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/truly-good-vegetable-wrap-beetroot-4-pack/p/000000000000858749_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Truly Good Vegetable Lasagne Sheets 250g",
+    "price": 49.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/h99/h41/10575298461726/silo-product-image-v2-03Nov2021-181519-6009880629954-front-2809279-67140_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/truly-good-vegetable-lasagne-sheets-250g/p/000000000000858751_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Truly Good Mini Pizza Base 6 Pack",
+    "price": 34.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hef/h5c/11398257213470/silo-product-image-v2-09Apr2024-170232-6009880629152-Straight_on-216832-581_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/truly-good-mini-pizza-base-6-pack/p/000000000000911459_EA"
+  },
+  {
+    "retailer": "PickAndPay",
+    "name": "Amina's Wonder Spice Criushed Garlic 125g",
+    "price": 12.99,
+    "imgUrl": "https://cdn-prd-02.pnp.co.za/sys-master/images/hcb/h7e/11826757206046/silo-product-image-v2-26Apr2025-180040-6009637112883-Straight_on-314966-26_400Wx400H",
+    "itemUrl": "https://www.pnp.co.za/amina-s-wonder-spice-criushed-garlic-125g/p/000000000000979054_EA"
+  }
+]
