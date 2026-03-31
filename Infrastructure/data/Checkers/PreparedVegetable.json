@@ -1,0 +1,338 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Baby Sweet Potatoes 650g",
+    "price": 26.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/66f42dded257730088583108?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-sweet-potatoes-650g-10492434EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Harvest Mix 350g",
+    "price": 39.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/673cb6c9961df9c8a39c9723?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/harvest-mix-350g-10145206EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Green Vegetable Mix 250g",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6900b4a39b690a03bc63ad94?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/green-vegetable-mix-250g-10939416EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Simple Truth Vegetable Shells 250g",
+    "price": 44.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6979c5ea255da9c33abf8879?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/simple-truth-vegetable-shells-250g-10952571EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Baby Marrow Spaghetti 350g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/675983ade104a08a636d4ca3?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-marrow-spaghetti-350g-10519032EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Peeled Carrots 120g",
+    "price": 12.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69a18b4127e459645485f7c1?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/peeled-carrots-120g-10601121EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Cooked Baby Beetroot Infused with Cape Malay Spice 400g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/691361594a5d8228902d617b?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/cooked-baby-beetroot-infused-with-cape-malay-spice-400g-10718446EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Butternut, Baby Marrow and Cauliflower Mix 400g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6759bce5e104a08a636d8c52?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/butternut-baby-marrow-and-cauliflower-mix-400g-10889327EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Cooked Beetroot 500g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6748d9c1d4c75bbf850d5d2b?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/cooked-beetroot-500g-10705132EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Baby Potatoes & Crème Fraîche & Chive Flavoured Butter 550g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6749149161d67a7e215a1312?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-potatoes-and-creme-fraiche-and-chive-flavoured-butter-550g-10900275EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Green Vegetable Mix 400g",
+    "price": 35.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/679ba1f97e91253b71395224?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/green-vegetable-mix-400g-10800398EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Red Coleslaw Mix 350g",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6435615e9708f9b780f2b521?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/red-coleslaw-mix-350g-10726075EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Baby Potatoes & Braai Flavoured Butter 550g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6749148d9efa0e52cb430362?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-potatoes-and-braai-flavoured-butter-550g-10900276EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Roasting Vegetables 250g",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6900b4a3324463534a3d2be4?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/roasting-vegetables-250g-10939417EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Julienne Stir Fry 420g",
+    "price": 36.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0fa8f5c5e4f0119b91edb?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/julienne-stir-fry-420g-10641176EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Butternut Cubes 500g",
+    "price": 26.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6786329b9ece76ca3a981b30?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/butternut-cubes-500g-10145406EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Sweet Potato Cubes 500g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/66bcb365006731c6022d9ab0?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/sweet-potato-cubes-500g-10145729EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Ready To Roast Baby Potatoes 800g",
+    "price": 49.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6824a46e8e4cbee5bea5dd80?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/ready-to-roast-baby-potatoes-800g-10871140EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Julienne Carrots 100g",
+    "price": 12.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6925d657f0a40a4839564ebf?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/julienne-carrots-100g-10528376EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Garden Medley Stir Fry 365g",
+    "price": 36.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/67a240b5cbca68edd19f3718?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/garden-medley-stir-fry-365g-10889320EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Crunchy Stir Fry 600g",
+    "price": 36.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d81ca416c7ec590334f064?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/crunchy-stir-fry-600g-10528379EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Cooked Baby Beetroot Infused with Vinegar 400g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69136159ae0fe5ae3915fc6a?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/cooked-baby-beetroot-infused-with-vinegar-400g-10718445EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Everyday Roast Mix 750g",
+    "price": 39.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/679390858f6c75fb45696620?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/everyday-roast-mix-750g-10688383EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Carrot Batons 300g",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/673bb3122fd811020333e293?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/carrot-batons-300g-10879875EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Peeled Carrots 300g",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/67863275446d4e814269aeb3?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/peeled-carrots-300g-10144943EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Baby Potatoes & Rosemary & Parmesan Flavoured Butter 550g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6749148f125e351629d02a28?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-potatoes-and-rosemary-and-parmesan-flavoured-butter-550g-10900279EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Oriental Stir Fry 365g",
+    "price": 36.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0fb81f8e93eef658e953f?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/oriental-stir-fry-365g-10641174EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Cooked Baby Beetroot Infused with Vinegar 400g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/693813500e546433f5506b90?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/cooked-baby-beetroot-infused-with-vinegar-400g-10897717EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Sweet & Sour Beetroot Salad 400g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69136170aaee235abf78cd55?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/sweet-and-sour-beetroot-salad-400g-10897719EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Green Beans 300g",
+    "price": 39.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6786329a217cb31870739a49?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/green-beans-300g-10145404EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Carrot, Broccoli & Cauliflower Mix 400g",
+    "price": 32.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/653667f0816f94f38b80cbfb?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/carrot-broccoli-and-cauliflower-mix-400g-10847918EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Julienne Beetroot 100g",
+    "price": 12.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/691f06b15fa6f6f423697884?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/julienne-beetroot-100g-10528172EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Sliced Red Onion 70g",
+    "price": 12.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/691f06b11a0aee4ca418685e?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/sliced-red-onion-70g-10528377EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Broccoli Florets 350g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/669125cc0edf0e0fe91b849b?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/broccoli-florets-350g-10145154EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Cauliflower & Broccoli Florets Mix 350g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6786335b3a95ece29612da32?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/cauliflower-and-broccoli-florets-mix-350g-10151552EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Everyday Roasting Vegetables 250g",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6900b4a44044eabf596bd00c?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/everyday-roasting-vegetables-250g-10939415EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Pumpkin Cubes 500g",
+    "price": 26.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6786329c355128200e8f02c5?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/pumpkin-cubes-500g-10145412EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Cauliflower Florets 350g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/67863359355128200e8f03e2?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/cauliflower-florets-350g-10151551EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Coleslaw Mix 600g",
+    "price": 26.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63f61d15f97155e74535b976?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/coleslaw-mix-600g-10147111EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Curry Carrot Salad 400g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6913616faaee235abf78cd46?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/curry-carrot-salad-400g-10897718EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Simple Truth Vegetable Macaroni 250g",
+    "price": 44.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6979fe4f32f76e15ca9264fa?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/simple-truth-vegetable-macaroni-250g-10952572EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "3 Bean Salad with a Tangy Dressing 400g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69136172ae9084c99b2388e7?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/3-bean-salad-with-a-tangy-dressing-400g-10928206EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Coleslaw Mix  350g",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63f61d1343707cd2c1ea314c?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/coleslaw-mix-350g-10145409EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Potjiekos Medley 1kg",
+    "price": 52.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/678939fe930a7c1ecf984e73?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/potjiekos-medley-1kg-10476184EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "The Kitchen Soya Stir Fry Sauce 120g",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63da1b4d33aab7bced31c363?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/the-kitchen-soya-stir-fry-sauce-120g-10742799EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Everyday Mixed Vegetables 400g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6791a66d78f816973665e5f3?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/everyday-mixed-vegetables-400g-10726361EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "The Kitchen Sweet & Sour Stir Fry Sauce 120g",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63da1b4d5d93af89d042f32d?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/the-kitchen-sweet-and-sour-stir-fry-sauce-120g-10742800EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Simple Truth Vegetable Noodles 250g",
+    "price": 44.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69aa8d5c179784b42ee6b1d0?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/simple-truth-vegetable-noodles-250g-10660076EA"
+  }
+]

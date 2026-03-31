@@ -1,0 +1,30 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Black Seedless Grapes 500g",
+    "price": 39.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63eb911505ed26401cca0f2f?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/black-seedless-grapes-500g-10182152EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Red Globe Grapes 500g",
+    "price": 39.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d21496f8e93eef657f7765?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/red-globe-grapes-500g-10145457EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Red Seedless Grapes 500g",
+    "price": 39.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d1e2755d93af89d03ab1a8?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/red-seedless-grapes-500g-10145227EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "White Seedless Grapes 500g",
+    "price": 39.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d1e27033aab7bced288b41?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/white-seedless-grapes-500g-10148803EA"
+  }
+]

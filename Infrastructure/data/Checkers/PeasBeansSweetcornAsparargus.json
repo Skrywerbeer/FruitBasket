@@ -1,0 +1,58 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Asparagus 170g",
+    "price": 69.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/66bb5839bd22036406d32201?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/asparagus-170g-10144949EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Sweetcorn 4s",
+    "price": 32.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d2d17fbb819c5947d1ea01?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/sweetcorn-4s-10151615EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Green Beans 350g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d38c0ff0cbac537c091066?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/green-beans-350g-10151418EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Sweetcorn Mini Cobs 750g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/673630dd5edef23023659304?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/sweetcorn-mini-cobs-750g-10146454EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Shelled Peas 100g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6793843ae0f2953277cd28df?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/shelled-peas-100g-10601026EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Sweetcorn 2s",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0fa0b33aab7bced38bc7c?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/sweetcorn-2s-10144939EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Asparagus Baby 100g",
+    "price": 54.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6759b8d1e104a08a636d88d0?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/asparagus-baby-100g-10863802EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Edamame Beans 200g",
+    "price": 49.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e15256749cf491e8b0a3a5?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/edamame-beans-200g-10671594EA"
+  }
+]

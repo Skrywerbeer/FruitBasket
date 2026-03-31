@@ -1,0 +1,37 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Cut Red Cabbage",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/66aa615ba17111f69716ef81?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/cut-red-cabbage-10889326EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Cut Cabbage",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d2142b5c5e4f0119aa04b9?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/cut-cabbage-10151550EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Wrapped Cabbage",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d8816716c7ec59033511ae?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/wrapped-cabbage-10151573EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Green Baby Cabbage 2s",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d968fc5d93af89d042961b?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/green-baby-cabbage-2s-10151234EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Brussel Sprouts 300g",
+    "price": 52.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e171dabb819c5947e075f0?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/brussel-sprouts-300g-10151815EA"
+  }
+]

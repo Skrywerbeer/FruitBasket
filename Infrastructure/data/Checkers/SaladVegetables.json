@@ -1,0 +1,310 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Baby Corn 100g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6759881f6c1984c1585dda19?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-corn-100g-10601224EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "White Salad Onions 50g",
+    "price": 22.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6900b420adf0ce1e2f61c639?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/white-salad-onions-50g-10144957EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Butter Lettuce 130g",
+    "price": 22.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6900b4444044eabf596bcf70?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/butter-lettuce-130g-10536788EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Wild Rocket 40g",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6900b4456cbc9364adf77733?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/wild-rocket-40g-10536824EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Avocado Ripe & Ready",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/699d45f45b275bbaa7bc111b?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/avocado-ripe-and-ready-10151601EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Iceberg Lettuce 1s",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69649cb27f0c17ccd10e7b1a?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/iceberg-lettuce-1s-10684677EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Baby Butter & Rocket Mix 90g",
+    "price": 22.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6900b4488aa202470f5a674c?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-butter-and-rocket-mix-90g-10552588EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Green Frilly Lettuce 130g",
+    "price": 22.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6900b4444044eabf596bcf79?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/green-frilly-lettuce-130g-10536821EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Cos Lettuce 130g",
+    "price": 22.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/68ff9ad3d425db629a8c7fa8?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/cos-lettuce-130g-10536789EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Sundried Tomatoes Bag 100g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d1b85816c7ec59032e3dfd?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/sundried-tomatoes-bag-100g-10145401EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Avocados 1kg",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/699d504eab40fbb17c270430?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/avocados-1kg-10145358EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Cos Lettuce Heads 1s",
+    "price": 26.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69171d9f95dbb326d1580ade?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/cos-lettuce-heads-1s-10147151EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "English Cucumber 1s",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/690300c050eccce4a7f2f35d?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/english-cucumber-1s-10145817EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Ranch Salad 400g",
+    "price": 74.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/691361579e1a986394fe1e77?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/ranch-salad-400g-10707017EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Crisp Lettuce 250g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6900b43ae4754666d1bd52f3?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/crisp-lettuce-250g-10456706EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Baby Corn & Sugarsnap Peas 100g",
+    "price": 32.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6759881d6c1984c1585dda13?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-corn-and-sugarsnap-peas-100g-10601223EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Baked Sundried Onions 80g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e2cdba5d93af89d04cb4b2?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baked-sundried-onions-80g-10503199EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Fine Beans 100g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/672e2437d4e0580eba4657a1?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/fine-beans-100g-10601075EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Rainbow Coleslaw Mix 300g",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e104acf0cbac537c16ca84?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/rainbow-coleslaw-mix-300g-10788347EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Mini Seedless Cucumber 300g",
+    "price": 36.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/691b4a55733e7aaaf4133f53?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/mini-seedless-cucumber-300g-10152256EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Avocado Ripe & Ready 4s",
+    "price": 64.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/699d45f35b275bbaa7bc1116?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/avocado-ripe-and-ready-4s-10147551EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Sugar Snap Peas 80g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/679384ff8f6c75fb45695430?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/sugar-snap-peas-80g-10603104EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Rocket 40g",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6900b443d3401a5622fe3884?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/rocket-40g-10536786EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Dried Olives 100g",
+    "price": 36.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d2d1e25c5e4f0119ab1d1f?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/dried-olives-100g-10737582EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Avocado Ripe & Ready 2s",
+    "price": 59.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/699d45f15b275bbaa7bc1102?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/avocado-ripe-and-ready-2s-10144951EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Forage And Feast Mediterranean Vinaigrette 125ml",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/68d11437e1a6cc975a2797dc?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/forage-and-feast-mediterranean-vinaigrette-125ml-10782031EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Greek Salad 450g",
+    "price": 74.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69136158aaee235abf78cd1e?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/greek-salad-450g-10729142EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Avocados 4kg",
+    "price": 69.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/699d45f35b275bbaa7bc110e?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/avocados-4kg-10145809EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Crunch Salad 230g",
+    "price": 39.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/692d876a8c19a5640590ea80?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/crunch-salad-230g-10945196EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Crisp & Crunchy Caesar Salad 200g",
+    "price": 44.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69384b5a41b41d02d0f55f31?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/crisp-and-crunchy-caesar-salad-200g-10950047EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Asian Salad Mix 200g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6900b4446cbc9364adf77726?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/asian-salad-mix-200g-10536787EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Greek Salad 170g",
+    "price": 42.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69136155ae9084c99b2388b1?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/greek-salad-170g-10634918EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Summer Salad 450g",
+    "price": 64.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69136152afdbbf9f19dba2c0?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/summer-salad-450g-10483643EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Medium Avocado",
+    "price": 12.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/699d45f22a606be16ff20540?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/medium-avocado-10145032EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Mini English Cucumber 1s",
+    "price": 11.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/68ff9acf7961508a788e6d75?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/mini-english-cucumber-1s-10145212EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Lettuce & Herb Mix 180g",
+    "price": 26.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/68ff9ad4d425db629a8c7fb6?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/lettuce-and-herb-mix-180g-10536822EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Spring Onions 75g",
+    "price": 22.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69aa8d57daa1eacb7e4e9d20?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/spring-onions-75g-10148755EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Butter Lettuce Head 1s",
+    "price": 26.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6916e562e76588d27b749197?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/butter-lettuce-head-1s-10151572EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Forage And Feast Balsamic Salad Dressing 125ml",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/68cd152c03f6b5484a545b57?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/forage-and-feast-balsamic-salad-dressing-125ml-10782032EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Seasonal Salad 200g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69136155ae9084c99b2388a5?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/seasonal-salad-200g-10634915EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Little Gem Lettuce Heads 1s",
+    "price": 26.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69171da0c5f6affb8969b6db?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/little-gem-lettuce-heads-1s-10147558EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Baby Leaf Salad Mix 80g",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6900b43a50c844b5338dc5fe?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-leaf-salad-mix-80g-10458467EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Red Salad Onions 50g",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6952a96702862789c20200ef?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/red-salad-onions-50g-10375213EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Mixed Leaf Salad 200g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69171d9ee56f5328414dd154?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/mixed-leaf-salad-200g-10145543EA"
+  }
+]

@@ -1,0 +1,39 @@
+@page "/"
+@using ApplicationCore
+@using Infrastructure
+@inject ProductProvider provider
+@inject HttpClient client
+<div id="background"></div>
+<section id="products">
+  <h1>@(message)</h1>
+  <input type="text" @bind="search" placeholder="search"/>
+  <ul>
+    @foreach (Product product in provider.ContainedInName(search))
+    {
+      if (product is null)
+        continue;
+      <a href="@product.ItemUrl" target="_blank">
+        <li class="@product.Retailer">
+          <img src="@product.ImgUrl"/>
+          <div>
+            <p>@product.Name</p>
+            <p>R @product.Price</p>
+          </div>
+        </li>
+      </a>
+    }
+  </ul>
+</section>
+
+
+@code 
+{
+  string message;
+  string search = string.Empty;
+  private List<Product> _products = new();
+  protected override async Task OnInitializedAsync()
+  {
+    message = await client.GetStringAsync("data/message.txt");
+    await provider.LoadAsync();
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Baby Squash Variety 350g",
+    "price": 32.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0efa833aab7bced389325?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-squash-variety-350g-10151531EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Baby Brinjals 250g",
+    "price": 26.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0f102f8e93eef658e6bfa?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-brinjals-250g-10151417EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Baby Turnips 240g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0efce5c5e4f0119b8f446?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-turnips-240g-10147561EA"
+  }
+]

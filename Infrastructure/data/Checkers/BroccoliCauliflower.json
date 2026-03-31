@@ -1,0 +1,30 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Cauliflower 400g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/65bb99c3709ac6e54321ce10?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/cauliflower-400g-10151423EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Sweet Baby Broccoli  250g",
+    "price": 49.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6474a1e3616a4bfae926111e?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/sweet-baby-broccoli-250g-10455686EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Broccoli 350g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/65bb99c2a1f5cb9f183a7225?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/broccoli-350g-10151420EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Cauliflower & Broccoli 400g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/65bb99c4947f47be50222cfd?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/cauliflower-and-broccoli-400g-10151557EA"
+  }
+]

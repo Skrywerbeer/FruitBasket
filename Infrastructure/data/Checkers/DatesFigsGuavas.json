@@ -1,0 +1,30 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Pitted Medjool Dates 150g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6703e5ead85a8dbc8e00504d?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/pitted-medjool-dates-150g-10900280EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Zamli Dates 150g",
+    "price": 39.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0f0b35d93af89d04ac903?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/zamli-dates-150g-10733269EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Medjool Dates 250g",
+    "price": 49.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/68e53cd41c9ebbc735d65f38?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/medjool-dates-250g-10152246EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Figs 160g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63f61d1460250f410f3aa096?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/figs-160g-10145419EA"
+  }
+]

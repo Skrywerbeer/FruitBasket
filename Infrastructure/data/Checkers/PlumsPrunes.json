@@ -1,0 +1,23 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Plums 750g",
+    "price": 36.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/65cb2555f88f400671ab62dd?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/plums-750g-10151537EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Plums 1kg",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d2148ff0cbac537c077fd9?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/plums-1kg-10145383EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Plums 6s",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/67b851c5479ccd71ce5a574e?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/plums-6s-10618976EA"
+  }
+]

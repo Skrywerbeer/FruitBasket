@@ -1,0 +1,23 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Baby Marrows 400g",
+    "price": 32.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e171d25d93af89d04b7cb8?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-marrows-400g-10151507EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Mixed Patty Pans 250g",
+    "price": 32.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e16e1e5c5e4f0119b9a761?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/mixed-patty-pans-250g-10145280EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Striped Brinjal 400g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0fb905c5e4f0119b922f5?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/striped-brinjal-400g-10673527EA"
+  }
+]

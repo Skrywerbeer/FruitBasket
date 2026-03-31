@@ -1,0 +1,1878 @@
+[
+  {
+    "retailer": "Woolworths",
+    "name": "Medium Potatoes 2 kg",
+    "price": 39.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Medium-Potatoes-2-kg-20039240.jpg?V=kzG7&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTI4LzIwMDM5MjQwX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Potatoes-Sweet-Potatoes/Medium-Potatoes-2-kg/_/A-20039240?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sweetcorn 4 pk",
+    "price": 29.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sweetcorn-4-pk-20008789.jpg?V=saNs&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTEyLTI0LzIwMDA4Nzg5X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Your-best-new-braai-menu/Sweetcorn-4-pk/_/A-20008789?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Large Carrots 1 kg",
+    "price": 19.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Large-Carrots-1-kg-20008314.jpg?V=9Suf&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA5LTIwLzIwMDA4MzE0X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Carrots-Beetroot/Large-Carrots-1-kg/_/A-20008314?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Salad Tomatoes 1 kg",
+    "price": 32.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Salad-Tomatoes-1-kg-20090012.jpg?V=S4%40u&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA5LTA0LzIwMDkwMDEyX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Tomatoes/Salad-Tomatoes-1-kg/_/A-20090012?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Rosa Tomatoes 400 g",
+    "price": 42.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Rosa-Tomatoes-400-g-20104894.jpg?V=vpgU&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTIyLzIwMTA0ODk0X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Tomatoes/Rosa-Tomatoes-400-g/_/A-20104894?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Whole Broccoli Avg 400 g",
+    "price": 28.88,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Whole-Broccoli-Avg-400-g-2906825000004.jpg?V=EwTM&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTEwLTEzLzI5MDY4MjUwMDAwMDRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Veggie-quiche/Whole-Broccoli-Avg-400-g/_/A-2906825000004?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Slicing Tomatoes 4 pk",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Slicing-Tomatoes-4-pk-20101480.jpg?V=D6Xg&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTIyLzIwMTAxNDgwX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Tomatoes/Slicing-Tomatoes-4-pk/_/A-20101480?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Butternut  500 g",
+    "price": 29.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Butternut-500-g-20008444.jpg?V=v7be&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTEyLTMwLzIwMDA4NDQ0X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Instant-crowd-pleaser/Butternut-500-g/_/A-20008444?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Spinach 200 g",
+    "price": 34.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Spinach-200-g-20008543.jpg?V=TN2k&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTEyLTExLzIwMDA4NTQzX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Chickpeas-For-Breakfast/Baby-Spinach-200-g/_/A-20008543?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Brown Onions 1 kg",
+    "price": 22.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Brown-Onions-1-kg-20008215.jpg?V=WcCR&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTExLTA0LzIwMDA4MjE1X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Roast-glazed-gammon/Brown-Onions-1-kg/_/A-20008215?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Medium Carrots 500 g",
+    "price": 11.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Medium-Carrots-500-g-20008307.jpg?V=b5NF&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA1LTI0LzIwMDA4MzA3X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Carrots-Beetroot/Medium-Carrots-500-g/_/A-20008307?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Rosa Tomatoes 200 g",
+    "price": 26.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Rosa-Tomatoes-200-g-20115944.jpg?V=f6b6&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTIyLzIwMTE1OTQ0X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Tomatoes/Rosa-Tomatoes-200-g/_/A-20115944?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Whole Cauliflower Avg 500 g",
+    "price": 33.12,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Whole-Cauliflower-Avg-500-g-2906824000005.jpg?V=7a%247&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE4LTAxLTExLzI5MDY4MjQwMDAwMDVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Veggie-quiche/Whole-Cauliflower-Avg-500-g/_/A-2906824000005?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Marrows 350 g",
+    "price": 31.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Marrows-350-g-20090876.jpg?V=cMmK&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA2LTEzLzIwMDkwODc2X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Baby-Marrows-350-g/_/A-20090876?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "3 Colour Peppers",
+    "price": 44.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/3-Colour-Peppers-20198695.jpg?V=X0bd&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTE0LzIwMTk4Njk1X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Peppers-Chillies/3-Colour-Peppers/_/A-20198695?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Large Potatoes 2 kg",
+    "price": 43.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Large-Potatoes-2-kg-20110994.jpg?V=9LJn&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTEyLTExLzIwMTEwOTk0X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Potatoes-Sweet-Potatoes/Large-Potatoes-2-kg/_/A-20110994?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Potatoes 700 g",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Potatoes-700-g-20008123.jpg?V=6atQ&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTI1LzIwMDA4MTIzX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Potatoes-Sweet-Potatoes/Baby-Potatoes-700-g/_/A-20008123?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Roma Tomatoes 800 g",
+    "price": 36.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Roma-Tomatoes-800-g-20120115.jpg?V=rwFe&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA3LTMwLzIwMTIwMTE1X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Tomatoes/Roma-Tomatoes-800-g/_/A-20120115?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Pumpkin 500 g",
+    "price": 29.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Pumpkin-500-g-20008420.jpg?V=8LNI&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTEyLTMwLzIwMDA4NDIwX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Butternut-Pumpkin-Squash/Pumpkin-500-g/_/A-20008420?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Kara Sweet Potatoes 1 kg",
+    "price": 31.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Kara-Sweet-Potatoes-1-kg-20088835.jpg?V=Q76I&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTI4LzIwMDg4ODM1X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Potatoes-Sweet-Potatoes/Kara-Sweet-Potatoes-1-kg/_/A-20088835?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Garlic Min 120 g",
+    "price": 48.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Garlic-Min-120-g-20150501.jpg?V=gAZc&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAzLTIwLzIwMTUwNTAxX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Indian-Corn-Dhal/Garlic-Min-120-g/_/A-20150501?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Broccoli Florets 300 g",
+    "price": 36.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Broccoli-Florets-300-g-20009007.jpg?V=VmTo&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA2LTEzLzIwMDA5MDA3X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Broccoli-Cauliflower/Broccoli-Florets-300-g/_/A-20009007?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Mediterranean Roasting Vegetables 500 g",
+    "price": 42.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Mediterranean-Roasting-Vegetables-500-g-20201227.jpg?V=Cuas&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA2LTI0LzIwMjAxMjI3X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/One-tray-wonders/Mediterranean-Roasting-Vegetables-500-g/_/A-20201227?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sliced Button Mushrooms 250 g",
+    "price": 38.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sliced-Button-Mushrooms-250-g-20046637.jpg?V=Pnsu&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTE4LzIwMDQ2NjM3X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-for-R45/Sliced-Mushrooms/Sliced-Button-Mushrooms-250-g/_/A-20046637?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Gem Squash 1 kg",
+    "price": 25.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Gem-Squash-1-kg-20008390.jpg?V=8uhw&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTIyLzIwMDA4MzkwX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Butternut-Pumpkin-Squash/Gem-Squash-1-kg/_/A-20008390?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Tenderstem® Broccoli 235 g",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Tenderstem-Broccoli-235-g-20008529.jpg?V=77%248&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAzLTA3LzIwMDA4NTI5X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Irresistible-side/Tenderstem-Broccoli-235-g/_/A-20008529?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Mixed Vegetables 400 g",
+    "price": 38.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Mixed-Vegetables-400-g-20149116.jpg?V=xEbn&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE3LTA3LTEzLzIwMTQ5MTE2X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Content/Winter-Insert-2022/Rotisserie-Chicken/Mixed-Vegetables-400-g/_/A-20149116?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Button Mushrooms 250 g",
+    "price": 38.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Button-Mushrooms-250-g-20008918.jpg?V=m%40ar&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTE4LzIwMDA4OTE4X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Mushrooms/Button-Mushrooms-250-g/_/A-20008918?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Chopped Mushrooms 400 g",
+    "price": 44.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Chopped-Mushrooms-400-g-20173036.jpg?V=lQfd&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTE4LzIwMTczMDM2X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Mushrooms/Chopped-Mushrooms-400-g/_/A-20173036?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Cherry Tomatoes 200 g",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Cherry-Tomatoes-200-g-20030469.jpg?V=fV8y&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTI1LzIwMDMwNDY5X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Tomatoes/Cherry-Tomatoes-200-g/_/A-20030469?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Creamy Spinach & Honey Butternut 350 g",
+    "price": 65.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Creamy-Spinach-Honey-Butternut-350-g-20204877.jpg?V=D5bq&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA4LTI0LzIwMjA0ODc3X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Creamy-Spinach-Honey-Butternut-350-g/_/A-20204877?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sliced Portabellini Mushrooms 250 g",
+    "price": 38.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sliced-Portabellini-Mushrooms-250-g-6009214714387.jpg?V=qyA4&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTE4LzYwMDkyMTQ3MTQzODdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Mushrooms/Sliced-Portabellini-Mushrooms-250-g/_/A-6009214714387?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Brown Onions 2 kg",
+    "price": 36.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Brown-Onions-2-kg-20009045.jpg?V=6Z2u&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTExLTEyLzIwMDA5MDQ1X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Braaied-sumac-chicken/Brown-Onions-2-kg/_/A-20009045?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Mediterranean Roasting Vegetables 800 g",
+    "price": 62.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Mediterranean-Roasting-Vegetables-800-g-6001009021328.jpg?V=EOCF&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTE0LzYwMDEwMDkwMjEzMjhfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Mixed-Veggie-Bags/Mediterranean-Roasting-Vegetables-800-g/_/A-6001009021328?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Potatoes with Garlic & Herb Butter 700 g",
+    "price": 36.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Potatoes-with-Garlic-Herb-Butter-700-g-20105211.jpg?V=s8Nc&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTAyLTE1LzIwMTA1MjExX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Content/Winter-Insert-2022/Rotisserie-Chicken/Baby-Potatoes-with-Garlic-Herb-Butter-700-g/_/A-20105211?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Chef's Style Baby Carrots 120 g",
+    "price": 19.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Chef-s-Style-Baby-Carrots-120-g-6009000155189.jpg?V=EIP2&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTI1LzYwMDkwMDAxNTUxODlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Kids-snacks/Chef-s-Style-Baby-Carrots-120-g/_/A-6009000155189?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Cauliflower, Broccoli & Carrots 400 g",
+    "price": 39.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Cauliflower-Broccoli-Carrots-400-g-20091170.jpg?V=hd6v&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE3LTA4LTE0LzIwMDkxMTcwX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Mixed-Veggie-Bags/Cauliflower-Broccoli-Carrots-400-g/_/A-20091170?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Coleslaw Salad 350 g",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Coleslaw-Salad-350-g-20158415.jpg?V=xdmX&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIxLTA5LTIzLzIwMTU4NDE1X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Content/Plant-Based-Eating/Recipes/Bunless-Rainbow-Crunch-Veggie-Burger/Coleslaw-Salad-350-g/_/A-20158415?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Slicing Tomatoes 6/8 pk",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Slicing-Tomatoes-6-8-pk-6008000281997.jpg?V=L1Yx&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTIyLzYwMDgwMDAyODE5OTdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Tomatoes/Slicing-Tomatoes-6-8-pk/_/A-6008000281997?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Red Onions 1 kg",
+    "price": 42.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Red-Onions-1-kg-20127824.jpg?V=36L0&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTExLTEyLzIwMTI3ODI0X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Veggie-braai/Red-Onions-1-kg/_/A-20127824?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Country Vegetables 400 g",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Country-Vegetables-400-g-20130510.jpg?V=Dq2P&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA5LTE1LzIwMTMwNTEwX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Mixed-Veggie-Bags/Country-Vegetables-400-g/_/A-20130510?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Green Beans 350 g",
+    "price": 29.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Green-Beans-350-g-20087388.jpg?V=Ik%24D&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTExLTIxLzIwMDg3Mzg4X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Your-best-new-braai-menu/Green-Beans-350-g/_/A-20087388?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Peeled Onions 1 kg",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Peeled-Onions-1-kg-20008208.jpg?V=i%24hr&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTExLTIxLzIwMDA4MjA4X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Abigails-ultimate-braaibroodjies/Peeled-Onions-1-kg/_/A-20008208?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Colore Peppers 450 g",
+    "price": 41.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Colore-Peppers-450-g-20004224.jpg?V=HS1I&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTA0LzIwMDA0MjI0X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Peppers-Chillies/Colore-Peppers-450-g/_/A-20004224?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Celery",
+    "price": 26.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Celery-20004194.jpg?V=YiYr&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA2LTEzLzIwMDA0MTk0X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Your-best-new-braai-menu/Celery/_/A-20004194?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Brown Onions 5 pk",
+    "price": 22.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Brown-Onions-5-pk-20144609.jpg?V=u6nQ&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTA3LTE4LzIwMTQ0NjA5X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Savoury-pap-cakes/Brown-Onions-5-pk/_/A-20144609?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Cabbage",
+    "price": 20.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Cabbage-20036379.jpg?V=4ksw&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA2LTEzLzIwMDM2Mzc5X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Cabbage-Brussel-Sprouts/Cabbage/_/A-20036379?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Corn 100 g",
+    "price": 31.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Corn-100-g-6008000179935.jpg?V=fPKs&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAzLTA3LzYwMDgwMDAxNzk5MzVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Sweetcorn-Asparagus/Baby-Corn-100-g/_/A-6008000179935?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Cocktail Tomatoes 500 g",
+    "price": 32.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Cocktail-Tomatoes-500-g-6009184427287.jpg?V=GAm7&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA3LTMwLzYwMDkxODQ0MjcyODdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Tomatoes/Cocktail-Tomatoes-500-g/_/A-6009184427287?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Exotic Tomato Mix 350 g",
+    "price": 42.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Exotic-Tomato-Mix-350-g-6009000205761.jpg?V=Xiw%24&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTI1LzYwMDkwMDAyMDU3NjFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/How-to-Videos/Beef-Burgers/Exotic-Tomato-Mix-350-g/_/A-6009000205761?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Broccoli & Cauliflower Florets 300 g",
+    "price": 36.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Broccoli-Cauliflower-Florets-300-g-20009014.jpg?V=FvZh&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA2LTEzLzIwMDA5MDE0X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Broccoli-Cauliflower/Broccoli-Cauliflower-Florets-300-g/_/A-20009014?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Julienne Stir-Fry Mix 435 g",
+    "price": 40.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Julienne-Stir-Fry-Mix-435-g-6009171564742.jpg?V=HOPC&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA4LTI2LzYwMDkxNzE1NjQ3NDJfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Stir-Fry/Julienne-Stir-Fry-Mix-435-g/_/A-6009171564742?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Butternut Avg 900 g",
+    "price": 24.07,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Butternut-Avg-900-g-2906818000004.jpg?V=Ch%40z&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDEzLTA2LTIxLzI5MDY4MTgwMDAwMDRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Butternut-Pumpkin-Squash/Butternut-Avg-900-g/_/A-2906818000004?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Carrot Batons 300 g",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Carrot-Batons-300-g-6008000680264.jpg?V=GoRi&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTIyLzYwMDgwMDA2ODAyNjRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Carrots-Beetroot/Carrot-Batons-300-g/_/A-6008000680264?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Tenderstem® Broccoli 125 g",
+    "price": 37.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Tenderstem-Broccoli-125-g-20091156.jpg?V=xmkb&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAzLTA3LzIwMDkxMTU2X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Tenderstem-Broccoli-125-g/_/A-20091156?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Julienne Carrots 100 g",
+    "price": 16.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Julienne-Carrots-100-g-6009182954693.jpg?V=rcmI&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTI1LzYwMDkxODI5NTQ2OTNfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Carrots-Beetroot/Julienne-Carrots-100-g/_/A-6009182954693?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Fresh Crushed Garlic 150 g",
+    "price": 52.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Fresh-Crushed-Garlic-150-g-6009101134533.jpg?V=8kWc&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTA3LTA4LzYwMDkxMDExMzQ1MzNfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Garlic-Ginger-Turmeric-Chillies-Fresh-Paste/Fresh-Crushed-Garlic-150-g/_/A-6009101134533?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Fresh Egg Noodles 250 g",
+    "price": 30.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Fresh-Egg-Noodles-250-g-6005000285482.jpg?V=%40d0Y&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIxLTEwLTA4LzYwMDUwMDAyODU0ODJfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Stir-fried-greens-baked-tofu-and-sesame/Fresh-Egg-Noodles-250-g/_/A-6005000285482?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Fresh Crushed Garlic, Ginger & Chilli 70 g",
+    "price": 39.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Fresh-Crushed-Garlic-Ginger-Chilli-70-g-20197919.jpg?V=iFwp&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTA4LTAzLzIwMTk3OTE5X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Garlic-Ginger-Turmeric-Chillies-Fresh-Paste/Fresh-Crushed-Garlic-Ginger-Chilli-70-g/_/A-20197919?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Green Vegetable Medley 375 g",
+    "price": 38.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Green-Vegetable-Medley-375-g-6009189863219.jpg?V=9apP&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE3LTA1LTE3LzYwMDkxODk4NjMyMTlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Content/Meals-in-under-20-minutes/Green-Vegetable-Medley-375-g/_/A-6009189863219?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Creamy Potato Mash 500 g",
+    "price": 68.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Creamy-Potato-Mash-500-g-6009214464855.jpg?V=HI12&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTEwLTE1LzYwMDkyMTQ0NjQ4NTVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Banger-onion-and-leak-roast/Creamy-Potato-Mash-500-g/_/A-6009214464855?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sugar Snap Peas 80 g",
+    "price": 31.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sugar-Snap-Peas-80-g-6008000806657.jpg?V=7Uug&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTI1LzYwMDgwMDA4MDY2NTdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Green-Beans-Peas-Mange-Tout/Sugar-Snap-Peas-80-g/_/A-6008000806657?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Chopped Spinach 400 g",
+    "price": 42.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Chopped-Spinach-400-g-6009175022859.jpg?V=qPec&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA5LTA0LzYwMDkxNzUwMjI4NTlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Spinach-Kale/Bulk-Chopped-Spinach-400-g/_/A-6009175022859?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Potatoes with Garlic & Herb Butter 350 g",
+    "price": 22.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Potatoes-with-Garlic-Herb-Butter-350-g-20046002.jpg?V=Xt9G&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTAyLTE1LzIwMDQ2MDAyX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/One-tray-wonders/Baby-Potatoes-with-Garlic-Herb-Butter-350-g/_/A-20046002?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Whole Ginger Min 200 g",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Whole-Ginger-Min-200-g-20108564.jpg?V=sj2z&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAzLTIwLzIwMTA4NTY0X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Garlic-Ginger-Turmeric-Chillies-Fresh-Paste/Whole-Ginger-Min-200-g/_/A-20108564?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sweetcorn Mini Cobs",
+    "price": 32.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sweetcorn-Mini-Cobs-20181345.jpg?V=uups&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAzLTA3LzIwMTgxMzQ1X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Braai-Shop/Plant-Based-Braai/Sweetcorn-Mini-Cobs/_/A-20181345?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Roma Tomatoes 1.5 kg",
+    "price": 48.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Roma-Tomatoes-1-5-kg-6009173240828.jpg?V=Kkf6&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA4LTA1LzYwMDkxNzMyNDA4MjhfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Tomatoes/Roma-Tomatoes-1-5-kg/_/A-6009173240828?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Chopped Spinach 200 g",
+    "price": 29.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Chopped-Spinach-200-g-20149123.jpg?V=TWfH&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTEzLzIwMTQ5MTIzX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Nyama-choma/Chopped-Spinach-200-g/_/A-20149123?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Tricolore Peppers 240 g",
+    "price": 36.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Tricolore-Peppers-240-g-20170622.jpg?V=dFfQ&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTA0LzIwMTcwNjIyX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Peppers-Chillies/Tricolore-Peppers-240-g/_/A-20170622?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Kara Sweet Potatoes 1 kg",
+    "price": 34.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Kara-Sweet-Potatoes-1-kg-6009211186484.jpg?V=554b&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTMwLzYwMDkyMTExODY0ODRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-for-R45/Sweet-potato-1kg/Kara-Sweet-Potatoes-1-kg/_/A-6009211186484?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Everyday Potatoes 3 kg",
+    "price": 50,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Everyday-Potatoes-3-kg-6009184264455.jpg?V=YIlc&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTI4LzYwMDkxODQyNjQ0NTVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-4-pay-for-3/Bulk-Veg-and-Salad-Deal/Bulk-Everyday-Potatoes-3-kg/_/A-6009184264455?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Portabellini Mushrooms 250 g",
+    "price": 38.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Portabellini-Mushrooms-250-g-20162894.jpg?V=ieRL&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA5LTE5LzIwMTYyODk0X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Mushrooms/Portabellini-Mushrooms-250-g/_/A-20162894?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bright & Crunchy Stir-Fry Mix 375 g",
+    "price": 40.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bright-Crunchy-Stir-Fry-Mix-375-g-6009184389004.jpg?V=IrNf&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA2LTI0LzYwMDkxODQzODkwMDRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Modern-Vegetables/Bright-Crunchy-Stir-Fry-Mix-375-g/_/A-6009184389004?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Seasonal Vegetables 450 g",
+    "price": 38.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Seasonal-Vegetables-450-g-20130527.jpg?V=G2J9&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE3LTA1LTI1LzIwMTMwNTI3X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-for-R50/Mixed-Veg-Bags/Seasonal-Vegetables-450-g/_/A-20130527?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Creamy Spinach & Honey Butternut 800 g",
+    "price": 103.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Creamy-Spinach-Honey-Butternut-800-g-6009000073469.jpg?V=VrOf&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA4LTI0LzYwMDkwMDAwNzM0NjlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Creamy-Spinach-Honey-Butternut-800-g/_/A-6009000073469?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sugar Snap Peas 125 g",
+    "price": 49.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sugar-Snap-Peas-125-g-20008666.jpg?V=pkIh&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTI1LzIwMDA4NjY2X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Sugar-Snap-Peas-125-g/_/A-20008666?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sliced Green Beans 500 g",
+    "price": 54.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sliced-Green-Beans-500-g-6009101608041.jpg?V=7Oj5&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAzLTIwLzYwMDkxMDE2MDgwNDFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Content/Eating-Well/Trending/Sliced-Green-Beans-500-g/_/A-6009101608041?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Green Peppers 2 pk",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Green-Peppers-2-pk-20090029.jpg?V=Za8O&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTIyLzIwMDkwMDI5X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Peppers-Chillies/Green-Peppers-2-pk/_/A-20090029?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Red Onions 5 String",
+    "price": 42.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Red-Onions-5-String-6009175831383.jpg?V=Y4Jt&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA3LTMxLzYwMDkxNzU4MzEzODNfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Onions-Celery-Leeks/Red-Onions-5-String/_/A-6009175831383?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Spinach 400 g",
+    "price": 49.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Spinach-400-g-20178901.jpg?V=tCDU&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTEyLTExLzIwMTc4OTAxX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Baby-Spinach-400-g/_/A-20178901?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Single Yellow Pepper",
+    "price": 18.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Single-Yellow-Pepper-20191719.jpg?V=AuKe&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTI1LzIwMTkxNzE5X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Peppers-Chillies/Single-Yellow-Pepper/_/A-20191719?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sliced Red Onions 70 g",
+    "price": 16.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sliced-Red-Onions-70-g-6009173164391.jpg?V=oAcO&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTExLTIxLzYwMDkxNzMxNjQzOTFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Onions-Celery-Leeks/Sliced-Red-Onions-70-g/_/A-6009173164391?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Fresh Sweet & Sour Stir-Fry Sauce 100 g",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Fresh-Sweet-Sour-Stir-Fry-Sauce-100-g-6009184396286.jpg?V=v6CW&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIxLTEwLTI5LzYwMDkxODQzOTYyODZfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Food-Basket/Banners/Global-Menu/Asian-Inspired/Fresh-Asian/Fresh-Sweet-Sour-Stir-Fry-Sauce-100-g/_/A-6009184396286?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Red Salad Onions 75 g",
+    "price": 26.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Red-Salad-Onions-75-g-6001009008275.jpg?V=jKkx&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIwLTA2LTExLzYwMDEwMDkwMDgyNzVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Spring-Onions-Celery-Radish-Other/Red-Salad-Onions-75-g/_/A-6001009008275?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Cauliflower Florets 300 g",
+    "price": 36.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Cauliflower-Florets-300-g-20088552.jpg?V=ad4e&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA2LTEzLzIwMDg4NTUyX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Broccoli-Cauliflower/Cauliflower-Florets-300-g/_/A-20088552?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Green Beans 600 g",
+    "price": 37.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Green-Beans-600-g-20008963.jpg?V=fim9&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA3LTExLzIwMDA4OTYzX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Bulk-Green-Beans-600-g/_/A-20008963?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Pumpkin Fritters 260 g",
+    "price": 49.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Pumpkin-Fritters-260-g-6005000975901.jpg?V=iH%243&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTExLTEzLzYwMDUwMDA5NzU5MDFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Pumpkin-Fritters-260-g/_/A-6005000975901?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "White Salad Onions 75 g",
+    "price": 26.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/White-Salad-Onions-75-g-20192938.jpg?V=dEvL&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTExLTIxLzIwMTkyOTM4X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Spring-Onions-Celery-Radish-Other/White-Salad-Onions-75-g/_/A-20192938?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Hot Green Finger Chillies 50 g",
+    "price": 15.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Hot-Green-Finger-Chillies-50-g-6009000999349.jpg?V=2bHm&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA2LTE5LzYwMDkwMDA5OTkzNDlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Hot-Green-Finger-Chillies-50-g/_/A-6009000999349?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Butternut, Cauliflower & Baby Marrows 450 g",
+    "price": 38.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Butternut-Cauliflower-Baby-Marrows-450-g-20201333.jpg?V=jBb0&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE3LTA1LTI2LzIwMjAxMzMzX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Mixed-Veggie-Bags/Butternut-Cauliflower-Baby-Marrows-450-g/_/A-20201333?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Asparagus Spears 150 g",
+    "price": 79.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Asparagus-Spears-150-g-20047085.jpg?V=L7Ja&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA5LTA5LzIwMDQ3MDg1X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Food-Basket/Banners/Summer-Entertaining/Classic-Christmas/Asparagus-Spears-150-g/_/A-20047085?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Cabbage 2 pk",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Cabbage-2-pk-20008499.jpg?V=Xb%40b&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA2LTEzLzIwMDA4NDk5X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Baby-Cabbage-2-pk/_/A-20008499?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Cauliflower & Broccoli Florets in a Creamy Béchamel Sauce 250 g",
+    "price": 44.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Cauliflower-Broccoli-Florets-in-a-Creamy-Bechamel-Sauce-250-g-6009101471447.jpg?V=ZUpp&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTAyLTE1LzYwMDkxMDE0NzE0NDdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Cauliflower-Broccoli-Florets-in-a-Creamy-B-chamel-Sauce-250-g/_/A-6009101471447?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Mini Rosa Tomatoes 200 g",
+    "price": 26.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Mini-Rosa-Tomatoes-200-g-20186937.jpg?V=en%40C&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTIyLzIwMTg2OTM3X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Tomatoes/Mini-Rosa-Tomatoes-200-g/_/A-20186937?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Gem Squash Halves 6 pk",
+    "price": 32.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Gem-Squash-Halves-6-pk-20064112.jpg?V=MfGO&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE4LTAzLTI2LzIwMDY0MTEyX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Butternut-Pumpkin-Squash/Gem-Squash-Halves-6-pk/_/A-20064112?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Juliene Stir-Fry Vegetables 700 g",
+    "price": 54.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Juliene-Stir-Fry-Vegetables-700-g-6009223128649.jpg?V=y%24wA&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIxLTA5LTI4LzYwMDkyMjMxMjg2NDlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Stir-Fry/Juliene-Stir-Fry-Vegetables-700-g/_/A-6009223128649?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Carrots 350 g",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Carrots-350-g-20008284.jpg?V=00RX&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAzLTA3LzIwMDA4Mjg0X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Carrots-Beetroot/Baby-Carrots-350-g/_/A-20008284?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Kara Baby Sweet Potatoes 700 g",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Kara-Baby-Sweet-Potatoes-700-g-6009204636583.jpg?V=kmv8&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTI4LzYwMDkyMDQ2MzY1ODNfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-for-R30/Baby-Potatoes/Kara-Baby-Sweet-Potatoes-700-g/_/A-6009204636583?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Butternut, Pumpkin & Sweet Potato Mix 500 g",
+    "price": 34.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Butternut-Pumpkin-Sweet-Potato-Mix-500-g-6009204926899.jpg?V=45XQ&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE3LTA2LTA2LzYwMDkyMDQ5MjY4OTlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Mixed-Veggie-Bags/Butternut-Pumpkin-Sweet-Potato-Mix-500-g/_/A-6009204926899?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Extra Fine Green Beans 150 g",
+    "price": 38.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Extra-Fine-Green-Beans-150-g-6009171222819.jpg?V=jS5A&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTI1LzYwMDkxNzEyMjI4MTlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Green-Beans-Peas-Mange-Tout/Extra-Fine-Green-Beans-150-g/_/A-6009171222819?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Creamy Spinach with a Hint of Nutmeg 300 g",
+    "price": 64.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Creamy-Spinach-with-a-Hint-of-Nutmeg-300-g-20026752.jpg?V=Nm9A&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA4LTI0LzIwMDI2NzUyX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Thali-feast/Creamy-Spinach-with-a-Hint-of-Nutmeg-300-g/_/A-20026752?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Roasting Vegetables 1.5 kg",
+    "price": 119.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Roasting-Vegetables-1-5-kg-6009182009065.jpg?V=pRu2&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTAyLTIxLzYwMDkxODIwMDkwNjVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Roasting-Vegetables-1-5-kg/_/A-6009182009065?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Potato Roasting Vegetables 800 g",
+    "price": 54.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Potato-Roasting-Vegetables-800-g-6009214493459.jpg?V=clqO&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA2LTA0LzYwMDkyMTQ0OTM0NTlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Ramadan/Eid-Feast/Eid-Lunch/Vegetables-Salads-Sides/Potato-Roasting-Vegetables-800-g/_/A-6009214493459?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bella Tomatoes 350 g",
+    "price": 42.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bella-Tomatoes-350-g-20142445.jpg?V=t7so&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTI1LzIwMTQyNDQ1X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Tomatoes/Bella-Tomatoes-350-g/_/A-20142445?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "African Bird's Eye Chillies 50 g",
+    "price": 15.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/African-Bird-s-Eye-Chillies-50-g-6009000999356.jpg?V=T7Pg&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA2LTE5LzYwMDkwMDA5OTkzNTZfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-for-R20/Chillies/African-Bird-s-Eye-Chillies-50-g/_/A-6009000999356?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baked Pumpkin Rings with a Sprinkle of Cinnamon 275 g",
+    "price": 62.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baked-Pumpkin-Rings-with-a-Sprinkle-of-Cinnamon-275-g-6009226151347.jpg?V=qexa&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA3LTI4LzYwMDkyMjYxNTEzNDdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Baked-Pumpkin-Rings-with-a-Sprinkle-of-Cinnamon-275-g/_/A-6009226151347?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Small Crunchy Carrots 200 g",
+    "price": 27.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Small-Crunchy-Carrots-200-g-6009173745446.jpg?V=GRDd&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTIyLzYwMDkxNzM3NDU0NDZfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Carrots-Beetroot/Small-Crunchy-Carrots-200-g/_/A-6009173745446?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sweet Peppers 2 pk",
+    "price": 34.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sweet-Peppers-2-pk-20089146.jpg?V=gzM7&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTExLzIwMDg5MTQ2X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Peppers-Chillies/Sweet-Peppers-2-pk/_/A-20089146?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Small Nicola Potatoes 700 g",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Small-Nicola-Potatoes-700-g-20111229.jpg?V=jr5L&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTIxLzIwMTExMjI5X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-for-R30/Baby-Potatoes/Small-Nicola-Potatoes-700-g/_/A-20111229?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Broccoli, Butternut & Baby Marrow in a Béchamel Sauce 420 g",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Broccoli-Butternut-Baby-Marrow-in-a-Bechamel-Sauce-420-g-20183981.jpg?V=yOum&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTAyLTE1LzIwMTgzOTgxX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Broccoli-Butternut-Baby-Marrow-in-a-B-chamel-Sauce-420-g/_/A-20183981?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "PlantLove™ Swiss Chard, Sweetcorn & Butter Bean Rounds 4 pk",
+    "price": 53.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/PlantLove-Swiss-Chard-Sweetcorn-Butter-Bean-Rounds-4-pk-20201814.jpg?V=ughy&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA1LTI0LzIwMjAxODE0X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Ready-Meals/Plant-Based-Meals/PlantLove-Swiss-Chard-Sweetcorn-Butter-Bean-Rounds-4-pk/_/A-20201814?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Salad Tomatoes 1.5 kg",
+    "price": 45,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Salad-Tomatoes-1-5-kg-6009223622345.jpg?V=EXkX&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA5LTA0LzYwMDkyMjM2MjIzNDVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Bulk-Vegetables-Fruit-Salads/Bulk-Salad-Tomatoes-1-5-kg/_/A-6009223622345?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Large Carrots 3 kg",
+    "price": 50,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Large-Carrots-3-kg-6009171229450.jpg?V=iRMR&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA5LTIwLzYwMDkxNzEyMjk0NTBfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Carrots-Beetroot/Bulk-Large-Carrots-3-kg/_/A-6009171229450?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Butternut 2 pk",
+    "price": 32.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Butternut-2-pk-6009217047093.jpg?V=v4zL&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIxLTA2LTE1LzYwMDkyMTcwNDcwOTNfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Butternut-Pumpkin-Squash/Butternut-2-pk/_/A-6009217047093?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Fresh Crushed Ginger 50 g",
+    "price": 32.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Fresh-Crushed-Ginger-50-g-6009101284269.jpg?V=8CCN&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTEwLTIxLzYwMDkxMDEyODQyNjlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Chickpea-Curry/Fresh-Crushed-Ginger-50-g/_/A-6009101284269?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Marrows 800 g",
+    "price": 49.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Marrows-800-g-20009076.jpg?V=hXcR&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA2LTEzLzIwMDA5MDc2X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Marrows-800-g/_/A-20009076?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Exotic Tomato Mix 600 g",
+    "price": 52.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Exotic-Tomato-Mix-600-g-20116125.jpg?V=Z7A9&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTI1LzIwMTE2MTI1X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Tomatoes/Exotic-Tomato-Mix-600-g/_/A-20116125?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Pak Choi 200 g",
+    "price": 36.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Pak-Choi-200-g-6009173745460.jpg?V=dX8G&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA2LTEzLzYwMDkxNzM3NDU0NjBfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Baby-Pak-Choi-200-g/_/A-6009173745460?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Mini Asparagus 100 g",
+    "price": 64.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Mini-Asparagus-100-g-20134273.jpg?V=2OyB&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA5LTA5LzIwMTM0MjczX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Mini-Asparagus-100-g/_/A-20134273?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Brussels Sprouts 350 g",
+    "price": 52.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Brussels-Sprouts-350-g-20008604.jpg?V=uqA%40&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA4LTIwLzIwMDA4NjA0X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/The-secret-to-a-succulent-turkey/Brussels-Sprouts-350-g/_/A-20008604?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Brown Mushrooms 400 g",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Brown-Mushrooms-400-g-20008895.jpg?V=zJew&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA5LTE5LzIwMDA4ODk1X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Mushrooms/Brown-Mushrooms-400-g/_/A-20008895?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sweet Potato 500 g",
+    "price": 26.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sweet-Potato-500-g-20092580.jpg?V=m84y&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE3LTA1LTAyLzIwMDkyNTgwX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-for-R35/Diced-Veg/Sweet-Potato-500-g/_/A-20092580?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Shelled Edamame Legumes 110 g",
+    "price": 49.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Shelled-Edamame-Legumes-110-g-6009214779584.jpg?V=zFsS&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE5LTExLTI2LzYwMDkyMTQ3Nzk1ODRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Other-Speciality/Shelled-Edamame-Legumes-110-g/_/A-6009214779584?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Thai Coconut Sauce  100 g",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Thai-Coconut-Sauce-100-g-6005000285505.jpg?V=zAdH&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI2LTAyLTI3LzYwMDUwMDAyODU1MDVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Food-Basket/Banners/Global-Menu/Asian-Inspired/Fresh-Asian/Thai-Coconut-Sauce-100-g/_/A-6005000285505?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Fresh Egg Noodles 500 g",
+    "price": 41.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Fresh-Egg-Noodles-500-g-6009217821471.jpg?V=f9tq&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIxLTEwLTA4LzYwMDkyMTc4MjE0NzFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Food-Basket/Banners/Global-Menu/Asian-Inspired/Fresh-Asian/Fresh-Egg-Noodles-500-g/_/A-6009217821471?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Farmer's Vegetable Selection 335 g",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Farmer-s-Vegetable-Selection-335-g-6001009037091.jpg?V=RiKF&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA1LTE3LzYwMDEwMDkwMzcwOTFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Farmer-s-Vegetable-Selection-335-g/_/A-6001009037091?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Extra Fine Green Beans 280 g",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Extra-Fine-Green-Beans-280-g-6009173919649.jpg?V=LaCq&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTI1LzYwMDkxNzM5MTk2NDlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Green-Beans-Peas-Mange-Tout/Bulk-Extra-Fine-Green-Beans-280-g/_/A-6009173919649?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Brinjals 450 g",
+    "price": 32.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Brinjals-450-g-20185831.jpg?V=Iacq&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA3LTI0LzIwMTg1ODMxX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-for-R35/Brinjals/Brinjals-450-g/_/A-20185831?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Corn 250 g",
+    "price": 43.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Corn-250-g-6009226130304.jpg?V=VWBN&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAzLTA3LzYwMDkyMjYxMzAzMDRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Baby-Corn-250-g/_/A-6009226130304?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Steamed Beetroot Wedges 450 g",
+    "price": 36.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Steamed-Beetroot-Wedges-450-g-6009178241134.jpg?V=14g%40&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTAyLTI4LzYwMDkxNzgyNDExMzRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Steamed-Beetroot-Wedges-450-g/_/A-6009178241134?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Rainbow Stir-Fry 350 g",
+    "price": 29.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Rainbow-Stir-Fry-350-g-6009226473401.jpg?V=Drk4&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA5LTA3LzYwMDkyMjY0NzM0MDFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Stir-Fry/Rainbow-Stir-Fry-350-g/_/A-6009226473401?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Hand Shelled Peas 200 g",
+    "price": 62.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Hand-Shelled-Peas-200-g-20111014.jpg?V=VePy&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA3LTE4LzIwMTExMDE0X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Hand-Shelled-Peas-200-g/_/A-20111014?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Chopped Kale 180 g",
+    "price": 27.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Chopped-Kale-180-g-6009189640650.jpg?V=ma0X&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA5LTA0LzYwMDkxODk2NDA2NTBfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Chopped-Kale-180-g/_/A-6009189640650?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Vacuum Packed Cooked Baby Beetroot 500 g",
+    "price": 32.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Vacuum-Packed-Cooked-Baby-Beetroot-500-g-6009226496202.jpg?V=9rsu&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA1LTExLzYwMDkyMjY0OTYyMDJfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Carrots-Beetroot/Vacuum-Packed-Cooked-Baby-Beetroot-500-g/_/A-6009226496202?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Peeled Garlic 50 g",
+    "price": 29.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Peeled-Garlic-50-g-20008277.jpg?V=0HrP&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIwLTAyLTI1LzIwMDA4Mjc3X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-Save-20-/Prepared-Additions/Peeled-Garlic-50-g/_/A-20008277?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Nicola Potatoes 1.5 kg",
+    "price": 49.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Nicola-Potatoes-1-5-kg-20146238.jpg?V=quUn&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTI4LzIwMTQ2MjM4X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-save-R10/Speciality-Potatoes-1-5kg/Nicola-Potatoes-1-5-kg/_/A-20146238?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Roasted Veg Medley 400 g",
+    "price": 57.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Roasted-Veg-Medley-400-g-6009175318617.jpg?V=iKtf&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTAyLTE1LzYwMDkxNzUzMTg2MTdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Roasted-Veg-Medley-400-g/_/A-6009175318617?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Kara Sweet Potatoes 2 kg",
+    "price": 50,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Kara-Sweet-Potatoes-2-kg-6009189631054.jpg?V=ze3%24&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTI4LzYwMDkxODk2MzEwNTRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-4-pay-for-3/Bulk-Veg-and-Salad-Deal/Bulk-Kara-Sweet-Potatoes-2-kg/_/A-6009189631054?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Shelled Fresh Peas 100 g",
+    "price": 32.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Shelled-Fresh-Peas-100-g-6009101081226.jpg?V=sQro&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA3LTE4LzYwMDkxMDEwODEyMjZfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Shelled-Fresh-Peas-100-g/_/A-6009101081226?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Snacking Tomatoes 175 g",
+    "price": 21.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Snacking-Tomatoes-175-g-6009182724807.jpg?V=AKWm&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA3LTMxLzYwMDkxODI3MjQ4MDdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Tomatoes/Snacking-Tomatoes-175-g/_/A-6009182724807?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Fresh Crushed Garlic, Ginger, Chilli & Turmeric 70 g",
+    "price": 39.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Fresh-Crushed-Garlic-Ginger-Chilli-Turmeric-70-g-6009204007178.jpg?V=pC1%40&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTEwLTIxLzYwMDkyMDQwMDcxNzhfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Garlic-Ginger-Turmeric-Chillies-Fresh-Paste/Fresh-Crushed-Garlic-Ginger-Chilli-Turmeric-70-g/_/A-6009204007178?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Beetroot Min 500 g",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Beetroot-Min-500-g-6009178223987.jpg?V=Kyjv&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTEwLTI3LzYwMDkxNzgyMjM5ODdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Carrots-Beetroot/Beetroot-Min-500-g/_/A-6009178223987?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Mixed Chillies 150 g",
+    "price": 26.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Mixed-Chillies-150-g-6009178603796.jpg?V=udne&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA3LTI0LzYwMDkxNzg2MDM3OTZfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Mixed-Chillies-150-g/_/A-6009178603796?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Mixed Marrows 400 g",
+    "price": 36.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Mixed-Marrows-400-g-20008376.jpg?V=JAlq&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA2LTEyLzIwMDA4Mzc2X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Mixed-Marrows-400-g/_/A-20008376?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Tenderstem® Broccoli 65 g",
+    "price": 28.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Tenderstem-Broccoli-65-g-6008000180016.jpg?V=47oS&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA2LTEyLzYwMDgwMDAxODAwMTZfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Tenderstem-Broccoli-65-g/_/A-6008000180016?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Red Baby Onions 500 g",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Red-Baby-Onions-500-g-6009189237287.jpg?V=u7Vy&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA3LTMwLzYwMDkxODkyMzcyODdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Red-Baby-Onions-500-g/_/A-6009189237287?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Fresh Crushed Garlic 50 g",
+    "price": 32.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Fresh-Crushed-Garlic-50-g-20116033.jpg?V=M1P%24&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTA4LTAzLzIwMTE2MDMzX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/CILBIR/Fresh-Crushed-Garlic-50-g/_/A-20116033?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sweetcorn",
+    "price": 42.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sweetcorn-20008956.jpg?V=y0B7&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTExLTIxLzIwMDA4OTU2X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Braai-Shop/Plant-Based-Braai/Sweetcorn/_/A-20008956?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Brown Mushrooms 250 g",
+    "price": 39.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Brown-Mushrooms-250-g-20008932.jpg?V=VKBf&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTE4LzIwMDA4OTMyX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Beef-stroganoff/Brown-Mushrooms-250-g/_/A-20008932?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Vine Picked Tomatoes 6 pk",
+    "price": 26.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Vine-Picked-Tomatoes-6-pk-20003951.jpg?V=8guf&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTExLTA0LzIwMDAzOTUxX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Tomatoes/Vine-Picked-Tomatoes-6-pk/_/A-20003951?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Julienne Vegetables 400 g",
+    "price": 39.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Julienne-Vegetables-400-g-6009189515347.jpg?V=u8r6&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE3LTA1LTI1LzYwMDkxODk1MTUzNDdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-for-R50/Mixed-Veg-Bags/Julienne-Vegetables-400-g/_/A-6009189515347?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baked Pumpkin Rings with a Sprinkle of Cinnamon 500 g",
+    "price": 92.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baked-Pumpkin-Rings-with-a-Sprinkle-of-Cinnamon-500-g-6009226151354.jpg?V=r%24pM&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA4LTI4LzYwMDkyMjYxNTEzNTRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-save-R15/Prepared-Vegetables-Airfry-Range/Baked-Pumpkin-Rings-with-a-Sprinkle-of-Cinnamon-500-g/_/A-6009226151354?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Button Mushrooms 150 g",
+    "price": 34.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Button-Mushrooms-150-g-20051822.jpg?V=cV5T&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTEwLTA5LzIwMDUxODIyX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Baby-Button-Mushrooms-150-g/_/A-20051822?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Beetroot Spirals 80 g",
+    "price": 14.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Beetroot-Spirals-80-g-6009175617826.jpg?V=lPra&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIwLTAxLTEzLzYwMDkxNzU2MTc4MjZfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Carrots-Beetroot/Beetroot-Spirals-80-g/_/A-6009175617826?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Creamy Potato Bake in a Béchamel Sauce 800 g",
+    "price": 92.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Creamy-Potato-Bake-in-a-Bechamel-Sauce-800-g-6009182954778.jpg?V=YLSZ&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA1LTExLzYwMDkxODI5NTQ3NzhfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Ramadan/Eid-Feast/Eid-Lunch/Vegetables-Salads-Sides/Creamy-Potato-Bake-in-a-B-chamel-Sauce-800-g/_/A-6009182954778?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Carrot Batons 100 g",
+    "price": 14.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Carrot-Batons-100-g-6008000179973.jpg?V=MzBH&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTI1LzYwMDgwMDAxNzk5NzNfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Carrots-Beetroot/Carrot-Batons-100-g/_/A-6008000179973?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Pumpkin 800 g",
+    "price": 49.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Pumpkin-800-g-6009211207943.jpg?V=%40rQV&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA0LTEwLzYwMDkyMTEyMDc5NDNfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/For-The-Air-Fryer/Bulk-Pumpkin-800-g/_/A-6009211207943?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Broccoli & Corn Medley 335 g",
+    "price": 49.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Broccoli-Corn-Medley-335-g-6009217539420.jpg?V=mUoM&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIwLTA1LTI2LzYwMDkyMTc1Mzk0MjBfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Broccoli-Corn-Medley-335-g/_/A-6009217539420?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Leeks 350 g",
+    "price": 45.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Leeks-350-g-20008253.jpg?V=lUGA&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA5LTE5LzIwMDA4MjUzX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-2-for-R60/Leeks-300g/Leeks-350-g/_/A-20008253?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Fresh Sweet & Sour Stir-Fry Sauce 250 g",
+    "price": 43.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Fresh-Sweet-Sour-Stir-Fry-Sauce-250-g-6009217821693.jpg?V=p6XO&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIxLTEwLTI5LzYwMDkyMTc4MjE2OTNfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Food-Basket/Banners/Global-Menu/Asian-Inspired/Fresh-Asian/Fresh-Sweet-Sour-Stir-Fry-Sauce-250-g/_/A-6009217821693?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Creamy Potato Mash 800 g",
+    "price": 94.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Creamy-Potato-Mash-800-g-6009223461395.jpg?V=Lj2b&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTAyLTI0LzYwMDkyMjM0NjEzOTVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Creamy-Potato-Mash-800-g/_/A-6009223461395?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Exotic Mushroom Mix 350 g",
+    "price": 65.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Exotic-Mushroom-Mix-350-g-6009204380585.jpg?V=n8PZ&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTA2LzYwMDkyMDQzODA1ODVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-for-R80/Bulk-Exotic-mushrooms/Exotic-Mushroom-Mix-350-g/_/A-6009204380585?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Exotic Mushroom Mix 150 g",
+    "price": 38.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Exotic-Mushroom-Mix-150-g-6008000281874.jpg?V=Te28&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTA2LzYwMDgwMDAyODE4NzRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Mushrooms/Exotic-Mushroom-Mix-150-g/_/A-6008000281874?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Portabello Mushrooms 4 pk",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Portabello-Mushrooms-4-pk-20176938.jpg?V=kfXT&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTE4LzIwMTc2OTM4X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Mushrooms/Portabello-Mushrooms-4-pk/_/A-20176938?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Broccoli, Butternut & Baby Marrow in a Béchamel Sauce 800 g",
+    "price": 99.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Broccoli-Butternut-Baby-Marrow-in-a-Bechamel-Sauce-800-g-6009000074237.jpg?V=VDpm&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTAyLTE1LzYwMDkwMDAwNzQyMzdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Broccoli-Butternut-Baby-Marrow-in-a-B-chamel-Sauce-800-g/_/A-6009000074237?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Crushed Chilli 50 g",
+    "price": 29.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Crushed-Chilli-50-g-6009101134557.jpg?V=vIFi&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTA3LTA4LzYwMDkxMDExMzQ1NTdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Garlic-Ginger-Turmeric-Chillies-Fresh-Paste/Crushed-Chilli-50-g/_/A-6009101134557?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Beetroot 2 kg",
+    "price": 50,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Beetroot-2-kg-6009217605538.jpg?V=je8B&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTIyLzYwMDkyMTc2MDU1MzhfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Carrots-Beetroot/Beetroot-2-kg/_/A-6009217605538?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Cauliflower & Broccoli Florets in a Creamy Béchamel Sauce 750 g",
+    "price": 109.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Cauliflower-Broccoli-Florets-in-a-Creamy-Bechamel-Sauce-750-g-6009173480774.jpg?V=H3sb&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTAyLTE1LzYwMDkxNzM0ODA3NzRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Cauliflower-Broccoli-Florets-in-a-Creamy-B-chamel-Sauce-750-g/_/A-6009173480774?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sweet Potato Churros with Salted Caramel Sauce 350 g",
+    "price": 58.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sweet-Potato-Churros-with-Salted-Caramel-Sauce-350-g-6009226103766.jpg?V=RE32&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTExLTMwLzYwMDkyMjYxMDM3NjZfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Sweet-Potato-Churros-with-Salted-Caramel-Sauce-350-g/_/A-6009226103766?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Leeks 200 g",
+    "price": 39.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Leeks-200-g-6009173745477.jpg?V=m6Hf&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA3LTE4LzYwMDkxNzM3NDU0NzdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-for-R45/Baby-Veg/Baby-Leeks-200-g/_/A-6009173745477?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Roma Tomatoes 4 pk",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Roma-Tomatoes-4-pk-6009226669651.jpg?V=kH6Z&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTIyLzYwMDkyMjY2Njk2NTFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Tomatoes/Roma-Tomatoes-4-pk/_/A-6009226669651?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sliced Fine Beans 100 g",
+    "price": 21.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sliced-Fine-Beans-100-g-6008000180061.jpg?V=yV9f&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTA4LTE2LzYwMDgwMDAxODAwNjFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Sliced-Fine-Beans-100-g/_/A-6008000180061?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Filled Gem Squash 4 Halves",
+    "price": 74.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Filled-Gem-Squash-4-Halves-6009182954686.jpg?V=%24R9J&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTExLTMwLzYwMDkxODI5NTQ2ODZfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Braai-Shop/Braai-Salads-Sides/Vegetables-Sides/Filled-Gem-Squash-4-Halves/_/A-6009182954686?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Gem Squash 350 g",
+    "price": 35.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Gem-Squash-350-g-20050412.jpg?V=bK4G&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA3LTI0LzIwMDUwNDEyX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Butternut-Pumpkin-Squash/Baby-Gem-Squash-350-g/_/A-20050412?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Red Cabbage",
+    "price": 29.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Red-Cabbage-6009195861728.jpg?V=uWoh&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA2LTEyLzYwMDkxOTU4NjE3MjhfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Red-Cabbage/_/A-6009195861728?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Potato Roasting Kit 850 g",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Potato-Roasting-Kit-850-g-6007875956955.jpg?V=%403w9&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTE1LzYwMDc4NzU5NTY5NTVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Ramadan/Eid-Feast/Eid-Lunch/Vegetables-Salads-Sides/Baby-Potato-Roasting-Kit-850-g/_/A-6007875956955?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Medium Hot Serenade Chillies 45 g",
+    "price": 15.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Medium-Hot-Serenade-Chillies-45-g-6009000998847.jpg?V=7VLr&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA2LTE5LzYwMDkwMDA5OTg4NDdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-for-R20/Chillies/Medium-Hot-Serenade-Chillies-45-g/_/A-6009000998847?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Fine Green Beans 215 g",
+    "price": 40.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Fine-Green-Beans-215-g-20008635.jpg?V=aG78&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTI1LzIwMDA4NjM1X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Fine-Green-Beans-215-g/_/A-20008635?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Brinjals",
+    "price": 29.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Brinjals-6009173745408.jpg?V=3%4084&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE4LTA1LTA5LzYwMDkxNzM3NDU0MDhfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Baby-Brinjals/_/A-6009173745408?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Jalapeño Chillies 200 g",
+    "price": 26.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Jalapeno-Chillies-200-g-6009182164900.jpg?V=2zG9&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTExLTIxLzYwMDkxODIxNjQ5MDBfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Jalape-o-Chillies-200-g/_/A-6009182164900?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sweetcorn Medley 400 g",
+    "price": 39.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sweetcorn-Medley-400-g-6009182954631.jpg?V=rSbS&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAzLTIwLzYwMDkxODI5NTQ2MzFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-for-R50/Mixed-Veg-Bags/Sweetcorn-Medley-400-g/_/A-6009182954631?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Fresh Fennel 350 g",
+    "price": 19.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Fresh-Fennel-350-g-20139278.jpg?V=3BI%40&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTAxLTI2LzIwMTM5Mjc4X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Fresh-Fennel-350-g/_/A-20139278?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Shimeji Mushrooms 150 g",
+    "price": 38.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Shimeji-Mushrooms-150-g-20102166.jpg?V=G5BF&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTA2LzIwMTAyMTY2X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Mushrooms/Shimeji-Mushrooms-150-g/_/A-20102166?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Sugar Snap Peas 200 g",
+    "price": 64.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Sugar-Snap-Peas-200-g-20090821.jpg?V=%24G%24S&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTI1LzIwMDkwODIxX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Green-Beans-Peas-Mange-Tout/Bulk-Sugar-Snap-Peas-200-g/_/A-20090821?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Gem Squash 2 kg",
+    "price": 50,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Gem-Squash-2-kg-6008000682732.jpg?V=avQx&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAzLTAzLzYwMDgwMDA2ODI3MzJfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Bulk-Veg-Combo-Buy-any-4-for-R125/Gem-Squash-2-kg/_/A-6008000682732?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Tenderstem® & Carrot 350 g",
+    "price": 45.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Tenderstem-Carrot-350-g-6007875518535.jpg?V=9kX%24&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA0LTI2LzYwMDc4NzU1MTg1MzVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Tenderstem-Carrot-350-g/_/A-6007875518535?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Mange Tout 125 g",
+    "price": 49.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Mange-Tout-125-g-20057633.jpg?V=5%40BY&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTI1LzIwMDU3NjMzX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Green-Beans-Peas-Mange-Tout/Mange-Tout-125-g/_/A-20057633?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Shiitake Mushrooms 350 g",
+    "price": 65.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Shiitake-Mushrooms-350-g-6009204380486.jpg?V=lN6O&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTA2LzYwMDkyMDQzODA0ODZfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-for-R80/Bulk-Exotic-mushrooms/Shiitake-Mushrooms-350-g/_/A-6009204380486?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Garden Legume Medley 350 g",
+    "price": 49.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Garden-Legume-Medley-350-g-6008000680257.jpg?V=JQ%40L&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIwLTA1LTI2LzYwMDgwMDA2ODAyNTdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Garden-Legume-Medley-350-g/_/A-6008000680257?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Thai Coconut Sauce 225 g",
+    "price": 43.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Thai-Coconut-Sauce-225-g-6009223700838.jpg?V=VZxz&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIxLTA5LTI4LzYwMDkyMjM3MDA4MzhfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Food-Basket/Banners/Global-Menu/Asian-Inspired/Fresh-Asian/Thai-Coconut-Sauce-225-g/_/A-6009223700838?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Creamy Spinach 600 g",
+    "price": 94.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Creamy-Spinach-600-g-6009211272859.jpg?V=L5oP&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA4LTI0LzYwMDkyMTEyNzI4NTlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Creamy-Spinach-600-g/_/A-6009211272859?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Potato Croquette Bake 920 g",
+    "price": 129.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Potato-Croquette-Bake-920-g-6009226151309.jpg?V=4%40dy&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTAzLTA2LzYwMDkyMjYxNTEzMDlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Potato-Croquette-Bake-920-g/_/A-6009226151309?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Snacking Peppers 250 g",
+    "price": 29.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Snacking-Peppers-250-g-6001009000903.jpg?V=3%24Ha&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTExLTEyLzYwMDEwMDkwMDA5MDNfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Snacking-Peppers-250-g/_/A-6001009000903?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Spinach 100 g",
+    "price": 18.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Spinach-100-g-6009226280856.jpg?V=6PGK&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTEyLTExLzYwMDkyMjYyODA4NTZfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Baby-Spinach-100-g/_/A-6009226280856?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Tenderstem® Broccoli with Lemon & Black Pepper Butter 235 g",
+    "price": 64.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Tenderstem-Broccoli-with-Lemon-Black-Pepper-Butter-235-g-6009214464893.jpg?V=C5M8&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTAyLTI4LzYwMDkyMTQ0NjQ4OTNfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Tenderstem-Broccoli-with-Lemon-Black-Pepper-Butter-235-g/_/A-6009214464893?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Beetroot 300 g",
+    "price": 22.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Beetroot-300-g-6009173745491.jpg?V=k0wA&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA4LTE0LzYwMDkxNzM3NDU0OTFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-for-R45/Baby-Veg/Baby-Beetroot-300-g/_/A-6009173745491?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Kale Min 350 g",
+    "price": 25.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Kale-Min-350-g-6009182268844.jpg?V=wWxc&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTEwLTA2LzYwMDkxODIyNjg4NDRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Kale-Min-350-g/_/A-6009182268844?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Mange Tout 80 g",
+    "price": 31.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Mange-Tout-80-g-6008000747615.jpg?V=zDtJ&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTI1LzYwMDgwMDA3NDc2MTVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Mange-Tout-80-g/_/A-6008000747615?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Whole Spinach 350 g",
+    "price": 19.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Whole-Spinach-350-g-6009226283963.jpg?V=qPGp&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTAzLTMxLzYwMDkyMjYyODM5NjNfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Whole-Spinach-350-g/_/A-6009226283963?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Shiitake Mushrooms 120 g",
+    "price": 38.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Shiitake-Mushrooms-120-g-20167608.jpg?V=9fw7&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTA2LzIwMTY3NjA4X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Shiitake-Mushrooms-120-g/_/A-20167608?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Seedless Pepperito Peppers 200 g",
+    "price": 34.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Seedless-Pepperito-Peppers-200-g-6009217852987.jpg?V=4nyn&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTEyLTE3LzYwMDkyMTc4NTI5ODdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Seedless-Pepperito-Peppers-200-g/_/A-6009217852987?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Cauliflower & Carrot Fettuccine 250 g",
+    "price": 54.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Cauliflower-Carrot-Fettuccine-250-g-6009226686474.jpg?V=fGIK&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA5LTIwLzYwMDkyMjY2ODY0NzRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-save-R10/Prepared-Vegetables/Cauliflower-Carrot-Fettuccine-250-g/_/A-6009226686474?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Cheesy Potato Bites 350 g",
+    "price": 57.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Cheesy-Potato-Bites-350-g-6009226685040.jpg?V=HJu%24&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA5LTIwLzYwMDkyMjY2ODUwNDBfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Cheesy-Potato-Bites-350-g/_/A-6009226685040?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sweet Honey Butternut 350 g",
+    "price": 42.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sweet-Honey-Butternut-350-g-6009226691850.jpg?V=ATku&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA5LTI3LzYwMDkyMjY2OTE4NTBfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Sweet-Honey-Butternut-350-g/_/A-6009226691850?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Cauliflower Spaghetti 250 g",
+    "price": 54.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Cauliflower-Spaghetti-250-g-6009226686481.jpg?V=6%40HJ&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA5LTIwLzYwMDkyMjY2ODY0ODFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Cauliflower-Spaghetti-250-g/_/A-6009226686481?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Green Peppers 600 g",
+    "price": 38.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Green-Peppers-600-g-6009214425535.jpg?V=SPbG&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTEyLTIzLzYwMDkyMTQ0MjU1MzVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Green-Peppers-600-g/_/A-6009214425535?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Tenderstem® & Broccoli Spaghetti 250 g",
+    "price": 54.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Tenderstem-Broccoli-Spaghetti-250-g-6009226686498.jpg?V=eM1Y&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA5LTIwLzYwMDkyMjY2ODY0OThfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Tenderstem-Broccoli-Spaghetti-250-g/_/A-6009226686498?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Patty Pans 350 g",
+    "price": 35.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Patty-Pans-350-g-6009195889524.jpg?V=6ClJ&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA3LTI0LzYwMDkxOTU4ODk1MjRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Patty-Pans-350-g/_/A-6009195889524?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Cauliflower Rice 350 g",
+    "price": 54.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Cauliflower-Rice-350-g-6009226686504.jpg?V=E7iV&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA5LTIwLzYwMDkyMjY2ODY1MDRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Cauliflower-Rice-350-g/_/A-6009226686504?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Butternut & Spinach Fritters 260 g",
+    "price": 56.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Butternut-Spinach-Fritters-260-g-6009226684357.jpg?V=K72n&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA5LTI3LzYwMDkyMjY2ODQzNTdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Butternut-Spinach-Fritters-260-g/_/A-6009226684357?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "French Shallots 500 g",
+    "price": 42.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/French-Shallots-500-g-6009182207966.jpg?V=SRGw&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIwLTAyLTI0LzYwMDkxODIyMDc5NjZfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/French-Shallots-500-g/_/A-6009182207966?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Extra Hot Habanero Chillies 50 g",
+    "price": 15.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Extra-Hot-Habanero-Chillies-50-g-6009182164849.jpg?V=df%40V&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA2LTE5LzYwMDkxODIxNjQ4NDlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Extra-Hot-Habanero-Chillies-50-g/_/A-6009182164849?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Giant Clove Garlic Min 150 g",
+    "price": 49.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Giant-Clove-Garlic-Min-150-g-20149567.jpg?V=dDOF&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA4LTE3LzIwMTQ5NTY3X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Giant-Clove-Garlic-Min-150-g/_/A-20149567?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Chinese Cabbage 350 g",
+    "price": 27.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Chinese-Cabbage-350-g-6009226231964.jpg?V=mItD&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA3LTEwLzYwMDkyMjYyMzE5NjRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Chinese-Cabbage-350-g/_/A-6009226231964?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Abby Potatoes 1.5 kg",
+    "price": 52.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Abby-Potatoes-1-5-kg-6009214714394.jpg?V=TZmT&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTEyLTA5LzYwMDkyMTQ3MTQzOTRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Abby-Potatoes-1-5-kg/_/A-6009214714394?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Abby Potatoes 700 g",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Abby-Potatoes-700-g-6009214715315.jpg?V=H45J&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTAzLTMwLzYwMDkyMTQ3MTUzMTVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-2-for-R35/Baby-potatoes-700g/Abby-Potatoes-700-g/_/A-6009214715315?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Cauli Shoots",
+    "price": 47.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Cauli-Shoots-6009195267902.jpg?V=%40FlP&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA4LTEwLzYwMDkxOTUyNjc5MDJfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Cauli-Shoots/_/A-6009195267902?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Onions 3 kg",
+    "price": 50,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Onions-3-kg-6009184279770.jpg?V=SA68&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTExLTIxLzYwMDkxODQyNzk3NzBfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Bulk-Veg-Combo-Buy-any-4-for-R125/Onions-3-kg/_/A-6009184279770?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sweet Potato Churros with Salted Caramel Sauce 500 g",
+    "price": 94.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sweet-Potato-Churros-with-Salted-Caramel-Sauce-500-g-6007875518467.jpg?V=fNXB&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA1LTE2LzYwMDc4NzU1MTg0NjdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/For-The-Air-Fryer/Sweet-Potato-Churros-with-Salted-Caramel-Sauce-500-g/_/A-6007875518467?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Butternut 3 kg",
+    "price": 50,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Butternut-3-kg-6009184264479.jpg?V=1GH2&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI2LTAyLTA2LzYwMDkxODQyNjQ0NzlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Bulk-Veg-Combo-Buy-any-4-for-R125/Butternut-3-kg/_/A-6009184264479?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Savoy Cabbage",
+    "price": 29.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Savoy-Cabbage-6009178623312.jpg?V=YCm8&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA1LTE0LzYwMDkxNzg2MjMzMTJfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Savoy-Cabbage/_/A-6009178623312?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Parsnips 450 g",
+    "price": 45.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Parsnips-450-g-20008352.jpg?V=lKga&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTExLzIwMDA4MzUyX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Parsnips-450-g/_/A-20008352?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Rhubarb 250 g",
+    "price": 29.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Rhubarb-250-g-6009182044417.jpg?V=310C&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTA1LzYwMDkxODIwNDQ0MTdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Rhubarb-250-g/_/A-6009182044417?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Pickling Onions 500 g",
+    "price": 17.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Pickling-Onions-500-g-6009189174520.jpg?V=9i9y&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTAyLTIwLzYwMDkxODkxNzQ1MjBfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Pickling-Onions-500-g/_/A-6009189174520?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Dulce Sweet Onions 1 kg",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Dulce-Sweet-Onions-1-kg-6009189190315.jpg?V=Xpas&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI2LTAxLTIzLzYwMDkxODkxOTAzMTVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Dulce-Sweet-Onions-1-kg/_/A-6009189190315?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Asian Peanut Sauce 200 g",
+    "price": 43.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Asian-Peanut-Sauce-200-g-6009245036038.jpg?V=3Ybc&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTEzLzYwMDkyNDUwMzYwMzhfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Stir-Fry/Asian-Peanut-Sauce-200-g/_/A-6009245036038?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Roasted Pumpkin Wedges with a Glaze 400 g",
+    "price": 54.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Roasted-Pumpkin-Wedges-with-a-Glaze-400-g-6009245431444.jpg?V=OGZi&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA5LTA5LzYwMDkyNDU0MzE0NDRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/For-The-Air-Fryer/Roasted-Pumpkin-Wedges-with-a-Glaze-400-g/_/A-6009245431444?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Mixed Cabbage 2 pk",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Mixed-Cabbage-2-pk-6009233863998.jpg?V=Eoon&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTE5LzYwMDkyMzM4NjM5OThfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Baby-Mixed-Cabbage-2-pk/_/A-6009233863998?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Garlic Paste 250 g",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Garlic-Paste-250-g-6009245436647.jpg?V=eXxe&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI2LTAzLTA2LzYwMDkyNDU0MzY2NDdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Garlic-Paste-250-g/_/A-6009245436647?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Single Red Pepper",
+    "price": 18.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Single-Red-Pepper-6009233581069.jpg?V=V6KA&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTI1LzYwMDkyMzM1ODEwNjlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Single-Red-Pepper/_/A-6009233581069?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Savoury Coconut Rice with a Creamy Curry Sauce 295 g",
+    "price": 60.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Savoury-Coconut-Rice-with-a-Creamy-Curry-Sauce-295-g-6009233966163.jpg?V=5mp%40&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAzLTMxLzYwMDkyMzM5NjYxNjNfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Savoury-Coconut-Rice-with-a-Creamy-Curry-Sauce-295-g/_/A-6009233966163?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Waffle Potato Chips 500 g",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Waffle-Potato-Chips-500-g-6009233823404.jpg?V=h5Bs&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTExLzYwMDkyMzM4MjM0MDRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Food-Basket/Banners/For-the-Airfryer/Prepared-Vegetables/Waffle-Potato-Chips-500-g/_/A-6009233823404?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Leeks Min 300 g",
+    "price": 45.9,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Leeks-Min-300-g-6009182352277.jpg?V=O4NB&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTA3LTE5LzYwMDkxODIzNTIyNzdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Leeks-Min-300-g/_/A-6009182352277?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sweet Potato & Gem Donut with Cinnamon Sugar 235 g",
+    "price": 49.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sweet-Potato-Gem-Donut-with-Cinnamon-Sugar-235-g-6009233569715.jpg?V=W8Ve&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI2LTAxLTE0LzYwMDkyMzM1Njk3MTVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/For-The-Air-Fryer/Sweet-Potato-Gem-Donut-with-Cinnamon-Sugar-235-g/_/A-6009233569715?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sweet Potato, Pumpkin & Butternut Waffles 6 pk",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sweet-Potato-Pumpkin-Butternut-Waffles-6-pk-6009233823381.jpg?V=Drcz&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTIyLzYwMDkyMzM4MjMzODFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/For-The-Air-Fryer/Sweet-Potato-Pumpkin-Butternut-Waffles-6-pk/_/A-6009233823381?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sunday Veg with Chakalaka, Butternut & Spinach 450 g",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sunday-Veg-with-Chakalaka-Butternut-Spinach-450-g-6009233823510.jpg?V=Ilcs&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAzLTA2LzYwMDkyMzM4MjM1MTBfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Sunday-Veg-with-Chakalaka-Butternut-Spinach-450-g/_/A-6009233823510?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Cauliflower Wraps 4 pk",
+    "price": 64.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Cauliflower-Wraps-4-pk-6009226729652.jpg?V=CHDb&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTAxLTI0LzYwMDkyMjY3Mjk2NTJfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Cauliflower-Wraps-4-pk/_/A-6009226729652?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Potatoes & Green Veg 290 g",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Potatoes-Green-Veg-290-g-6009245369402.jpg?V=HkHU&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA5LTA0LzYwMDkyNDUzNjk0MDJfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Baby-Potatoes-Green-Veg-290-g/_/A-6009245369402?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Baby Rainbow Beetroot 200 g",
+    "price": 38.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Baby-Rainbow-Beetroot-200-g-6009245723051.jpg?V=iW7N&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTEyLTE4LzYwMDkyNDU3MjMwNTFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Carrots-Beetroot/Baby-Rainbow-Beetroot-200-g/_/A-6009245723051?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Samp & Beans 450 g",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Samp-Beans-450-g-6009233823428.jpg?V=UoHb&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAzLTA2LzYwMDkyMzM4MjM0MjhfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Samp-Beans-450-g/_/A-6009233823428?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Potato Roasting Vegetables 500 g",
+    "price": 32.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Potato-Roasting-Vegetables-500-g-6009233308956.jpg?V=SoVg&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA2LTA0LzYwMDkyMzMzMDg5NTZfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/For-The-Air-Fryer/Potato-Roasting-Vegetables-500-g/_/A-6009233308956?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "King Oyster Mushrooms 150 g",
+    "price": 38.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/King-Oyster-Mushrooms-150-g-6009226991691.jpg?V=qP0n&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTA2LzYwMDkyMjY5OTE2OTFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Mushrooms/King-Oyster-Mushrooms-150-g/_/A-6009226991691?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Hoisin Sauce 100 g",
+    "price": 24.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Hoisin-Sauce-100-g-6009245426358.jpg?V=2E%24q&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI2LTAyLTI3LzYwMDkyNDU0MjYzNThfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Easter/Easter-Food-Drinks/Easter-Lunch/Vegetables-Salads-Sides-Breads/Hoisin-Sauce-100-g/_/A-6009245426358?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Garlic & Herb Potato Mash 500 g",
+    "price": 69.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Garlic-Herb-Potato-Mash-500-g-6009233289521.jpg?V=u0q1&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA1LTE3LzYwMDkyMzMyODk1MjFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Garlic-Herb-Potato-Mash-500-g/_/A-6009233289521?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Everyday Medium Potatoes 7 kg",
+    "price": 71.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Everyday-Medium-Potatoes-7-kg-6001009000040.jpg?V=AYDx&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTA1LTA2LzYwMDEwMDkwMDAwNDBfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Bulk-Vegetables-Fruit-Salads/Fresh-Vegetables/Bulk-Everyday-Medium-Potatoes-7-kg/_/A-6001009000040?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Veggie Ramen Noodles with Soy and Ginger Dressing and Chilli Crunch 270 g",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Veggie-Ramen-Noodles-with-Soy-and-Ginger-Dressing-and-Chilli-Crunch-270-g-6009233834622.jpg?V=%24ASX&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAxLTEzLzYwMDkyMzM4MzQ2MjJfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Veggie-Ramen-Noodles-with-Soy-and-Ginger-Dressing-and-Chilli-Crunch-270-g/_/A-6009233834622?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Crumbed Butternut Pops 315 g",
+    "price": 56.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Crumbed-Butternut-Pops-315-g-6009245370538.jpg?V=VvNH&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI2LTAxLTIwLzYwMDkyNDUzNzA1MzhfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Food-Basket/Banners/For-the-Airfryer/Prepared-Vegetables/Crumbed-Butternut-Pops-315-g/_/A-6009245370538?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Half Cabbage",
+    "price": 14.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Half-Cabbage-6009233563249.jpg?V=Y8aa&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA4LTIwLzYwMDkyMzM1NjMyNDlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Half-Cabbage/_/A-6009233563249?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sticky Veggie Rice with Asian Sesame Dressing and Chilli Crunch 335 g",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sticky-Veggie-Rice-with-Asian-Sesame-Dressing-and-Chilli-Crunch-335-g-6009233831751.jpg?V=EPBp&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAxLTEzLzYwMDkyMzM4MzE3NTFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Sticky-Veggie-Rice-with-Asian-Sesame-Dressing-and-Chilli-Crunch-335-g/_/A-6009233831751?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Creamy & Sweet Orange Pumpkin Avg 1.2 kg",
+    "price": 32.49,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Creamy-Sweet-Orange-Pumpkin-Avg-1-2-kg-2578150000006.jpg?V=FfS2&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTA3LTI2LzI1NzgxNTAwMDAwMDZfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Butternut-Pumpkin-Squash/Creamy-Sweet-Orange-Pumpkin-Avg-1-2-kg/_/A-2578150000006?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Chipping Potatoes 2 kg",
+    "price": 47.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Chipping-Potatoes-2-kg-6009245686400.jpg?V=wwtp&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTEyLTE4LzYwMDkyNDU2ODY0MDBfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Chipping-Potatoes-2-kg/_/A-6009245686400?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Pallada Brinjals Min 400 g",
+    "price": 39.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Pallada-Brinjals-Min-400-g-6009245382074.jpg?V=VGaq&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA1LTE0LzYwMDkyNDUzODIwNzRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Pallada-Brinjals-Min-400-g/_/A-6009245382074?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Cauliflower & Beetroot Wraps 4 pk",
+    "price": 64.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Cauliflower-Beetroot-Wraps-4-pk-6009226729669.jpg?V=%24RA0&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTAxLTI0LzYwMDkyMjY3Mjk2NjlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Cauliflower-Beetroot-Wraps-4-pk/_/A-6009226729669?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Ginger & Garlic Paste 250 g",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Ginger-Garlic-Paste-250-g-6009245602332.jpg?V=Ze4L&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI2LTAzLTA2LzYwMDkyNDU2MDIzMzJfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Ginger-Garlic-Paste-250-g/_/A-6009245602332?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Confit Garlic Cloves 140 g",
+    "price": 39.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Confit-Garlic-Cloves-140-g-6009245436791.jpg?V=TX81&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI2LTAzLTA2LzYwMDkyNDU0MzY3OTFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Confit-Garlic-Cloves-140-g/_/A-6009245436791?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Crispy Phyllo Spinach Bake 800 g",
+    "price": 144.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Crispy-Phyllo-Spinach-Bake-800-g-6009233566813.jpg?V=NEW%24&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTEwLTI4LzYwMDkyMzM1NjY4MTNfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Christmas/Festive-Food-Drink/Vegetables-Salads-Sides/Vegetables/Crispy-Phyllo-Spinach-Bake-800-g/_/A-6009233566813?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Cauliflower & Broccoli Avg 400 g",
+    "price": 29.6,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Cauliflower-Broccoli-Avg-400-g-2581190000004.jpg?V=rP1k&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA4LTIwLzI1ODExOTAwMDAwMDRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Cauliflower-Broccoli-Avg-400-g/_/A-2581190000004?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Cherry Tomatoes 400 g",
+    "price": 42.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Cherry-Tomatoes-400-g-6009226758898.jpg?V=dduf&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTI1LzYwMDkyMjY3NTg4OThfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Tomatoes/Cherry-Tomatoes-400-g/_/A-6009226758898?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sweetcorn, Cheese & Chive Waffles 6 pk",
+    "price": 66.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sweetcorn-Cheese-Chive-Waffles-6-pk-6009233564208.jpg?V=F%4005&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAzLTI2LzYwMDkyMzM1NjQyMDhfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/For-The-Air-Fryer/Sweetcorn-Cheese-Chive-Waffles-6-pk/_/A-6009233564208?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Fresh Udon Noodles 250 g",
+    "price": 29.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Fresh-Udon-Noodles-250-g-6009245426310.jpg?V=T8LZ&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTEyLTEyLzYwMDkyNDU0MjYzMTBfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Ready-Meals/Italian-Meals/Pasta-Pesto-Sauces/Fresh-Udon-Noodles-250-g/_/A-6009245426310?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Crumbed Mushrooms with Aioli Mayonnaise 215 g",
+    "price": 62.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Crumbed-Mushrooms-with-Aioli-Mayonnaise-215-g-6009233823398.jpg?V=Ex%402&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAxLTI5LzYwMDkyMzM4MjMzOThfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/For-The-Air-Fryer/Crumbed-Mushrooms-with-Aioli-Mayonnaise-215-g/_/A-6009233823398?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Carrot & Quinoa Wraps 4 pk",
+    "price": 64.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Carrot-Quinoa-Wraps-4-pk-6009226741388.jpg?V=qTBk&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTAxLTI0LzYwMDkyMjY3NDEzODhfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Online-Feature/Recipes/Smashed-Pea-Avo-Pasta-Salad/Carrot-Quinoa-Wraps-4-pk/_/A-6009226741388?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Garlic Sauce 120 g",
+    "price": 39.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Garlic-Sauce-120-g-6009245436807.jpg?V=0l1d&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI2LTAzLTA2LzYwMDkyNDU0MzY4MDdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Garlic-Sauce-120-g/_/A-6009245436807?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Roasted Carrots, Broccoli & Green Beans 270 g",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Roasted-Carrots-Broccoli-Green-Beans-270-g-6009245367309.jpg?V=bywq&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA5LTA0LzYwMDkyNDUzNjczMDlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Ready-to-Micro/Roasted-Carrots-Broccoli-Green-Beans-270-g/_/A-6009245367309?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Crumbed Brinjal Wedges Kit 330 g",
+    "price": 69.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Crumbed-Brinjal-Wedges-Kit-330-g-6009245431451.jpg?V=wu2w&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA5LTA5LzYwMDkyNDU0MzE0NTFfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/For-The-Air-Fryer/Crumbed-Brinjal-Wedges-Kit-330-g/_/A-6009245431451?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Roasted Carrot Chunks with a Glaze 420 g",
+    "price": 52.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Roasted-Carrot-Chunks-with-a-Glaze-420-g-6009245431437.jpg?V=pWUb&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA5LTA5LzYwMDkyNDU0MzE0MzdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/For-The-Air-Fryer/Roasted-Carrot-Chunks-with-a-Glaze-420-g/_/A-6009245431437?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Brussels Sprouts 500 g",
+    "price": 74.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Brussels-Sprouts-500-g-6009226769665.jpg?V=CGtq&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTExLzYwMDkyMjY3Njk2NjVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Brussels-Sprouts-500-g/_/A-6009226769665?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Potato & Carrot Crush with Melted Butter 350 g",
+    "price": 36.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Potato-Carrot-Crush-with-Melted-Butter-350-g-6009233289514.jpg?V=WKfi&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA1LTE3LzYwMDkyMzMyODk1MTRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Potato-Carrot-Crush-with-Melted-Butter-350-g/_/A-6009233289514?isFromPLP=true"
+  }
+]

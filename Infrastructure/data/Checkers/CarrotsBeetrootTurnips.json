@@ -1,0 +1,44 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Beetroot 1kg",
+    "price": 16.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d214c533aab7bced28ac0b?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/beetroot-1kg-10151419EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Baby Carrots 300g",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e16e1a5d93af89d04b7af6?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-carrots-300g-10144942EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Baby Beetroot 340g",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e93b02fa47f2ed8d591fd1?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-beetroot-340g-10469856EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Medium Carrots 500g",
+    "price": 9.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0fa1d749cf491e8b0276c?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/medium-carrots-500g-10641652EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Carrots 3kg",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d96ac15c5e4f0119b1c8eb?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/carrots-3kg-10410516EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Large Carrots 1kg",
+    "price": 17.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d2142516c7ec59032e6716?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/large-carrots-1kg-10641732EA"
+  }
+]

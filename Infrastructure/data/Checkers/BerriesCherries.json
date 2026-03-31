@@ -1,0 +1,65 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Blueberries Export Quality 200g",
+    "price": 59.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0faf333aab7bced38c022?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/blueberries-export-quality-200g-10713084EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Blueberries 125g",
+    "price": 36.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63dcaa735d93af89d04644d2?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/blueberries-125g-10405569EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Mixed Berries 125g (Type May Vary)",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/65dc9318d5c1ca84fba5298b?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/mixed-berries-125g-type-may-vary-10145197EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Blueberries 350g",
+    "price": 94.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0fa6f5d93af89d04aef86?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/blueberries-350g-10388564EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Golden Berries 150g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0faf35d93af89d04af1e9?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/golden-berries-150g-10151584EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Raspberries 200g",
+    "price": 49.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6422b7d6f2935c95d4e3cc02?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/raspberries-200g-10635590EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Raspberries 125g",
+    "price": 39.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d4329833aab7bced2c0ab4?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/raspberries-125g-10145306EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Frooties™ Mini Strawberries 250g",
+    "price": 49.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/67133860648217ebaa4d59a9?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/frooties-mini-strawberries-250g-10904073EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Blackberries 125g",
+    "price": 39.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63dcaa75f8e93eef6589e971?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/blackberries-125g-10145198EA"
+  }
+]

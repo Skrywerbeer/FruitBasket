@@ -1,0 +1,16 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Bananas 650g",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d81cea16c7ec590334f090?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/bananas-650g-10148833EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Bananas 1.2kg",
+    "price": 39.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d4c17816c7ec5903310bb2?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/bananas-12kg-10147193EA"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Gem Squash Sock",
+    "price": 32.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d81b72f8e93eef6585ff6c?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/gem-squash-sock-10145591EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Gem Squash Halves 6s",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/642ad91451c4a9488d6225b0?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/gem-squash-halves-6s-10146418EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Butternut 4kg",
+    "price": 59.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d217275d93af89d03ad767?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/butternut-4kg-10750794EA"
+  }
+]

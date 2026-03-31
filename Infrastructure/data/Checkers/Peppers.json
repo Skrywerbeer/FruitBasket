@@ -1,0 +1,37 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Sweet Baby Peppers 250g",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63de1bcc33aab7bced3586dc?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/sweet-baby-peppers-250g-10161760EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Trio Peppers",
+    "price": 44.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d96985f0cbac537c0f428a?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/trio-peppers-10147322EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Sweet Palermo™ Peppers 300g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/640ad96af97155e7454c7920?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/sweet-palermo-peppers-300g-10811513EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Green Pepper 2's",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d968fbf0cbac537c0f41d7?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/green-pepper-2s-10151429EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Green Peppers 500g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d333fd16c7ec59032f977f?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/green-peppers-500g-10722756EA"
+  }
+]

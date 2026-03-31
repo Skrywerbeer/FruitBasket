@@ -1,0 +1,100 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Prickly Pears 800g",
+    "price": 39.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69aad768b060549fb95f8932?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/prickly-pears-800g-10793999EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Golden Kiwi Fruit ",
+    "price": 59.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69943ceed9e0429e485dc74f?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/golden-kiwi-fruit-10854842EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Queen Pineapple 2s",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/65bb99c52b62290580bc9598?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/queen-pineapple-2s-10151607EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Papaya 1.5kg",
+    "price": 62.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69986e2839803f6677629bad?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/papaya-15kg-10145084EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Coconut",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0f0f1f0cbac537c167912?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/coconut-10145347EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Mangoes 1kg",
+    "price": 44.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69959f87362f2cd2ed623f98?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/mangoes-1kg-10216009EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Kiwi Fruit ",
+    "price": 59.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69943cf0d9e0429e485dc75d?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/kiwi-fruit-10854843EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Kiwi Fruit 2s ",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69943d2e00fa0c06e90e0ca2?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/kiwi-fruit-2s-10933161EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Dragon Fruit 2s",
+    "price": 32.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69aadbc28355c65c90a708f1?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/dragon-fruit-2s-10358473EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Large Queen Pineapple",
+    "price": 26.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e2a38016c7ec59033f332d?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/large-queen-pineapple-10258387EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Granadillas 500g",
+    "price": 49.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69aad7692893bc23f77b69d4?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/granadillas-500g-10793998EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Extra Large Mango",
+    "price": 16.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6995b14fcc13d203a11bfdac?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/extra-large-mango-10381159EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Mangoes Ripe & Ready 2s",
+    "price": 39.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6995ad9d94089bca223e5329?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/mangoes-ripe-and-ready-2s-10151431EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Golden Kiwi Fruit 2s ",
+    "price": 32.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69943d2ed7f90c9dce926e7e?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/golden-kiwi-fruit-2s-10933162EA"
+  }
+]

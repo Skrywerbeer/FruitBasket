@@ -1,0 +1,65 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Kazuti Vine Tomatoes 200g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69120fd402a2e26835dc15df?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/kazuti-vine-tomatoes-200g-10238968EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Roma Tomatoes 1kg",
+    "price": 27.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d8ba3916c7ec5903353c73?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/roma-tomatoes-1kg-10241182EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Cherry Tomatoes 200g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/692dbf5941b41d02d0edda0a?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/cherry-tomatoes-200g-10919278EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Baby Plum Tomatoes 250g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6759742a111cadedce4fbbc5?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-plum-tomatoes-250g-10145423EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Roma Tomatoes 4s",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/67093c104b4877f7e402935f?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/roma-tomatoes-4s-10170387EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Tomatoes 1kg",
+    "price": 28.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d81b6133aab7bced302c4e?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/tomatoes-1kg-10145422EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Tomatoes 4s",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/65bb99cb42338e9f498211a5?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/tomatoes-4s-10158226EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Extra Large Tomatoes 2s",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6852e2cacd0d9ac58e6c49af?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/extra-large-tomatoes-2s-10921016EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Exotic Tomato Medley 250g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63dabaf8749cf491e8aa004c?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/exotic-tomato-medley-250g-10753553EA"
+  }
+]

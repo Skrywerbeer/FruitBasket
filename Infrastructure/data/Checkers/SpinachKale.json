@@ -1,0 +1,44 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Cut Spinach 250g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6900ec515ce0d5db52e37d73?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/cut-spinach-250g-10144928EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Baby Pak Choi 220g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0fa44749cf491e8b0281b?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-pak-choi-220g-10676920EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Baby Spinach 200g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/68ee06f368512c550203cbaa?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-spinach-200g-10456707EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Baby Spinach 125g",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/693686b37d439628061f02c8?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-spinach-125g-10501353EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Spinach Leaf 300g",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0f0bb33aab7bced3897d6?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/spinach-leaf-300g-10144922EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Mixed Kale Bunch",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0fb19f8e93eef658e9379?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/mixed-kale-bunch-10662864EA"
+  }
+]

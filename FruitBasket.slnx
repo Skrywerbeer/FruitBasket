@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ApplicationCore/ApplicationCore.csproj" />
+  <Project Path="Console/Console.csproj" />
+  <Project Path="Infrastructure/Infrastructure.csproj" />
+  <Project Path="Wasm/Wasm.csproj" />
+</Solution>

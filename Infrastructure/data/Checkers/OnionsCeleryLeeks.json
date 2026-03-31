@@ -1,0 +1,107 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Onions 7kg",
+    "price": 69.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6931b3d2b987356d33c34bb0?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/onions-7kg-10162764EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Onions 1kg",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d2d17d5d93af89d03be7a3?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/onions-1kg-10135699EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Leeks 350g",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e171d55d93af89d04b7cd0?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/leeks-350g-10151589EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Baby Leeks 200g",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0fa65f0cbac537c169df2?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/baby-leeks-200g-10634965EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Onion Sock",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/642ad9150697d3e180753305?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/onion-sock-10145592EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Red Onions 1kg",
+    "price": 39.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d81b4e16c7ec590334ef24?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/red-onions-1kg-10135703EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Peeled Onions 1kg",
+    "price": 19.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d81b8b16c7ec590334ef49?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/peeled-onions-1kg-10135701EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Shallots 250g",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d81f345c5e4f0119b08e38?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/shallots-250g-10147208EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Celery 1s",
+    "price": 26.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/69aa8d5750431fa44f04ca9b?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/celery-1s-10151617EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Mixed Onion Sock",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/642bd6540b3aea6f114fc094?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/mixed-onion-sock-10780332EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Celery Fingers 150g",
+    "price": 26.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0fb3116c7ec59033d8e11?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/celery-fingers-150g-10145037EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Pickled Onion 1kg",
+    "price": 17.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63e0f1095c5e4f0119b8f994?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/pickled-onion-1kg-10135702EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Wildeklawer Sweet Onions 1kg",
+    "price": 21.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d969afbb819c5947d891fa?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/wildeklawer-sweet-onions-1kg-10135705EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Onions 2kg",
+    "price": 31.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d2d1e45d93af89d03be809?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/onions-2kg-10135700EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Onions 4kg",
+    "price": 49.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d2172633aab7bced28b117?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/onions-4kg-10750793EA"
+  }
+]

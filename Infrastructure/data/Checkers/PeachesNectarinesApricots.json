@@ -1,0 +1,30 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Nectarines 1.2kg",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d4c526bb819c5947d38369?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/nectarines-12kg-10730380EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Yellow Cling Peach 6s",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d4c16f5d93af89d03d750a?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/yellow-cling-peach-6s-10151441EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Yellow Cling Peaches 1.2kg",
+    "price": 34.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d4c527bb819c5947d38373?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/yellow-cling-peaches-12kg-10721092EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Yellow Cling Peaches 4s",
+    "price": 32.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63da32c8f8e93eef6587c824?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/yellow-cling-peaches-4s-10753546EA"
+  }
+]

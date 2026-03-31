@@ -1,0 +1,219 @@
+[
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Kara Sweet Potatoes 2 kg",
+    "price": 50,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Kara-Sweet-Potatoes-2-kg-6009189631054.jpg?V=ze3%24&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTI4LzYwMDkxODk2MzEwNTRfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-4-pay-for-3/Bulk-Veg-and-Salad-Deal/Bulk-Kara-Sweet-Potatoes-2-kg/_/A-6009189631054?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Butternut 3 kg",
+    "price": 50,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Butternut-3-kg-6009184264479.jpg?V=1GH2&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI2LTAyLTA2LzYwMDkxODQyNjQ0NzlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Bulk-Veg-Combo-Buy-any-4-for-R125/Butternut-3-kg/_/A-6009184264479?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Large Carrots 3 kg",
+    "price": 50,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Large-Carrots-3-kg-6009171229450.jpg?V=iRMR&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA5LTIwLzYwMDkxNzEyMjk0NTBfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Carrots-Beetroot/Bulk-Large-Carrots-3-kg/_/A-6009171229450?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Onions 3 kg",
+    "price": 50,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Onions-3-kg-6009184279770.jpg?V=SA68&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTExLTIxLzYwMDkxODQyNzk3NzBfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Bulk-Veg-Combo-Buy-any-4-for-R125/Onions-3-kg/_/A-6009184279770?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Salad Tomatoes 1.5 kg",
+    "price": 45,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Salad-Tomatoes-1-5-kg-6009223622345.jpg?V=EXkX&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA5LTA0LzYwMDkyMjM2MjIzNDVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Bulk-Vegetables-Fruit-Salads/Bulk-Salad-Tomatoes-1-5-kg/_/A-6009223622345?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Beetroot 2 kg",
+    "price": 50,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Beetroot-2-kg-6009217605538.jpg?V=je8B&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA0LTIyLzYwMDkyMTc2MDU1MzhfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Carrots-Beetroot/Beetroot-2-kg/_/A-6009217605538?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Extra Fine Green Beans 280 g",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Extra-Fine-Green-Beans-280-g-6009173919649.jpg?V=LaCq&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTI1LzYwMDkxNzM5MTk2NDlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Green-Beans-Peas-Mange-Tout/Bulk-Extra-Fine-Green-Beans-280-g/_/A-6009173919649?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Chopped Spinach 400 g",
+    "price": 42.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Chopped-Spinach-400-g-6009175022859.jpg?V=qPec&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA5LTA0LzYwMDkxNzUwMjI4NTlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Spinach-Kale/Bulk-Chopped-Spinach-400-g/_/A-6009175022859?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Mediterranean Roasting Vegetables 800 g",
+    "price": 62.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Mediterranean-Roasting-Vegetables-800-g-6001009021328.jpg?V=EOCF&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTE0LzYwMDEwMDkwMjEzMjhfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Mixed-Veggie-Bags/Mediterranean-Roasting-Vegetables-800-g/_/A-6001009021328?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Juliene Stir-Fry Vegetables 700 g",
+    "price": 54.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Juliene-Stir-Fry-Vegetables-700-g-6009223128649.jpg?V=y%24wA&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIxLTA5LTI4LzYwMDkyMjMxMjg2NDlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Prepared-Vegetables/Stir-Fry/Juliene-Stir-Fry-Vegetables-700-g/_/A-6009223128649?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Rosa Tomato Leaf Salad 450 g",
+    "price": 76.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Rosa-Tomato-Leaf-Salad-450-g-6009101743230.jpg?V=CjA%24&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTExLTExLzYwMDkxMDE3NDMyMzBfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Prepared-Salads/Rosa-Tomato-Leaf-Salad-450-g/_/A-6009101743230?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Sweet Curry Pasta Salad 700 g",
+    "price": 92.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Sweet-Curry-Pasta-Salad-700-g-6009217641727.jpg?V=62BX&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTEwLTE5LzYwMDkyMTc2NDE3MjdfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Prepared-Salads/Sweet-Curry-Pasta-Salad-700-g/_/A-6009217641727?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Classic Potato Salad 1 kg",
+    "price": 84.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Classic-Potato-Salad-1-kg-6009101874415.jpg?V=4H7l&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTAxLTI1LzYwMDkxMDE4NzQ0MTVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Prepared-Salads/Classic-Potato-Salad-1-kg/_/A-6009101874415?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bananas Tray 1.2 kg",
+    "price": 44.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bananas-Tray-1-2-kg-6005000549362.jpg?V=PZgf&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIwLTA4LTI0LzYwMDUwMDA1NDkzNjJfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Fruit/Bananas/Bananas-Tray-1-2-kg/_/A-6005000549362?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bananas Tray 1.2 kg",
+    "price": 44.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bananas-Tray-1-2-kg-20109608.jpg?V=3JAK&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTA1LTEwLzIwMTA5NjA4X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Fruit/Bananas/Bananas-Tray-1-2-kg/_/A-20109608?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Queen Pineapple 600 g",
+    "price": 74.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Queen-Pineapple-600-g-6008000033909.jpg?V=2zLa&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTA4LTAyLzYwMDgwMDAwMzM5MDlfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Fruit/Papaya-Mango-Pineapple-Kiwi-Fruit/Bulk-Queen-Pineapple-600-g/_/A-6008000033909?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Ripen at Home Avocados 1 kg",
+    "price": 78.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Ripen-at-Home-Avocados-1-kg-20144432.jpg?V=GRJh&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA3LTEwLzIwMTQ0NDMyX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Salads-Herbs/Avocados/Ripen-at-Home-Avocados-1-kg/_/A-20144432?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Seasonal Fruit Salad 600 g",
+    "price": 69.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Seasonal-Fruit-Salad-600-g-6008000458788.jpg?V=LoMl&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTAzLTEzLzYwMDgwMDA0NTg3ODhfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Fruit/Cut-Fruit/Bulk-Seasonal-Fruit-Salad-600-g/_/A-6008000458788?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Organic Bananas 1.2 kg",
+    "price": 59.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Organic-Bananas-1-2-kg-6001009037176.jpg?V=e89r&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE4LTEwLTE4LzYwMDEwMDkwMzcxNzZfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Fruit/Bananas/Organic-Bananas-1-2-kg/_/A-6001009037176?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Seasonal Apples 1.5 kg",
+    "price": 41.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Seasonal-Apples-1-5-kg-20069285.jpg?V=XQBi&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA1LTIyLzIwMDY5Mjg1X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Fruit/Apples-Pears/Seasonal-Apples-1-5-kg/_/A-20069285?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Gem Squash 2 kg",
+    "price": 50,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Gem-Squash-2-kg-6008000682732.jpg?V=avQx&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAzLTAzLzYwMDgwMDA2ODI3MzJfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Bulk-Veg-Combo-Buy-any-4-for-R125/Gem-Squash-2-kg/_/A-6008000682732?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Prickly Pears Tray",
+    "price": 58.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Prickly-Pears-Tray-20038953.jpg?V=QF97&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI2LTAyLTI2LzIwMDM4OTUzX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Fruit/Other-Fruit/Prickly-Pears-Tray/_/A-20038953?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Seedless White Grapes 1 kg",
+    "price": 89.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Seedless-White-Grapes-1-kg-20096281.jpg?V=qAzb&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTA1LzIwMDk2MjgxX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Fruit/Grapes/Seedless-White-Grapes-1-kg/_/A-20096281?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Broccoli & Cauliflower Florets 700 g",
+    "price": 56.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Broccoli-Cauliflower-Florets-700-g-20072896.jpg?V=M0Bl&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA3LTAzLzIwMDcyODk2X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Bulk-Vegetables-Fruit-Salads/Fresh-Vegetables/Broccoli-Cauliflower-Florets-700-g/_/A-20072896?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Blackberries 350 g",
+    "price": 94.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Blackberries-350-g-20189624.jpg?V=VWlO&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTAzLTAyLzIwMTg5NjI0X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-save-10-/All-Berries/Bulk-Blackberries-350-g/_/A-20189624?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Soft Citrus Tray 1.8 kg",
+    "price": 57.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Soft-Citrus-Tray-1-8-kg-20027537.jpg?V=GV%40v&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTA3LTEwLzIwMDI3NTM3X2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-Save-20-/Clemengold-Tray-or-Bag/Soft-Citrus-Tray-1-8-kg/_/A-20027537?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Beetroot 1 kg",
+    "price": 26.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Beetroot-1-kg-6009101690282.jpg?V=58NN&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTA2LTI3LzYwMDkxMDE2OTAyODJfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Vegetables/Carrots-Beetroot/Beetroot-1-kg/_/A-6009101690282?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Diced Butternut 800 g",
+    "price": 49.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Diced-Butternut-800-g-20111762.jpg?V=pf%24o&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIzLTEwLTI3LzIwMTExNzYyX2hlcm8uanBnIn0&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Food-Basket/Banners/Summer-Entertaining/Classic-Christmas/Bulk-Diced-Butternut-800-g/_/A-20111762?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Everyday Medium Potatoes 7 kg",
+    "price": 71.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Everyday-Medium-Potatoes-7-kg-6001009000040.jpg?V=AYDx&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTA1LTA2LzYwMDEwMDkwMDAwNDBfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Bulk-Vegetables-Fruit-Salads/Fresh-Vegetables/Bulk-Everyday-Medium-Potatoes-7-kg/_/A-6001009000040?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Cling Peaches Box 1.2 kg",
+    "price": 69.99,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Cling-Peaches-Box-1-2-kg-6009173471215.jpg?V=m%24r%24&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI1LTAyLTA1LzYwMDkxNzM0NzEyMTVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Fruit-Vegetables-Salads/Fresh-Fruit/Cling-Peaches-Box-1-2-kg/_/A-6009173471215?isFromPLP=true"
+  },
+  {
+    "retailer": "Woolworths",
+    "name": "Bulk Everyday Potatoes 3 kg",
+    "price": 50,
+    "imgUrl": "https://assets.woolworthsstatic.co.za/Bulk-Everyday-Potatoes-3-kg-6009184264455.jpg?V=YIlc&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDI0LTExLTI4LzYwMDkxODQyNjQ0NTVfaGVyby5qcGcifQ&w=310&q=85",
+    "itemUrl": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-4-pay-for-3/Bulk-Veg-and-Salad-Deal/Bulk-Everyday-Potatoes-3-kg/_/A-6009184264455?isFromPLP=true"
+  }
+]

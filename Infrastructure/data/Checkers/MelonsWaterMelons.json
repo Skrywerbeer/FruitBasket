@@ -1,0 +1,37 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Red Seedless Medium Watermelon",
+    "price": 99.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/693ac06745cd642845bd81d3?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/red-seedless-medium-watermelon-10145333EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Sweet Melon",
+    "price": 39.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/6981e73ac4fabb6cacbd2fef?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/sweet-melon-10147296EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Large Spanspek",
+    "price": 29.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d43219f0cbac537c09e33a?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/large-spanspek-10145719EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Frooties™ Mini Seedless Watermelon",
+    "price": 39.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/693ac06d8b7d383318183171?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/frooties-mini-seedless-watermelon-10913840EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Exotic Melon",
+    "price": 36.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/697b8148c4fabb6cacb9428c?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/exotic-melon-10742802EA"
+  }
+]

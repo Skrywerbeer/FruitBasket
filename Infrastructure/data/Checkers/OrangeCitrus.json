@@ -1,0 +1,65 @@
+[
+  {
+    "retailer": "Checkers",
+    "name": "Tango Fruit™ 750g",
+    "price": 56.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63dd5dce16c7ec590339d0d2?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/tango-fruit-750g-10741327EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Tango Fruit™ 1.2kg",
+    "price": 84.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63dc0c24f8e93eef6589a693?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/tango-fruit-12kg-10619224EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Frooties™ Mini Tango Fruit™ 750g",
+    "price": 54.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/67ab6f916325e7600feb8a18?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/frooties-mini-tango-fruit-750g-10605942EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Lemons Bag 1.5kg",
+    "price": 39.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63dabb1d33aab7bced329e17?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/lemons-bag-15kg-10798214EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Seedless Lemons 800g",
+    "price": 32.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/66c36fecce2681349890b0cf?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/seedless-lemons-800g-10893448EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Limes 750g",
+    "price": 52.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63dabacfbb819c5947d9cafe?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/limes-750g-10750446EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Oranges 2kg",
+    "price": 62.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d81c4b749cf491e8a78d9e?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/oranges-2kg-10146078EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Lemons 800g",
+    "price": 24.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/63d81baaf8e93eef6585ff9c?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/lemons-800g-10145551EA"
+  },
+  {
+    "retailer": "Checkers",
+    "name": "Lime 4s",
+    "price": 49.99,
+    "imgUrl": "https://catalog.sixty60.co.za/v2/files/65bb99be42338e9f49821194?width=320&height=320",
+    "itemUrl": "https://www.checkers.co.za/product/lime-4s-10145242EA"
+  }
+]
