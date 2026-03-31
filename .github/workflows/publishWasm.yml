@@ -2,7 +2,7 @@ name: publishWasm
 run-name: ${{ github.actor }} Pushed
 on: [push]
 jobs:
-	build-wasm:
+	build:
 		runs-on: ubuntu-latest
 		steps:
 			- uses: actions/checkout@v5
