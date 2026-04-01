@@ -1,6 +1,9 @@
 @using Infrastructure
 
-<li class="@Product.Retailer">
+<li class="@Product.Retailer" 
+    @onclick="ClickHandler"
+    @onclick:stopPropagation="true"
+    >
   <svg>
     
   </svg>
@@ -15,4 +18,10 @@
 
 @code {
   [Parameter] public required Product Product { get; set; }
+  [Parameter] public EventCallback<Product> OnClick { get; set; }
+
+  private async Task ClickHandler()
+  {
+    await OnClick.InvokeAsync(Product);
+  }
 }

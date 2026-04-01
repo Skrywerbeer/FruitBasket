@@ -1,31 +1,59 @@
 @page "/"
+@using System.Collections.Immutable
 @using ApplicationCore
 @using Infrastructure
 @inject ProductProvider provider
 @inject HttpClient client
+@inject IJSRuntime JS
+
 <div id="background"></div>
-<section id="products">
+<section id="products" @onclick="DeselectProduct">
   <h1>@(message)</h1>
-  <input type="text" @bind="search" placeholder="search"/>
+  <input type="text" @bind="search" placeholder="search" />
   <ul>
     @foreach (Product product in provider.ContainedInName(search))
     {
       if (product is null)
         continue;
-      <ProductCard Product="@product" />
+      <ProductCard Product="product" OnClick="SelectProduct" />
     }
   </ul>
 </section>
-
+<SimilarProductsDrawer @ref="Drawer" Open="@(SelectedProduct is not null)" CompareToProduct="SelectedProduct"></SimilarProductsDrawer>
 
 @code 
 {
-  string message;
-  string search = string.Empty;
+  private SimilarProductsDrawer Drawer { get; set; }
+  private string message;
+  private string search = string.Empty;
   private List<Product> _products = new();
+  public Product SelectedProduct { get; set; }
+  
   protected override async Task OnInitializedAsync()
   {
     message = await client.GetStringAsync("data/message.txt");
     await provider.LoadAsync();
+  }
+
+  public void SelectProduct(Product product)
+  {
+    SelectedProduct = product;
+  }
+
+  public void DeselectProduct()
+  {
+    SelectedProduct = null;
+  }
+
+  public void hello()
+  {
+    Console.WriteLine("Hello");
+  }
+  private void HandleEsc(KeyboardEventArgs keyEvent)
+  {
+    // if (keyEvent.Key.Equals("Escape"))
+    //   SelectedProduct = null;
+    Console.WriteLine("in event handler");
+    Console.WriteLine(keyEvent.Key);
   }
 }

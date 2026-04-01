@@ -17,7 +17,6 @@ public class ProductProvider(IProductRepository repository)
 	
 	public IEnumerable<Product> ContainedInName(string name)
 	{
-		Console.WriteLine(name);
 		return 
 			from product in repository.All() 
 			where product.Name.Contains(name, StringComparison.InvariantCultureIgnoreCase)
@@ -33,7 +32,7 @@ public class ProductProvider(IProductRepository repository)
 		{
 			foreach (string part in parts)
 			{
-				if (p.Name.Contains(part))
+				if (p.Name.Contains(part, StringComparison.InvariantCultureIgnoreCase))
 				{
 					similarProducts.Add(p);
 					break;

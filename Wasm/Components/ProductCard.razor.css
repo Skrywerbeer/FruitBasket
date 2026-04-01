@@ -1,15 +1,12 @@
 li.Checkers {
-	/*background: lightblue;*/
 	--RetailerColor: #38a8ae;
 }
 
 li.Woolworths {
 	--RetailerColor: black;
-	/*background: lightgray;*/
 }
 
 li.PickAndPay {
-	/*background: #b32121;*/
 	--RetailerColor: #ba0c2f;
 }
 
@@ -24,10 +21,11 @@ li {
 	background: antiquewhite;
 	box-shadow: 0 32px 32px #0a0a0aa0;
 	transition: all 400ms;
-
+@media(hover: hover) {
 	&:hover {
 		transform: scale(1.05);
 	}
+}
 	
 	& svg {
 		position: absolute;

@@ -1,0 +1,61 @@
+@using ApplicationCore
+@using Infrastructure
+
+@inject ProductProvider provider
+
+@if (CompareToProduct is not null)
+{
+  <ul class=@(Open ? "open" : "closed")>
+    <ProductCard Product="CompareToProduct"></ProductCard>
+    <hr />
+    @foreach (Product product in SimilarProducts ?? new List<Product>())
+    {
+      <ProductCard Product="product"></ProductCard>
+    }
+  </ul>
+}
+
+@code {
+
+  [Parameter]
+  public Product CompareToProduct
+  {
+    get;
+    set
+    {
+      if (value is null)
+        return;
+      field = value;
+      PopulateSimilarProducts(value);
+      StateHasChanged();
+    }
+  }
+
+  [Parameter]
+  public int Limit
+  {
+    get;
+    set
+    {
+      field = value;
+      StateHasChanged();
+    }
+  } = 5;
+  public List<Product> SimilarProducts { get; set; }
+
+  [Parameter]
+  public bool Open
+  {
+    get;
+    set
+    {
+      field = value;
+      StateHasChanged();
+    }
+  } = false;
+  
+  private void PopulateSimilarProducts(Product product)
+  {
+    SimilarProducts = provider.Similar(product).Take(Limit).ToList();
+  }
+}
