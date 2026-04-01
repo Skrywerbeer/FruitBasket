@@ -3,18 +3,17 @@
 
 @inject ProductProvider provider
 
-@if (CompareToProduct is not null)
-{
-  <ul class=@(Open ? "open" : "closed")>
+<ul class=@(Open ? "open" : "closed")>
+  @if (CompareToProduct is not null)
+  {
     <ProductCard Product="CompareToProduct"></ProductCard>
-    <hr />
-    @foreach (Product product in SimilarProducts ?? new List<Product>())
+    <hr/>
+    @foreach (Product product in SimilarProducts)
     {
       <ProductCard Product="product"></ProductCard>
     }
-  </ul>
-}
-
+  }
+</ul>
 @code {
 
   [Parameter]
@@ -23,8 +22,8 @@
     get;
     set
     {
-      if (value is null)
-        return;
+      // if (value is null)
+      //   return;
       field = value;
       PopulateSimilarProducts(value);
       StateHasChanged();
@@ -56,6 +55,11 @@
   
   private void PopulateSimilarProducts(Product product)
   {
-    SimilarProducts = provider.Similar(product).Take(Limit).ToList();
+    if (product is null)
+    {
+      SimilarProducts = new();
+      return;
+    }
+    SimilarProducts = provider.Similar(product, Limit).ToList();
   }
 }
