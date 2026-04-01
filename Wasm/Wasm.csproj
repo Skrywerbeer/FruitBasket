@@ -11,6 +11,11 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="10.0.4" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="10.0.4" PrivateAssets="all" />
   </ItemGroup>
+
+  <ItemGroup>
+    <StaticWebAssetsFingerPrintPattern Include="JSModule" Pattern="*.js"
+                                       Expression="#[.{fingerprint}]!" />
+  </ItemGroup>
   
   <ItemGroup>
     <ProjectReference Include="../ApplicationCore/ApplicationCore.csproj" />
