@@ -24,20 +24,25 @@ public class ProductProvider(IProductRepository repository)
 			select product;
 	}
 
-	public IEnumerable<Product> Similar(Product product)
+	public IEnumerable<Product> Similar(Product product, int count)
 	{
 		string[] parts = product.Name.Split(' ');
 		List<Product> similarProducts = new();
 		foreach (Product p in _products)
 		{
+			if (p == product)
+				continue;
 			foreach (string part in parts)
 			{
-				if (p.Name.Contains(part, StringComparison.InvariantCultureIgnoreCase))
+				if (p.Name.Contains(part))
 				{
 					similarProducts.Add(p);
 					break;
 				}
 			}
+
+			if (similarProducts.Count == count)
+				break;
 		}
 
 		return similarProducts;
