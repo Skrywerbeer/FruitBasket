@@ -9,7 +9,16 @@
 <div id="background"></div>
 <section id="products" @onclick="DeselectProduct">
   <h1>@(message)</h1>
-  <input type="text" @bind="search" placeholder="search" />
+  <input type="search"
+         placeholder="search" 
+         @bind="search" 
+         list="productList"
+         incremental="true"
+         />
+  <datalist id="productList">
+    <option value="apple"></option>
+    <option value="pear"></option>
+  </datalist>
   <ul>
     @foreach (Product product in provider.ContainedInName(search))
     {
