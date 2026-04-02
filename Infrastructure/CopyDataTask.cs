@@ -37,7 +37,7 @@ public class CopyDataTask : Task
 				outputDirInfo.Create();
 			foreach (string inputFilename in Directory.EnumerateFiles(dir))
 			{
-				string outputFilename = Path.Join(outputDirInfo.FullName, Path.GetFileName(inputFilename))
+				string outputFilename = Path.Join(outputDirInfo.FullName, Path.GetFileName(inputFilename));
 				// Skip if the output file is newer than the input file. 
 				if (File.Exists(outputFilename) &&
 					(File.GetCreationTime(outputFilename) > File.GetCreationTime(inputFilename)))
