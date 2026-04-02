@@ -18,7 +18,20 @@ public class Product
 	
 	[JsonPropertyName("itemUrl")]
 	public string ItemUrl { get; set; } = string.Empty;
+	
+	/// <summary>
+	/// Returns the result from <c>Name.Split(' ')</c>
+	/// </summary>
+	/// <returns>Returns a <c>string[]</c> filled with the space
+	/// separated substrings of <c>Name</c></returns>
+	string[] NameTokens()
+	{
+		return Name.Split(' ');
+	}
 
+	/// <summary>
+	/// Convenience function for printing a <c>Product</c> to <c>stdout</c>.
+	/// </summary>
 	public void PrettyPrint()
 	{
 		ConsoleColor foreground = Console.ForegroundColor;
@@ -36,6 +49,4 @@ public class Product
 		Console.ForegroundColor = foreground;
 		Console.BackgroundColor =  background;
 	}
-	
-	
 }
