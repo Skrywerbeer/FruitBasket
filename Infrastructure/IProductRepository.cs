@@ -9,4 +9,5 @@ public interface IProductRepository
 	public Product this[int index] { get; set; }
 	public void Load();
 	public Task LoadAsync();
+	public List<string> Tokens();
 }
