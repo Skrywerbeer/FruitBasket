@@ -1,5 +1,6 @@
 using System;
 using System.Diagnostics;
+using System.Text.Json;
 using Microsoft.Build.Framework;
 using Microsoft.Build.Utilities;
 using Task = Microsoft.Build.Utilities.Task;
@@ -43,19 +44,21 @@ public class CopyDataTask : Task
 					(File.GetCreationTime(outputFilename) > File.GetCreationTime(inputFilename)))
 					continue;
 				string fileContents;
+				
 				using (StreamReader reader = new StreamReader(File.OpenRead(inputFilename)))
 				{
 					fileContents = reader.ReadToEnd();
 				}
-				
-				using (StreamWriter writer = new StreamWriter(File.OpenWrite(outputFilename)))
+
+				using (JsonDocument doc = JsonDocument.Parse(fileContents))
 				{
-					foreach (char character in fileContents.AsSpan())
+					using (Utf8JsonWriter writer = new Utf8JsonWriter(File.OpenWrite(outputFilename), new JsonWriterOptions() {Indented = false}))
 					{
-						if (!char.IsWhiteSpace(character))
-							writer.Write(character);
-					}
+						doc.WriteTo(writer);
+					}					
 				}
+				
+				
 			}
 		}
 	}
