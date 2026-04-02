@@ -16,5 +16,5 @@ jobs:
           git init
           git add .
           git commit -m "Build $(date)"
-          git remote add origin https://Skrywerbeer:$ {{ secrets.PAT }}@github.com/Skrywerbeer/FruitBasketBuild.git
-          git push -f
+          git remote add origin https://Skrywerbeer:${{ secrets.PAT }}@github.com/Skrywerbeer/FruitBasketBuild.git
+          git push origin master -f
