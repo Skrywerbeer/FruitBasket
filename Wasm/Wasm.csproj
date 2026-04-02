@@ -1,10 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
 
+
   <PropertyGroup>
+<!--    <AssemblySearchPaths>$(AssemblySearchPaths);/home/liquidsquid/Portifolio/FruitBasket/Infrastructure/bin/Debug/net10.0;-->
+<!--    </AssemblySearchPaths>-->
     <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <OverrideHtmlAssetPlaceholders>true</OverrideHtmlAssetPlaceholders>
+    
   </PropertyGroup>
 
   <ItemGroup>
@@ -20,13 +24,20 @@
   <ItemGroup>
     <ProjectReference Include="../ApplicationCore/ApplicationCore.csproj" />
     <ProjectReference Include="../Infrastructure/Infrastructure.csproj" />
+    
   </ItemGroup>
-
+  
+  <UsingTask TaskName="CopyDataTask" AssemblyFile="../Infrastructure/bin/Debug/net10.0/Infrastructure.dll"/>
+<!--    <UsingTask TaskName="Infrastructure.CopyDataTask" AssemblyName="Infrastructure"/>-->
+  
+  
   <Target Name="CopyData" AfterTargets="Build">
+    
     <ItemGroup>
       <JsonFiles Include="../Infrastructure/data/**/*.json" />
     </ItemGroup>
-    <Copy SourceFiles="@(JsonFiles)" DestinationFolder="wwwroot/data/%(RecursiveDir)" />
+<!--    <Copy SourceFiles="@(JsonFiles)" DestinationFolder="wwwroot/data/%(RecursiveDir)" />-->
+    <CopyDataTask DataDir="../Infrastructure/data" OutputDir="wwwroot/data" />
   </Target>
   
   <ItemGroup>
