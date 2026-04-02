@@ -27,7 +27,7 @@
     
   </ItemGroup>
   
-  <UsingTask TaskName="CopyDataTask" AssemblyFile="../Infrastructure/bin/Debug/net10.0/Infrastructure.dll"/>
+  <UsingTask TaskName="CopyDataTask" AssemblyFile="../Infrastructure/bin/$(Configuration)/net10.0/Infrastructure.dll"/>
 <!--    <UsingTask TaskName="Infrastructure.CopyDataTask" AssemblyName="Infrastructure"/>-->
   
   
