@@ -16,8 +16,10 @@
          incremental="true"
          />
   <datalist id="productList">
-    <option value="apple"></option>
-    <option value="pear"></option>
+    @foreach (string token in searchTokens)
+    {
+      <option value="@token"></option>
+    }
   </datalist>
   <ul>
     @foreach (Product product in provider.ContainedInName(search))
@@ -35,6 +37,7 @@
   private SimilarProductsDrawer Drawer { get; set; }
   private string message;
   private string search = string.Empty;
+  private List<string> searchTokens = [];
   private List<Product> _products = new();
   public Product SelectedProduct { get; set; }
   
@@ -42,6 +45,7 @@
   {
     message = await client.GetStringAsync("data/message.txt");
     await provider.LoadAsync();
+    searchTokens = await provider.TokensAsync();
   }
 
   public void SelectProduct(Product product)

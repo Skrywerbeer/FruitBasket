@@ -109,4 +109,23 @@ public class ProductHttpRepository : IProductRepository
 		}
 		await Task.WhenAll(taskList);
 	}
+
+	public List<string> Tokens()
+	{
+		var tokenLists = from product in All() select product.Name.Split(' ');
+		List<string> tokens = new();
+		foreach (var tokenList in tokenLists)
+			tokens = tokens.Union(tokenList).ToList();
+		return tokens;
+	}
+
+	public async Task<List<string>> TokensAsync()
+	{
+		var tokenLists = from product in await AllAsync() select product.Name.Split(' ');
+		List<string> tokens = new();
+		foreach (var tokenList in tokenLists)
+			tokens = tokens.Union(tokenList).ToList();
+		tokens.Sort();
+		return tokens;
+	}
 }

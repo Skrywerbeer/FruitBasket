@@ -64,4 +64,18 @@ public class ProductJsonRepository : IProductRepository
 	{
 		throw new NotImplementedException();
 	}
+
+	public List<string> Tokens()
+	{
+		var tokenLists = from product in All() select product.Name.Split(' ').ToList();
+		List<string> tokens = new();
+		foreach (var tokenList in tokenLists)
+			tokens = tokens.Union(tokenList).ToList();
+		return tokens;
+	}
+
+	public Task<List<string>> TokensAsync()
+	{
+		throw new NotImplementedException();
+	}
 }

@@ -57,4 +57,14 @@ public class ProductProvider(IProductRepository repository)
 	{
 		_products = await repository.AllAsync();
 	}
+
+	public List<string> Tokens()
+	{
+		return repository.Tokens();
+	}
+
+	public async Task<List<string>> TokensAsync()
+	{
+		return await repository.TokensAsync();
+	}
 }

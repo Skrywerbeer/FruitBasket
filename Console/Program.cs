@@ -5,7 +5,11 @@ ProductJsonRepository repo = new();
 Console.ForegroundColor = ConsoleColor.White;
 Console.BackgroundColor = ConsoleColor.Black;
 
-foreach (Product product in repo.All())
+// foreach (Product product in repo.All())
+// {
+// 	product.PrettyPrint();
+// }
+foreach (string token in repo.Tokens())
 {
-	product.PrettyPrint();
+	Console.WriteLine(token);
 }

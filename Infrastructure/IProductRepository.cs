@@ -10,4 +10,5 @@ public interface IProductRepository
 	public void Load();
 	public Task LoadAsync();
 	public List<string> Tokens();
+	public Task<List<string>> TokensAsync();
 }
