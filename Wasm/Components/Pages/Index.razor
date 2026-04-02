@@ -8,7 +8,7 @@
 
 <div id="background"></div>
 <section id="products" @onclick="DeselectProduct">
-  <h1>@(message)</h1>
+  <h1>🍉Welcome🍏to🍐Proxy🍍Fruit🥝Mongers🍇Corp🍈</h1>
   <input type="search"
          placeholder="search" 
          @bind="search" 
@@ -35,7 +35,7 @@
 @code 
 {
   private SimilarProductsDrawer Drawer { get; set; }
-  private string message;
+  // private string message;
   private string search = string.Empty;
   private List<string> searchTokens = [];
   private List<Product> _products = new();
@@ -43,7 +43,7 @@
   
   protected override async Task OnInitializedAsync()
   {
-    message = await client.GetStringAsync("data/message.txt");
+    // message = await client.GetStringAsync("data/message.txt");
     await provider.LoadAsync();
     searchTokens = await provider.TokensAsync();
   }
